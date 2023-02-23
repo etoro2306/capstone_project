@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 rcparte0.jpg#0	Vehículo B impacta a vehículo A en cruce.
 rcparte0.jpg#1	Vehículo A es impactado en lateral derecho por vehiculo B en cruce de calles.
 rcparte0.jpg#2	Colisión de vehículo B contra lateral de vehículo A en intersección de calles.
@@ -1128,4 +1127,3 @@ rcparte518.jpg#2	Vehículo B circulaba por una intersección mientras vehículo A i
 rcparte519.jpg#0	Vehículo A se encuentra detenido en estacionamiento y vehículo B impacta por detrás a vehículo A
 rcparte519.jpg#1	Vehículo B colisionó con vehículo A mientras estaba detenido en estacionamiento
 rcparte519.jpg#2	Vehículo A estaba detenido en estacionamiento cuando vehículo B lo impacta por detrás
->>>>>>> 1fac726bd2394c974d1f59f5a2724bd71f564e51
