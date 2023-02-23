@@ -1,0 +1,564 @@
+rcparte0.jpg#0	Vehículo B impacta a vehículo A en cruce de calles.
+rcparte0.jpg#1	Vehículo A es impactado en lateral derecho por vehiculo B en cruce de vías.
+rcparte0.jpg#2	Colisión de vehículo B contra lateral de vehículo A en intersección de calles.
+rcparte1.jpg#0	Vehículo B colisiona a vehículo A en lateral izquierdo en calle doble sentido.
+rcparte1.jpg#1	Mientras intenta doblar hacia la derecha vehículo A es impactado en lateral izquierdo por vehículo B que venía en sentido contrario. 
+rcparte1.jpg#2	Vehículo B impacta en su lateral izquierdo a vehículo A mientras intentaba realizar un giro a la derecha.
+rcparte2.jpg#0	En calle curvada doble sentido, frente de vehículo B colisiona a vehículo A en lateral izquierdo.
+rcparte2.jpg#1	Vehículo A es impactado en su lateral izquierdo por vehículo B mientras transitaban por via doble sentido.
+rcparte2.jpg#2	Vehículo B choca al lateral izquierdo de vehículo A en calle doble sentido.
+rcparte3.jpg#0	Vehículo A cruza de carril e impacta en esquina trasera derecha de vehículo B.
+rcparte3.jpg#1	Vehículo B es chocado en su lateral trasero derecho por vehículo A que traspasa su carril.
+rcparte3.jpg#2	Impacto en lateral derecho de vehículo B por parte de vehículo A que cruza de carril.
+rcparte4.jpg#0	Vehículos A y B colisionan en glorieta.
+rcparte4.jpg#1	Impacto frontal entre vehículos A y B en una glorieta.
+rcparte4.jpg#2	En una glorieta, vehículos A y B chocan partes frontales.
+rcparte5.jpg#0	Vehículo B cruza de carril e impacta sobre parte trasera izquierda de Vehículo A.
+rcparte5.jpg#1	Vehículo A es impactado en su parte trasera izquierda por vehículo B que intentaba salir de la carretera.
+rcparte5.jpg#2	Al intentar abandonar la carretera, vehículo B impacta sobre luneta izquierda de vehículo A.
+rcparte6.jpg#0	Vehículo A se incorpora a carretera y colisiona con vehículo B que transitaba en ella.
+rcparte6.jpg#1	Vehículo B transita por carretera y es colisionado por vehículo A que se incorporaba a ella.
+rcparte6.jpg#2	Vehículo A choca contra vehículo B al querer incorporarse a la carretera.
+rcparte7.jpg#0	En carretera sinuosa de doble sentido, vehículo B impacta a vehículo A que transitaba por carril contrario.
+rcparte7.jpg#1	Vehículo B impacta a vehículo A en carretera doble sentido.
+rcparte7.jpg#2	Vehículo A es chocado por vehículo B que venia circulando en sentido contrario.
+rcparte8.jpg#0	Vehículo B cruza de carril e impacta sobre vehículo A.
+rcparte8.jpg#1	En via sentido único, vehículo A es impactado por vehículo B que trasgrede de carril.
+rcparte8.jpg#2	Vehículos A y B colisionan en via de sentido único.
+rcparte9.jpg#0	En cruce de vías, vehículo A impacta en costado de vehículo B.
+rcparte9.jpg#1	Vehículo B es impactado por vehículo A en cruce de calles.
+rcparte9.jpg#2	Vehículo A choca a vehículo B en cruce de vías.
+rcparte10.jpg#0	Vehículo A dobla hacia la derecha e impacta sobre vehículo B que se encontraba pronto a doblar.
+rcparte10.jpg#1	Mientras hace un giro a la derecha, vehículo A colisiona con vehículo B que estaba por incorporase a la vía.
+rcparte10.jpg#2	Vehículo B es impactado por vehículo A que se encontraba en maniobra de giro a la derecha.
+rcparte11.jpg#0	Choque frontal entre vehículos A y B mientras circulaban en carretera doble sentido.
+rcparte11.jpg#1	Impacto frontal entre vehículos A y B en via doble sentido.
+rcparte11.jpg#2	Vehículos A y B colisionan frontalmente en carretera doble sentido.
+rcparte12.jpg#0	Vehículo B impacta a vehículo A que se incorporaba a carretera.
+rcparte12.jpg#1	Vehículo A es chocado por vehículo B al querer incorporarse a la vía.
+rcparte12.jpg#2	Vehículo A dobla hacia la derecha para incorporarse a carretera y choca con vehículo B que venía circulando por ella.
+rcparte13.jpg#0	Accidente frontal entre vehículos A y B en tanto vehículo A dobla hacia la izquierda para tomar otra calle.
+rcparte13.jpg#1	Vehículo A hace giro a la izquierda para abandonar carretera e impacta con vehículo B que transitaba de frente.
+rcparte13.jpg#2	Vehiculo B impacta frontalmente con vehículo A mientras este último hace giro para abandonar carretera.
+rcparte14.jpg#0	Impacto frontal entre vehículos A y B en cruce de carreteras.
+rcparte14.jpg#1	Choque de frente entre los vehículos A y B en interseccion de calles.
+rcparte14.jpg#2	Vehículos A y B colisionan de frente en un cruce de carreteras.
+rcparte15.jpg#0	Vehículos A y B chocan en salida de glorieta.
+rcparte15.jpg#1	Colisión frontal entre Vehículo B que ingresa a glorieta y vehículo A que la abandona. 
+rcparte15.jpg#2	Vehículo A sale de glorieta e impacta frontalmente con vehículo B que se encuentra ingresando a ella.
+rcparte16.jpg#0	En cruce de carreteras vehículos A y B giran en misma direccion y colisionan.
+rcparte16.jpg#1	Choque de vehículos A y B al doblar en mismo sentido en un cruce de carreteras.
+rcparte16.jpg#2	En intersección de calles, vehículos A y B colisionan al doblar hacia el mismo sentido.
+rcparte17.jpg#0	Vehículo A cruza de carril en calle con doble sentido y colisiona sobre vehículo B.
+rcparte17.jpg#1	Vehículo B es impactado por vehículo A que se cruza de carril en calle con doble sentido.
+rcparte17.jpg#2	Impacto en via doble sentido en tanto vehículo A traspasa carril y colisiona con vehículo B.
+rcparte18.jpg#0	Vehículo B se incorpora a glorieta e impacta con vehículo A que se encontraba circulando en ella.
+rcparte18.jpg#1	Vehículo A se encuentra circulando por una glorieta cuando vehículo B ingresa y lo impacta.
+rcparte18.jpg#2	Colisión en glorieta en tanto vehículo B ingresa e impacta a vehículo A que circulaba sobre ella.
+rcparte19.jpg#0	Vehículo B es impactado desde atrás por vehículo A en via.
+rcparte19.jpg#1	Vehículo A choca a vehículo B por detrás en calle con único sentido.
+rcparte19.jpg#2	Vehículo A embiste a vehículo B en parte trasera sobre calle con sentido único.
+rcparte20.jpg#0	Vehículo A se incorpora a carretera y es impactado por vehículo B que circulaba por ella.
+rcparte20.jpg#1	Vehículo B choca contra vehículo A que se incorporaba a la carretera.
+rcparte20.jpg#2	Vehículo A hace un giro a la derecha para incorporarse a la carretera y es embestido por vehículo B.
+rcparte21.jpg#0	Colisión frontal entre vehículos A y B.
+rcparte21.jpg#1	Vehículos A y B chocan de frente.
+rcparte21.jpg#2	Vehículo A impacta frontalmente contra vehículo B.
+rcparte22.jpg#0	Vehículo B traspasa carril e impacta sobre vehículo A.
+rcparte22.jpg#1	Vehículo A choca con vehículo B que se interpone en el carril.
+rcparte22.jpg#2	Vehículo B gira de carril hacia la derecha e impacta sobre vehículo A que venía circulando por él.
+rcparte23.jpg#0	Vehículo A traspasa carril e impacta sobre vehículo B.
+rcparte23.jpg#1	Vehículo B choca con vehículo A que se interpone en el carril.
+rcparte23.jpg#2	Vehículo A gira de carril hacia la derecha e impacta sobre vehículo B que venía circulando por él.
+rcparte24.jpg#0	Vehículo A se incorpora a calle e impacta en el lateral sobre vehículo B que circulaba por ella.
+rcparte24.jpg#1	Vehículo B circulaba por la calle y es impactado en su costado por vehículo A que aparece por una calle lateral.
+rcparte24.jpg#2	Vehículo A cocha a vehículo B al querer incorporarse a la calle principal.
+rcparte25.jpg#0	Colisión entre vehículos A y B en una glorieta.
+rcparte25.jpg#1	En una glorieta vehículos A y B chocan.
+rcparte25.jpg#2	Vehículos A y B colisionan en una glorieta.
+rcparte26.jpg#0	En intersección de vias vehículos A y B colisionan.
+rcparte26.jpg#1	Choque entre vehículos A y B en intersección de calles.
+rcparte26.jpg#2	Vehículos A y B impactan en intersección de vias con cartel de STOP.
+rcparte27.jpg#0	Vehículo A impacta por detrás a vehículo B.
+rcparte27.jpg#1	Vehículo B es embestido por detrás por parte de vehículo A.
+rcparte27.jpg#2	En via de doble sentido, vehículo A impacta a vehículo B por detrás.
+rcparte28.jpg#0	Vehículos A y B se incorporan a glorieta al mismo tiempo y colisionan.
+rcparte28.jpg#1	Durante una incorporación simultanea a una glorieta, chocan vehículos A y B.
+rcparte28.jpg#2	En una glorieta, colisionan vehículos A y B.
+rcparte29.jpg#0	Choque entre vehículos A y B.
+rcparte29.jpg#1	Vehículos A y B colisionan.
+rcparte29.jpg#2	Accidente entre vehículos A y B.
+rcparte30.jpg#0	Vehículo trasguede carril en carretera e impacta con otro.
+rcparte30.jpg#1	Vehículo es impactado por otro que cruza de carril.
+rcparte30.jpg#2	Choque entre vehículos por cambio abrupto de carril.
+rcparte31.jpg#0	Vehículo realiza giro para abadonar carretera e impacta con otro que venia circulando.
+rcparte31.jpg#1	Al querer abandonar la carretera vehículo se desplaza de carril e impacta con otro.
+rcparte31.jpg#2	Vehículo choca contra otro que se cruza por enfrente al querer tomar salida de carretera.
+rcparte32.jpg#0	Vehículo impacta por detrás a vehículo.
+rcparte32.jpg#1	Vehículo es embestido por detrás por parte de vehículo .
+rcparte32.jpg#2	Vehículo impacta a otro vehículo por detrás que se encontraba detenido frente a cruce peatonal.
+rcparte33.jpg#0	Choque de vehículos en intersección de vias.
+rcparte33.jpg#1	Accidente vehícular en cruce de vias.
+rcparte33.jpg#2	Vehículos colisionan en intersección de vias.
+rcparte34.jpg#0	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
+rcparte34.jpg#1	Colisión por vehículo que trasgrede de carril.
+rcparte34.jpg#2	Giro para cambio de carril provoca colisión vehicular.
+rcparte35.jpg#0	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
+rcparte35.jpg#1	Colisión por vehículo que trasgrede de carril.
+rcparte35.jpg#2	Maniobra de cambio de carril provoca colisión vehicular.
+rcparte36.jpg#0	Giro para cambio de carril provoca colisión vehicular.
+rcparte36.jpg#1	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
+rcparte36.jpg#2	Colisión por vehículo que trasgrede de carril.
+rcparte37.jpg#0	Vehículo impacta por detrás a vehículo.
+rcparte37.jpg#1	Vehículo es embestido por detrás por parte de vehículo.
+rcparte37.jpg#2	Vehículo impacta a otro vehículo por detrás que se encontraba detenido frente a cruce peatonal.
+rcparte38.jpg#0	Vehículo hace giro a la derecha e impacta sobre otro.
+rcparte38.jpg#1	Al realizar giro hacia la derecha vehiculo colisiona a otro.
+rcparte38.jpg#2	Vehículo realiza giro para incorporarse a calle y embiste a otro vehículo.
+rcparte39.jpg#0	Vehículo abandona estacionamiento y choca contra otro que venía circulando.
+rcparte39.jpg#1	Vehículo circula por calle e impacta contra otro que sale de un estacionamiento.
+rcparte39.jpg#2	Choque entre vehículo que sale de estacionamiento hacia la izquierda y es impactado por vehículo que circula por via.
+rcparte40.jpg#0	Vehículo impacta por detrás a vehículo. 
+rcparte40.jpg#1	Vehículo es embestido por detrás por parte de vehículo.
+rcparte40.jpg#2	Vehículo impacta a otro vehículo por detrás.
+rcparte41.jpg#0	Vehículo cambia de carril e impacta sobre otro por detrás.
+rcparte41.jpg#1	Vehículo altera de carril y colisiona a otro por atrás.
+rcparte41.jpg#2	Vehículo impacta en la parte trasera de otro al querer cambiar de carril.
+rcparte42.jpg#0	Vehículo intenta estacionar y es embestido por otro.
+rcparte42.jpg#1	Al realizar maniobras de estacionamiento, vehículo es impactado por detrás.
+rcparte42.jpg#2	Impacto en parte trasera de vehículo que realizaba maniobras de estacionamiento.
+rcparte43.jpg#0	En una glorieta, colisionan vehículos.
+rcparte43.jpg#1	Vehículo se incorpora a glorieta e impacta con otro que circulaba por ella.
+rcparte43.jpg#2	Choque vehícular en glorieta.
+rcparte44.jpg#0	Vehículo altera de carril y colisiona a otro.
+rcparte44.jpg#1	Vehículo cambia de carril e impacta sobre otro.
+rcparte44.jpg#2	Colisión vehicular producto de cambio abrupto de carril.
+rcparte45.jpg#0	Choque vehicular.
+rcparte45.jpg#1	Accidente vehicular.
+rcparte45.jpg#2	Colision vehicular.
+rcparte46.jpg#0	Vehículo se detiene en embotellamiento y es embestido por detrás.
+rcparte46.jpg#1	Vehículo impacta por detrás a otro que se encontraba detenido.
+rcparte46.jpg#2	Vehículo colisona la parte trasera de otro vehículo que se contraba detenido en el tráfico.
+rcparte47.jpg#0	Vehículo es embestido por detrás por parte de otro vehículo.
+rcparte47.jpg#1	Choque trasero entre vehículos.
+rcparte47.jpg#2	Vehículo impacta sobre parte de atrás de otro vehículo.
+rcparte48.jpg#0	Choque frontal entre vehículos.
+rcparte48.jpg#1	Colisión frontal.
+rcparte48.jpg#2	Impacto de frente en accidente vehicular.
+rcparte49.jpg#0	Vehículo se incorpora a glorieta e impacta con otro que circulaba por ella.
+rcparte49.jpg#1	Colisión en glorieta.
+rcparte49.jpg#2	En una glorieta, colisionan dos vehículos.
+rcparte50.jpg#0	Accidente vehicular en via de doble sentido.
+rcparte50.jpg#1	Choque vehícular en carretera.
+rcparte50.jpg#2	Impacto vehícular en carretera.
+rcparte51.jpg#0	Vehículo altera de carril y colisiona a otro.
+rcparte51.jpg#1	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
+rcparte51.jpg#2	Colisión por vehículo que trasgrede de carril.
+rcparte52.jpg#0	Accidente de vehículos A y B en intersección de vías.
+rcparte52.jpg#1	Colisión vehicular de A y B en interseccion de calles.
+rcparte52.jpg#2	Vehículos A y B colisionan en interseccion de vias.
+rcparte53.jpg#0	Vehículo B colsiona a vehículo A en via de sentido único.
+rcparte53.jpg#1	En calle de sentido único, vehículo A es impactado por detrás por parte de vehículo B.
+rcparte53.jpg#2	Vehículo B embiste luneta de vehículo A en via de sentido único.
+rcparte54.jpg#0	Vehículo A se incorpora a glorieta e impacta con vehículo B que circulaba por ella
+rcparte54.jpg#1	Vehículos A y B colisionan en una glorieta.
+rcparte54.jpg#2	Vehículo A ingresa a una glorieta e impacta a vehículo B.
+rcparte55.jpg#0	Vehículo B traspasa de carril e impacta sobre vehiculo A.
+rcparte55.jpg#1	En calle doble carril con sentido único, vehículo B hace un cambio de carril y colisiona con vehículo A.
+rcparte55.jpg#2	Vehículo A es impactado por vehículo B cuando este último hace un cambio de carril.
+rcparte56.jpg#0	En intersección de vias vehículo B impacta a vehículo A.
+rcparte56.jpg#1	Vehículo A recibe impacto de vehículo B cuando ambos arriban a intersección de calles.
+rcparte56.jpg#2	Colisión vehicular entre vehículos A y B en interseccíon de vías.
+rcparte57.jpg#0	Vehículo B impacta a vehículo A mientras ambos circulan por una glorieta.
+rcparte57.jpg#1	En una glorieta, vehículo B impacta a vehículo A.
+rcparte57.jpg#2	Vehículo A es impactado por vehículo B mientras ambos circulan por una glorieta.
+rcparte58.jpg#0	Vehículo A cruza de carril e impacta contra vehículo B.
+rcparte58.jpg#1	Vehículo B es impactado por vehículo A cuando este último hace un cambio de carril.
+rcparte58.jpg#2	Vehículo A hace un giro a la derecha para cambiar de carril y colisiona contra vehículo B que venia circulando.
+rcparte59.jpg#0	Vehículo B hace un giro a la derecha para tomar una calle lateral e impacta con vehículo A que venia de frente.
+rcparte59.jpg#1	Vehículo A choca con vehículo B cuando este útlimo hace un giro a la derecha para tomar una calle lateral.
+rcparte59.jpg#2	Vehículo B gira hacia la derecha e impacta con vehículo A que provenia en sentido contrario.
+rcparte60.jpg#0	En carretera doble sentido, vehículo A cruza e impacta sobre vehículo B.
+rcparte60.jpg#1	Vehículo B es embestido por vehículo A que venía en sentido contrario y se cruza.
+rcparte60.jpg#2	Vehículo A realiza un cambio de carril y a contramano impacta contra vehículo B.
+rcparte61.jpg#0	Choque frontal entre vehículos A y B.
+rcparte61.jpg#1	Accidente vehícular con impacto frontal entre A y B.
+rcparte61.jpg#2	Vehículos A y B impactan frontalmente.
+rcparte62.jpg#0	Vehículo A realiza un giro a la izquierda para incorporarse a una via doble sentido pero imapacta con vehículo B.
+rcparte62.jpg#1	Vehículo B colisiona con vehículo A cuando este último hace un giro a la izquierda desde una calle lateral.
+rcparte62.jpg#2	Vehículo B viene circulando por via de doble sentido cuando desde una calle lateral vehículo A hace un giro a la izquierda y se provoca la colisión.
+rcparte63.jpg#0	Vehículo A cruza de carril e impacta a B en una curva.
+rcparte63.jpg#1	Durante una curva, vehículo A se desvia de carril y choca a vehículo B.
+rcparte63.jpg#2	Vehículo A se desvia de carril y colisiona contra vehículo B durante una curva.
+rcparte64.jpg#0	Vehículo A quiere abandonar la carretera y al girar hacia la derecha impacta contra vehículo B.
+rcparte64.jpg#1	Vehículo A toma salida de la carretera pero al cruzar de carril impacta contra vehículo B.
+rcparte64.jpg#2	Vehículo B mantiene su carril por la carretera pero es impactado por vehículo A que quiere tomar la salida.
+rcparte65.jpg#0	Vehículo A se incorpora a la via e impacta sobre vehículo B que circulaba por ella.
+rcparte65.jpg#1	Vehículo A embiste a vehículo B al incorporarse en una carretera desde un acceso lateral.
+rcparte65.jpg#2	Vehículo B es chocado por vehículo A que ingresaba a la carretera.
+rcparte66.jpg#0	En camino sinuoso de doble sentido vehiculo A cruza de carril y choca a vehículo B.
+rcparte66.jpg#1	Vehículo A cruza a carril contrario e impacta sobre vehículo B en camino sinuoso.
+rcparte66.jpg#2	En una curva de carretera con doble sentido, vehículo A cruza al carril contrario e impacta sobre el vehículo B.
+rcparte67.jpg#0	En una curva de calle con doble sentido, vehículo B cruza de carril e impacta contra vehículo A.
+rcparte67.jpg#1	Vehículo A es chocado por vehículo B que venia de frente en una curva.
+rcparte67.jpg#2	Durante una curva, el vehículo B trasgrede su carril e impacta contra vehículo A que venía en mano contraria.
+rcparte68.jpg#0	En intersección de vias colisionan vehículos A y B.
+rcparte68.jpg#1	Vehículos A y B que conducían en sentido perpendicular colisionan en una intersección de carreteras.
+rcparte68.jpg#2	Colisíon vehicular entre A y B en interseccion de carreteras.
+rcparte69.jpg#0	Vehículo A impacta a vehículo B por detrás en calle de sentido único.
+rcparte69.jpg#1	Vehículo B es impactado en parte trasera por vehículo A en una vía unidireccional.
+rcparte69.jpg#2	Vehículo A choca por atrás a vehículo B.
+rcparte70.jpg#0	Colisión entre vehículos A y B al disputar la misma plaza de estacionamiento.
+rcparte70.jpg#1	Al querer ocupar la misma plaza de estacionamiento, chocan vehículos A y B.
+rcparte70.jpg#2	Vehículos A y B colisionan al querer ambos estacionar en la misma plaza vehicular.
+rcparte71.jpg#0	Vehículo A hace un giro a la derecha para incorporarse a la via e impacta con vehículo B que transitaba por ella.
+rcparte71.jpg#1	Vehículo B transita por una via y colisiona contra Vehículo A que se incorpora a ella desde una calle lateral.
+rcparte71.jpg#2	Con un giro a la derecha vehículo A se incorpora a la calle pero impacta con vehículo B que circulaba por ella.
+rcparte72.jpg#0	Vehículo B impacta a vehículo A por atrás.
+rcparte72.jpg#1	Vehículo A es chocado por detrás por parte de vehículo B.
+rcparte72.jpg#2	Vehículo B colsiona con parte trasera de vehículo A.
+rcparte73.jpg#0	En via de doble sentido, vehículo A cruza de carril y choca contra vehículo B.
+rcparte73.jpg#1	Vehículo B transita por calle con doble sentido cuando es impactado por vehículo A que venia en el sentido contrario.
+rcparte73.jpg#2	Vehículo A cruza hacia carril de sentido contrario e impacta sobre vehículo B.
+rcparte74.jpg#0	Vehículo A se incorpora a glorieta e impacta sobre vehículo B que circulaba en ella.
+rcparte74.jpg#1	Vehículo B circulaba por glorieta cuando es chocado por vehículo A que se incorpora a ella.
+rcparte74.jpg#2	Al querer incorporarse a la glorieta, vehículo A colisiona con vehículo B que se encontraba en ella.
+rcparte75.jpg#0	Vehículo A abandona plaza de estacionamiento e impacta a vehículo B que circulaba por la via.
+rcparte75.jpg#1	Vehículo A se retira del sitio donde estaba estacionado pero impacta contra vehículo B que transitaba por su carril.
+rcparte75.jpg#2	Vehículo B circula por su carril cuando desde la izquierda el vehículo A se incorpora al carril y colisionan.
+rcparte76.jpg#0	Colisión entre vehículos A y B en disputa de la misma plaza de estacionamiento.
+rcparte76.jpg#1	Al querer ocupar la misma plaza de estacionamiento, chocan vehículos A y B.
+rcparte76.jpg#2	Vehículos A y B colisionan al querer ambos estacionar en la misma plaza vehicular.
+rcparte77.jpg#0	Vehículo B quiere tomar la salida de la carretera pero impacta con el vehículo A que realizaba la misma maniobra.
+rcparte77.jpg#1	Al querer abandonar la carretera el vehículo B choca con el vehículo A que se encontraba realizando la misma acción.
+rcparte77.jpg#2	Vehículo B dobla hacia la derecha al querer salir de la carretera pero colisiona con vehículo A.
+rcparte78.jpg#0	Vehículo B realiza un cambio de carril e impacta sobre vehículo A.
+rcparte78.jpg#1	Vehículo A circula por su carril cuando vehículo B hace un cambio de carril desde la derecha hacia la izquierda y lo impacta.
+rcparte78.jpg#2	Vehículo B hace un cambio de carril de derecha a izquierda y colsiona con vehículo A que venia circulando por su carril.
+rcparte79.jpg#0	Vehículo B realiza cambio de carril e impacta al vehículo A.
+rcparte79.jpg#1	Vehículo B realiza un giro a la izquierda para cambiar de carril pero impacta a vehículo A que circulaba por él.
+rcparte79.jpg#2	Vehículo A es impactado por vehículo B cuando este último.
+rcparte80.jpg#0	Vehículos A y B vienen circulando por la misma via y colisionan queriendo cruzar en sentidos opuestos.
+rcparte80.jpg#1	Mientras circulan por la misma calle en paralelo, vehículos A y B chocan al querer doblar en sentidos opuestos.
+rcparte80.jpg#2	Vehículos A y B transitan por la misma via uno junto a otro y colisionan al querer realizar maniobras de giro en sentido cruzado.
+rcparte81.jpg#0	Vehículo B gira hacia la derecha para realizar un cambio de carril pero impacta contra vehículo A que circulaba por él.
+rcparte81.jpg#1	Vehículo A es impactado por vehículo B cuando este último realiza una maniobra de cambio de carril.
+rcparte81.jpg#2	Vehículo B hace un cambio de carril de izquierda a derecha y colsiona con vehículo A que venia circulando por su carril.
+rcparte82.jpg#0	Vehículos A y B colisionan cuando este último realiza un giro hacia la izquierda para tomar calle lateral.
+rcparte82.jpg#1	Vehículo B realiza un giro a la izquierda para tomar calle perpendicular y colisiona con vehículo A. 
+rcparte82.jpg#2	En movimiento de giro hacia la izquierda, vehículo B impacta con vehículo A.
+rcparte83.jpg#0	Vehículo A hace un cambio de carril de izquierda a derecha y colsiona con vehículo B que venia circulando por su carril.
+rcparte83.jpg#1	Vehículo A realiza cambio de carril e impacta al vehículo B.
+rcparte83.jpg#2	Vehículo A cruza de carril y choca contra vehículo B.
+rcparte84.jpg#0	Vehículo B hace un cambio de carril de izquierda a derecha y colsiona con vehículo A que venia circulando por su carril.
+rcparte84.jpg#1	Vehículo B realiza cambio de carril e impacta al vehículo A.
+rcparte84.jpg#2	Vehículo B cruza de carril y choca contra vehículo A.
+rcparte85.jpg#0	Vehículo A cruza de carril y choca contra vehículo B.
+rcparte85.jpg#1	Vehículo A hace un cambio de carril y colsiona con vehículo B que venia circulando por su carril.
+rcparte85.jpg#2	Vehículo A realiza cambio de carril e impacta al vehículo B.
+rcparte86.jpg#0	En intersección vial vehículo B impacta a vehículo A.
+rcparte86.jpg#1	Vehículo A recibe un impacto lateral de vehículo B en una intersección vial.
+rcparte86.jpg#2	En una intersecciíon vial el vehículo B embiste al lateral del vehículo A.
+rcparte87.jpg#0	Vehículo A cruza de carril y choca contra vehículo B.
+rcparte87.jpg#1	Vehículo A hace un cambio de carril y colsiona con vehículo B que venia circulando por su carril.
+rcparte87.jpg#2	Vehículo A realiza cambio de carril e impacta al vehículo B.
+rcparte88.jpg#0	Vehículo B realiza un giro a la izquierda para incorporarse a una via y colisiona con vehículo A.
+rcparte88.jpg#1	Vehículo A es impactado por vehículo B luego de que este último realizara un giro a su izquierda. 
+rcparte88.jpg#2	Al querer doblar a la izquierda hacia otra calle, el vehículo B impacta sobre el vehículo A.
+rcparte89.jpg#0	Vehículo A se encuentra detenido en un cruce de vías cuando es chocado por detrás por el vehículo B.
+rcparte89.jpg#1	Vehículo B embiste por atrás a vehículo A que se encontraba esperando en una esquina.
+rcparte89.jpg#2	Vehículo B colisiona la parte trasera de vehículo A que se encontraba frenado en una intersección vial.
+rcparte90.jpg#0	Vehículo B embiste por atrás a vehículo A.
+rcparte90.jpg#1	Vehículo B colisiona la parte trasera de vehículo A.
+rcparte90.jpg#2	Vehículo B embiste por atrás a vehículo A.
+rcparte91.jpg#0	En una curva de doble carril vehículo A se desvía e impacta contra vehículo B.
+rcparte91.jpg#1	Vehículo B es impactado por vehículo A cuando este último cruza de carril en una curva.
+rcparte91.jpg#2	Vehículo A pierde su carril mientras dobla en una curva y choca contra vehículo B.
+rcparte92.jpg#0	Vehículo B realiza cambio de carril e impacta al vehículo A.
+rcparte92.jpg#1	Vehículo B hace un cambio de carril de izquierda a derecha y colsiona con vehículo A que venia circulando por su carril.
+rcparte92.jpg#2	Vehículo B cruza de carril y choca contra vehículo A.
+rcparte93.jpg#0	Vehículo A se encuentra detenido en un cruce de vías cuando es chocado por detrás por el vehículo B.
+rcparte93.jpg#1	Vehículo B embiste por atrás a vehículo A que se encontraba esperando en una esquina.
+rcparte93.jpg#2	Vehículo B colisiona la parte trasera de vehículo A que se encontraba frenado en una intersección vial.
+rcparte94.jpg#0	Vehículo A se encuentra detenido en un cruce de vías cuando es chocado por detrás por el vehículo B.
+rcparte94.jpg#1	Vehículo B embiste por atrás a vehículo A que se encontraba esperando en una esquina.
+rcparte94.jpg#2	Vehículo B colisiona la parte trasera de vehículo A que se encontraba frenado en una intersección vial.
+rcparte95.jpg#0	Vehículo A se encuentra detenido en un cruce de vías cuando es chocado por detrás por el vehículo B.
+rcparte95.jpg#1	Vehículo B embiste por atrás a vehículo A que se encontraba esperando en una esquina.
+rcparte95.jpg#2	Vehículo B colisiona la parte trasera de vehículo A que se encontraba frenado en una intersección vial.
+rcparte96.jpg#0	En calle con doble carril colisionan vehículos A y B.
+rcparte96.jpg#1	Choque entre vehículos A y B en calle con múltiples carriles.
+rcparte96.jpg#2	Vehícules A y B colisionan en calle con doble carril.
+rcparte97.jpg#0	Choque frontal entre vehículos A y B.
+rcparte97.jpg#1	Vehículos A y B colisionan frontalmente.
+rcparte97.jpg#2	Accidente frontal entre vehículos A y B.
+rcparte98.jpg#0	Vehículo A ingresa a glorieta e impacta sobre vehículo B que circulaba por ella.
+rcparte98.jpg#1	Vehículo B circulaba por una glorieta cuando vehículo A ingresa a ella y lo impacta.
+rcparte98.jpg#2	Colisión vehicular en una glorieta entre vehículos A y B.
+rcparte99.jpg#0	Colisión vehicular entre vehículos A y B en una intersección vial.
+rcparte99.jpg#1	En un cruce de vías chocan vehículos A y B.
+rcparte99.jpg#2	Vehículos A y B colisionan en un cruce de calles.
+rcparte100.jpg#0	Vehículo A embiste por atrás a vehículo B.
+rcparte100.jpg#1	Vehículo A colisiona la parte trasera de vehículo B.
+rcparte100.jpg#2	Vehículo A embiste por atrás a vehículo B.
+rcparte101.jpg#0	Vehículo A embiste por atrás a vehículo B.
+rcparte101.jpg#1	Vehículo A colisiona la parte trasera de vehículo B.
+rcparte101.jpg#2	Vehículo A embiste por atrás a vehículo B.
+rcparte102.jpg#0	Vehículo A cruza semáforo en rojo y es impactado por vehículo B.
+rcparte102.jpg#1	Vehículo B choca a vehículo A cuando este último no respeta un semáforo en rojo.
+rcparte102.jpg#2	Vehículo A avanza con semáforo en rojo y es chocado por vehículo B.
+rcparte103.jpg#0	Choque frontal entre vehículos A y B.
+rcparte103.jpg#1	Vehículos A y B colisionan frontalmente.
+rcparte103.jpg#2	Accidente frontal entre vehículos A y B.
+rcparte104.jpg#0	Vehículo B ingresa a glorieta e impacta sobre vehículo A que circulaba por ella.
+rcparte104.jpg#1	Vehículo A circulaba por una glorieta cuando vehículo B ingresa a ella y lo impacta.
+rcparte104.jpg#2	Colisión vehicular en una glorieta entre vehículos A y B.
+rcparte105.jpg#0	Vehículo B realiza cambio de carril e impacta al vehículo A.
+rcparte105.jpg#1	Vehículo B hace un cambio de carril y colsiona con vehículo A que venia circulando por su carril.
+rcparte105.jpg#2	Vehículo B cruza de carril y choca contra vehículo A.
+rcparte106.jpg#0	Choque entre vehículos A y B en intersección de calles.
+rcparte106.jpg#1	Vehículos A y B colisionan en cruce de vías.
+rcparte106.jpg#2	En interseccíon vial colisionan vehículos A y B.
+rcparte107.jpg#0	Choque entre vehículos A y B en intersección de calles.
+rcparte107.jpg#1	Vehículos A y B colisionan en cruce de vías.
+rcparte107.jpg#2	En interseccíon vial colisionan vehículos A y B.
+rcparte108.jpg#0	Vehículo B impacta vehículo A en incorporación de vía alterna a vía principal
+rcparte108.jpg#1	Vehículo A es impactado en lateral derecho por vehículo B
+rcparte108.jpg#2	Colisión frontal del vehículo B contra lateral izquierdo del vehículo A en incorporación de vía alterna 
+rcparte109.jpg#0	Vehículo B impacta vehículo A al circular por una plaza de sentido giratorio 
+rcparte109.jpg#1	Vehículo A es impactado en lateral izquierdo por vehículo B mientras circulaba por una plaza de sentido giratorio
+rcparte109.jpg#2	Colisión lateral de vehículo A con vehículo B al circular por una plaza de sentido giratorio
+rcparte110.jpg#0	Vehículo B impacta vehículo A en lateral izquierdo mientras giraba a la izquierda
+rcparte110.jpg#1	Vehículo A es impactado en lateral izquierdo al no respetar la señal de preferencia 
+rcparte110.jpg#2	Colisión frontal de Vehículo B al vehículo A no respetar la señal de preferencia en cruce de vías
+rcparte111.jpg#0	 Vehículo A es impactado en lateral derecho por vehículo B
+rcparte111.jpg#1	Vehículo B impacta vehículo A mientras adelantaba vehículo detenido en la vía
+rcparte111.jpg#2	Colisión lateral izquierdo de vehículo B con vehículo A mientras adelantaba vehículo detenido en la vía
+rcparte112.jpg#0	Vehículo B impacta vehículo A en la parte trasera al no respetar semáforo en rojo
+rcparte112.jpg#1	Vehículo A es impactado en el área trasera al vehículo B no respetar semáforo en rojo
+rcparte112.jpg#2	Vehículo B colisionó en la parte de atrás al Vehículo A que circulaba en el mismo sentido y en el mismo carril
+rcparte113.jpg#0	Vehículo A es impactado en lateral izquierdo por vehículo B en cruce de vías
+rcparte113.jpg#1	Vehículo B impacta vehículo A al ir de la derecha (en un cruce) 
+rcparte113.jpg#2	Colisión lateral derecho de vehículo B al venir de la derecha (en un cruce) 
+rcparte114.jpg#0	Vehículo A impacta vehículo B dando marcha atrás mientras salía de un estacionamiento 
+rcparte114.jpg#1	Vehículo B es impactado por lateral derecho cuando vehículo A salía de un estacionamiento
+rcparte114.jpg#2	Colisión trasera vehículo A al salir de un estacionamiento 
+rcparte115.jpg#0	Vehículo A es impactado en lateral izquierdo por vehículo B cuando salía de un estacionamiento
+rcparte115.jpg#1	Vehículo B impacta vehículo A en lateral izquierdo
+rcparte115.jpg#2	Colisión frontal de vehículo B cuando vehículo A salía de un estacionamiento
+rcparte116.jpg#0	Vehículo A es impactado en lateral izquierdo por vehículo B mientras circulaba por una plaza de sentido giratorio
+rcparte116.jpg#1	Vehículo B impacta vehículo A mientras circulaba por una plaza de sentido giratorio
+rcparte116.jpg#2	Colisión lateral derecha de vehículo B con vehículo A cuando entraba a una plaza de sentido giratorio 
+rcparte117.jpg#0	Vehículo A impacta vehículo B cuando giraba a la derecha 
+rcparte117.jpg#1	Vehículo B es impactado por vehículo A cuando giraba a la derecha y no respetar la señal de preferencia en cruce de vías
+rcparte117.jpg#2	Colisión lateral izquierdo de vehículo A con vehículo B cuando giraba a la derecha y no respetar la señal de preferencia en cruce de vías
+rcparte118.jpg#0	Vehículo B impacta vehículo A que circulaba en el mismo sentido y en el mismo carril 
+rcparte118.jpg#1	Vehículo A es impactado por vehículo B en cruce de vías
+rcparte118.jpg#2	Colisión frontal vehículo B con vehículo A que circulaba en el mismo sentido y en el mismo carril 
+rcparte119.jpg#0	Vehículo B impacta vehículo A en incorporación a vía principal de doble sentido
+rcparte119.jpg#1	Vehículo A es impactado en lateral izquierdo cuando vehículo B se incorporaba en vía principal de doble sentido
+rcparte119.jpg#2	Colisión lateral derecho de vehículo B cuando se incorporaba en vía principal de doble sentido
+rcparte120.jpg#0	Colisión frontal de vehículo B con vehículo A en calle curvada doble sentido mientras adelantaba
+rcparte120.jpg#1	Vehículo A es impactado en área trasera por vehículo B en calle curvada doble sentido mientras adelantaba
+rcparte120.jpg#2	Vehículo B impacta a vehículo A mientras adelantaba en calle curvada doble sentido
+rcparte121.jpg#0	Vehículo A impacta a vehículo B en incorporación a vía principal
+rcparte121.jpg#1	Vehículo B es impactado en lateral derecho por vehículo A
+rcparte121.jpg#2	Colisión frontal vehículo A con vehículo B en incorporación a vía principal
+rcparte122.jpg#0	Vehículo A impacta a Vehículo B no respetar semáforo en rojo
+rcparte122.jpg#1	Vehículo B es impactado en lateral derecho por vehículo A 
+rcparte122.jpg#2	Colisión lateral izquierdo de Vehículo A al no respetar semáforo en rojo
+rcparte123.jpg#0	Vehículo A impacta vehículo B que estaba estacionado
+rcparte123.jpg#1	Vehículo B es impactado por vehículo A que daba marcha atrás cuando iba a estacionar
+rcparte123.jpg#2	Colisión trasera vehículo A dando marcha atrás cuando iba a estacionar
+rcparte124.jpg#0	Vehículo A es impactado en área trasera por vehículo B en incorporación a vía principal
+rcparte124.jpg#1	Vehículo B impacta a vehículo A en incorporación a vía principal al no respetar la señal de preferencia en cruce de vías
+rcparte124.jpg#2	Colisión frontal vehículo B en incorporación a vía principal al no respetar la señal de preferencia en cruce de vías
+rcparte125.jpg#0	Vehículo A es impactado en área trasera por vehículo B en cruce de vías
+rcparte125.jpg#1	Vehículo B impacta vehículo A al no respetar la señal de preferencia en cruce de vías
+rcparte125.jpg#2	Colisión trasera vehículo A en cruce de vías
+rcparte126.jpg#0   	Vehículo A es impactado lateral derecho por vehículo B mientras salía de vía principal
+rcparte126.jpg#1	Vehículo B impacta vehículo A mientras giraba a la izquierda en salía de vía principal
+rcparte126.jpg#2	Colisión vehículo B lateral derecho mientras giraba a la izquierda en salía de vía principal
+rcparte127.jpg#0	Vehículo B impacta a vehículo A en marcha atrás cuando iba a estacionar
+rcparte127.jpg#1	Vehículo A es impactado en área frontal por vehículo B 
+rcparte127.jpg#2	Colisión trasera vehículo B en marcha atrás cuando iba a estacionar
+rcparte128.jpg#0	Vehículo A impacta el lateral iziquierdo del vehículo B
+rcparte128.jpg#1	Vehículo B no respetó la señal de preferencia
+rcparte128.jpg#2	Vehículo B venía de la derecha en un cruce
+rcparte129.jpg#0	Vehículo B impacta el lateral izquierdo del vehículo A
+rcparte129.jpg#1	Vehículo B no respetó la señal de preferencia al girar a la izquierda
+rcparte129.jpg#2	Vehículo B invadóa la parte reservada a la circulación en sentido inverso
+rcparte130.jpg#0	Vehículo A impacta el lateral izquierdo del vehículo B
+rcparte130.jpg#1	Vehículo B venía de la derecha en un cruce
+rcparte130.jpg#2	Vehículo B no respetó la señal de preferencia
+rcparte131.jpg#0	Vehículo A impacta parte trasera del vehículo B
+rcparte131.jpg#1	Vehículos A y B circulaban en el mismo sentido y en el mismo carril
+rcparte131.jpg#2	Vehículo B estaba parado
+rcparte132.jpg#0	Vehículo A y B chocan frotnalmente
+rcparte132.jpg#1	Vehículo B adelantaba a un tercero
+rcparte132.jpg#2	Vehículo B invadía la parte reservada a la circulación en sentido inverso
+rcparte133.jpg#0	Vehículo A impacta faro izquierdo trasero del vehículo B
+rcparte133.jpg#1	Vehículo B adelantaba a un tercero
+rcparte133.jpg#2	Circulaban en el mismo sentido y en el mismo carril
+rcparte134.jpg#0	Vehículo A y B impactan frontalmente
+rcparte134.jpg#1	Vehículo A invadía la parte reservada al carril contrario
+rcparte134.jpg#2	Vehículo A salía de una plaza de sentido giratorio
+rcparte135.jpg#0	Vehículo A impacta lateral izquierdo del vehículo B
+rcparte135.jpg#1	Vehículo B no respetó la señal de preferencia
+rcparte135.jpg#2	Vehículo B venía de la derecha en un cruce
+rcparte136.jpg#0	Vehículo A y B impactan frontalmente
+rcparte136.jpg#1	Vehículo B circulaba en sentido contrario
+rcparte136.jpg#2	Vehículo A circulaba en una plaza de sentido giratorio
+rcparte137.jpg#0	Vehículo A impacta foco izquierdo trasero de vehículo B
+rcparte137.jpg#1	Vehículo B salía de un estacionamiento
+rcparte137.jpg#2	Vehículos A y B circulaban en el mismo carril 
+rcparte138.jpg#0	Vehículo A impacta lado izquierdo de vehículo B
+rcparte138.jpg#1	Vehículo B salía de un estacionamiento
+rcparte138.jpg#2	Vehículo B invadía carril completo al hacer un giro en U 
+rcparte139.jpg#0	Vehículo A y B chocan frontalmente
+rcparte139.jpg#1	Vehículo B adelantaba a un tercero
+rcparte139.jpg#2	Vehículo B invadía carril contrario
+rcparte140.jpg#0	Vehículo B impacta con la parte frontal de vehículo A
+rcparte140.jpg#1	Vehículo B daba marcha atrás
+rcparte140.jpg#2	Vehículo A estaba estacionado
+rcparte141.jpg#0	Vehículo B impacta lateral izquierdo de vehículo A
+rcparte141.jpg#1	Vehículo B invade carril contrario
+rcparte141.jpg#2	Vehículo B no respetó la señal de preferencia
+rcparte142.jpg#0	Vehículo A impacta parte trasera de B
+rcparte142.jpg#1	Vehículos se encuentran en una plaza de sentido giratorio
+rcparte142.jpg#2	Vehículos A y B circulan en el mismo sentido
+rcparte143.jpg#0	Vehículo A impacta lateral derecho de B
+rcparte143.jpg#1	Vehículo B se encuentra en una plaza de sentido giratorio
+rcparte143.jpg#2	Vehículo A no respetó la señal de preferencia
+rcparte144.jpg#0	Vehículo A impacta parte trasera de B
+rcparte144.jpg#1	Vehículo B se encuentra parado
+rcparte144.jpg#2	Vehículos A y B circulan en el mismo sentido
+rcparte145.jpg#0	Vehículo B impacta parte trasera de vehículo A
+rcparte145.jpg#1	Vehículo A se encuentra parada
+rcparte145.jpg#2	Vehículo B se dispone a desaparcar marcha atrás
+rcparte146.jpg#0	Vehículo A impacta faro derecho trasero de B
+rcparte146.jpg#1	Vehículo B se encuentra estacionado
+rcparte146.jpg#2	Vehículo A iba a estacionar
+rcparte147.jpg#0	Vehículo B impacta parte trasera de A
+rcparte147.jpg#1	Vehículos A y B circulan en el mismo sentido 
+rcparte147.jpg#2	Vehículos A y B circulaban en el mismo carril
+rcparte148.jpg#0	Impacto vehícular en cruce de calles.
+rcparte148.jpg#1	En un cruce de calles vehículos A y B colisionan.
+rcparte148.jpg#2	Vehículo A circula por calle cuando aparece vehículo B desde una via lateral y colisionan.
+rcparte149.jpg#0	Choque en glorieta entre vehículo A que circulaba por ella y vehículo B que ingresaba.
+rcparte149.jpg#1	Colisión vehícular en glorieta.
+rcparte149.jpg#2	En una glorieta, vehículo B ingresa a la misma e impacta con vehículo A que venía circulando.
+rcparte150.jpg#0	Vehículo B realiza cambio de carril e impacta contra vehículo A.
+rcparte150.jpg#1	Vehículo A es impactado por vehículo B cuando este ultimo produce un cambio de carril.
+rcparte150.jpg#2	Vehículo B intenta realizar un cambio de carril y colisiona con vehículo A.
+rcparte151.jpg#0	Vehículo A choca por detrás a vehículo B.
+rcparte151.jpg#1	Vehículo B es impactado en parte trasera por vehículo A.
+rcparte151.jpg#2	En via de unico sentido, vehículo A impacta a vehículo B por detrás.
+rcparte152.jpg#0	Vehículo B intenta tomar salida de carretera pero impacta con vehículo A.
+rcparte152.jpg#1	Vehículo B gira a la derecha para abandonar via pero colisiona con vehículo A.
+rcparte152.jpg#2	Vehículo A es impactado por vehículo B cuando este ultimo intenta abandonar la carretera.
+rcparte153.jpg#0	Choque frontal entre vehículos A y B.
+rcparte153.jpg#1	Colisión frontal entre vehículos A y B.
+rcparte153.jpg#2	Vehículos A y B colisionan frontalmente.
+rcparte154.jpg#0	Vehículo B se incorpora a la via con un giro a la derecha pero impacta con vehículo A.
+rcparte154.jpg#1	Vehículo A circula por una via cuando es impactado por vehículo B que se incorpora a ella.
+rcparte154.jpg#2	Vehículo B gira a la derecha y choca contra vehículo A.
+rcparte155.jpg#0	Vehículo A abandona estacionamiento e impacta con vehículo B que venia circulando.
+rcparte155.jpg#1	Vehículo B es impactado por vehículo A cuando este ultimo hace maniobras para abandonar su lugar de estacionamiento.
+rcparte155.jpg#2	Vehículo A sale de su lugar de estacionamiento y colisiona con vehículo B que circulaba por la via.
+rcparte156.jpg#0	Vehículo B choca por detrás a vehículo A.
+rcparte156.jpg#1	Vehículo A es impactado en parte trasera por vehículo B.
+rcparte156.jpg#2	En via de unico sentido, vehículo B impacta a vehículo A por detrás.
+rcparte157.jpg#0	Vehículos A y B colisionan en glorieta.
+rcparte157.jpg#1	En una glorieta, vehículos A y B chocan.
+rcparte157.jpg#2	Colisión entre vehículos A y B en una glorieta.
+rcparte158.jpg#0	Vehículos A y B colisionan en glorieta.
+rcparte158.jpg#1	En una glorieta, vehículos A y B chocan.
+rcparte158.jpg#2	Colisión entre vehículos A y B en una glorieta.
+rcparte159.jpg#0	Vehículo B es impactado por vehículo A que aparece por calle aledaña.
+rcparte159.jpg#1	Cuando vehículo A quiere incorporarse a la via impacta contra vehículo B.
+rcparte159.jpg#2	Vehículo A impacta el costado de vehículo B al querer incorporarse a la via.
+rcparte160.jpg#0	Vehículo B impacta por detrás a vehículo A.
+rcparte160.jpg#1	Vehículo A es embestido por detrás por parte de vehículo B.
+rcparte160.jpg#2	Vehículo B impacta a otro vehículo por detrás.
+rcparte161.jpg#0	Vehículo A es impactado por vehículo B cuando este último hace un cambio de carril.
+rcparte161.jpg#1	En calle doble carril con sentido único, vehículo B hace un cambio de carril y colisiona con vehículo A.
+rcparte161.jpg#2	Vehículo B traspasa de carril e impacta sobre vehiculo A.
+rcparte162.jpg#0	Vehículo A quiere abandonar la carretera y al girar hacia la izquierda impacta contra vehículo B.
+rcparte162.jpg#1	Vehículo A toma salida de la carretera pero al cruzar de carril impacta contra vehículo B.
+rcparte162.jpg#2	Vehículo B mantiene su carril por la carretera pero es impactado por vehículo A que quiere tomar la salida.
+rcparte163.jpg#0	Vehículos A y B que conducían en sentido perpendicular colisionan en una intersección de carreteras.
+rcparte163.jpg#1	En intersección de vias colisionan vehículos A y B.
+rcparte163.jpg#2	Colisíon vehicular entre A y B en interseccion de carreteras.
+rcparte164.jpg#0	Vehículos A y B que conducían en sentido perpendicular colisionan en una intersección de carreteras.
+rcparte164.jpg#1	En intersección de vias colisionan vehículos A y B.
+rcparte164.jpg#2	Colisíon vehicular entre A y B en interseccion de carreteras.
+rcparte165.jpg#0	Vehículo B impacta a vehículo A en una curva.
+rcparte165.jpg#1	Durante una curva, el vehículo A es impactado por vehículo B que venia por detras.
+rcparte165.jpg#2	Vehículo B choca el lateral del vehículo A durante una curva.
+rcparte166.jpg#0	Vehículo A se quiere incorporar a la via pero colisiona con vehículo B que transitaba por ella.
+rcparte166.jpg#1	Vehículo A ingresa a una via pero choca con el vehículo B que circulaba por ella.
+rcparte166.jpg#2	Al querer ingresar a la via, el vehículo A choca al vehículo B que circulaba en ella.
+rcparte167.jpg#0	En camino sinuoso, el vehículo A choca al vehículo B por detrás.
+rcparte167.jpg#1	El vehículo B es impactado en la parte trasera por parte del vehículo A en un camino sinuoso.
+rcparte167.jpg#2	Durante un camino sinuoso, el vehículo A impacta al vehículo B en la parte trasera.
+rcparte500.jpg#0	Vehículo B cambiaba de carril mientras vehículo A circulaba en el mismo sentido y en carril diferente.
+rcparte500.jpg#1	Vehículo B impactó a vehículo A mientras cambiaba de carril.
+rcparte500.jpg#2	Mientras vehículo A circulaba en el mismo sentido, vehículo B cambiaba de carril e impactó con vehículo A
+rcparte501.jpg#0	Vehículo A entraba a una plaza de sentido giratorio e impactó a vehículo B que circulaba por una plaza de sentido giratorio.
+rcparte501.jpg#1	Vehículo A ingresaba a una plaza de sentido giratorio e impactó a vehículo B que andaba por una plaza de sentido giratorio.
+rcparte501.jpg#2	Mientras vehículo B circulaba por una plaza de sentido giratorio, vehículo A ingresaba a la plaza de sentido giratorio e impacta con vehículo B
+rcparte502.jpg#0	vehículo B colisionó en la parte de atrás al vehículo A que circulaba en el mismo carril.
+rcparte502.jpg#1	Mientras el vehículo A circulaba en su carril, vehículo B impactó por la parte trasera.
+rcparte502.jpg#2	Vehículo A circulaba en la misma dirección que vehículo B, vehículo B impactó en la parte trasera de vehículo A.
+rcparte503.jpg#0	vehículo B no respetó señal de stop y colisionó con vehículo A en una intersección
+rcparte503.jpg#1	vehículo B impactó con vehículo A en una intersección, vehículo B no respetó señal de stop
+rcparte503.jpg#2	vehículo A circulaba por su carril mientras que vehículo B, quien no respetó la señal de stop, impactó a vehículo A en una intersección 
+rcparte504.jpg#0	Vehículo B venía de la derecha en una entrada mientras que vehículo A impactó al vehículo B
+rcparte504.jpg#1	Vehículo A circulaba por su carril e impactó con vehículo B que ingresaba por la derecha en una entrada
+rcparte504.jpg#2	Vehículo B ingresaba por la derecha a la vía principal, mientras que vehículo A circulaba por su carril e impacta con vehículo B.
+rcparte505.jpg#0	Vehículo A circulaba por una curva, mientras que vehículo B, que se encontraba en el mismo sentido en carril diferente, impactó a Vehículo A 
+rcparte505.jpg#1	Vehículo B se encontraba en una curva e impactó a vehículo A.
+rcparte505.jpg#2	Vehículo A y vehículo B se encontraban en una curva y vehículo B impactó a vehículo A
+rcparte506.jpg#0	Vehículo A impactó a vehículo B en una plaza de sentido giratorio.
+rcparte506.jpg#1	Vehículo B circulaba en una plaza de sentido giratorio, cuando el vehículo A lo impactó
+rcparte506.jpg#2	Vehículo A y vehículo B circulaban en plaza de sentido giratorio, cuando vehículo A lo impactó por la parte trasera.
+rcparte507.jpg#0	Vehículo A impactó a vehículo B en un cruce.
+rcparte507.jpg#1	Vehículo A colisionó con vehículo B en una intersección
+rcparte507.jpg#2	Vehículo B circulaba por una intersección mientras vehículo A impactó vehículo B al tratar de pasar el mismo cruce.
+rcparte508.jpg#0	Vehículo A cambiaba de carril mientras vehículo B circulaba en el mismo sentido y en carril diferente.
+rcparte508.jpg#1	Mientras vehículo B circulaba en el mismo sentido, vehículo A cambiaba de carril e impactó con vehículo B
+rcparte508.jpg#2	Vehículo A impactó a vehículo B mientras cambiaba de carril
+rcparte509.jpg#0	Vehículo B se encontraba en una curva e impactó a vehículo A.
+rcparte509.jpg#1	Vehículo B estaba en una curva e impactó a vehículo A.
+rcparte509.jpg#2	Vehículo A circulaba por una curva, mientras que vehículo B, que se encontraba en el mismo sentido en carril diferente, impactó a Vehículo A
+rcparte510.jpg#0	Vehículo A estaba parado debido a una señal de stop y B impacta con A por detrás
+rcparte510.jpg#1	Vehículo B colisiona con vehículo A mientras vehículo A estaba detenido en una señal de stop.
+rcparte510.jpg#2	Vehículo A detenido por una señal de stop y B impacta con A por atrás
+rcparte511.jpg#0	Vehículo A venía de la derecha en una entrada mientras que vehículo B impactó al vehículo A
+rcparte511.jpg#1	Vehículo A circulaba por su carril e impactó con vehículo B que ingresaba por la derecha en una entrada
+rcparte511.jpg#2	Vehículo B ingresaba por la derecha a la vía principal e impacta con vehículo A, mientras que vehículo A circulaba por su carril.
+rcparte512.jpg#0	Mientras vehículo B circulaba por una plaza de sentido giratorio, vehículo A ingresaba a la plaza de sentido giratorio e impacta con vehículo B
+rcparte512.jpg#1	Vehículo A ingresaba a una plaza de sentido giratorio e impactó a vehículo B que andaba por una plaza de sentido giratorio.
+rcparte512.jpg#2	Vehículo A entraba a una plaza de sentido giratorio e impactó a vehículo B que circulaba por una plaza de sentido giratorio.
+rcparte513.jpg#0	Vehículo A venía de la derecha en una entrada mientras que vehículo B impactó al vehículo A
+rcparte513.jpg#1	Vehículo A ingresaba por la derecha a la vía principal e impacta con vehículo B, mientras que vehículo B circulaba por su carril.
+rcparte513.jpg#2	Vehículo B circulaba por su carril e impactó con vehículo A que ingresaba por la derecha en una entrada
+rcparte514.jpg#0	Vehículo A salía de un estacionamiento e impactó con vehículo B que circulaba por su carril
+rcparte514.jpg#1	Vehículo B circulaba por el lado derecho del carril y fue impactado por vehículo A que salía de estacionamiento 
+rcparte514.jpg#2	Vehículo A cambiaba de carril al salir de estacionamiento e impactó con vehículo B
+rcparte515.jpg#0	Vehículo B invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo A
+rcparte515.jpg#1	Vehículo A circulaba por su carril, cuando B invadió el carril contrario y colisionó con vehículo A
+rcparte515.jpg#2	En una pista de doble vía, vehículo B invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo A
+rcparte516.jpg#0	Vehículo A estaba estacionado cuando vehículo B intentaba estacionar e impactó con vehículo B
+rcparte516.jpg#1	Vehículo A estaba estacionado y es impactado por vehículo B que iba a estacionar
+rcparte516.jpg#2	En un estacionamiento, vehículo A estaba estacionado y es impactado por vehículo B que intentaba estacionar.
+rcparte517.jpg#0	Vehículo A se encontraba en una curva, cambió de carril e impactó a vehículo B
+rcparte517.jpg#1	Vehículo A cambió de carril en una curva e impactó a vehículo B
+rcparte517.jpg#2	Vehículo B circulaba por una curva, mientras que vehículo a, cambió de carril e impactó a Vehículo B
+rcparte518.jpg#0	Vehículo A no respetó la señal de stop e impactó a vehículo B en un cruce.
+rcparte518.jpg#1	Vehículo A colisionó con vehículo B en una intersección, vehículo A no respetó la señal de stop
+rcparte518.jpg#2	Vehículo B circulaba por una intersección mientras vehículo A impactó vehículo B al no respetar la señal de stop.
+rcparte519.jpg#0	Vehículo A se encuentra detenido en estacionamiento y vehículo B impacta por detrás a vehículo A
+rcparte519.jpg#1	Vehículo B colisionó con vehículo A mientras estaba detenido en estacionamiento
+rcparte519.jpg#2	Vehículo A estaba detenido en estacionamiento cuando vehículo B lo impacta por detrás
