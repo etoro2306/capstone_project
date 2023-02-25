@@ -1,564 +1,564 @@
-rcparte0.jpg#0	vehículo 2 impacta a vehículo 1 en cruce.
-rcparte0.jpg#1	vehículo 1 es impactado en lateral derecho por vehículo 2 en cruce de calles.
-rcparte0.jpg#2	Colisión de vehículo 2 contra lateral de vehículo 1 en intersección de calles.
-rcparte1.jpg#0	vehículo 2 colisiona a vehículo 1 en lateral izquierdo en calle doble sentido.
-rcparte1.jpg#1	Mientras intenta doblar hacia la derecha vehículo 1 es impactado en lateral izquierdo por vehículo 2 que circulaba en sentido contrario.
-rcparte1.jpg#2	vehículo 2 impacta en su lateral izquierdo a vehículo 1 mientras intentaba realizar un giro a la derecha.
-rcparte2.jpg#0	En calle curvada doble sentido, frente de vehículo 2 colisiona a vehículo 1 en lateral izquierdo.
-rcparte2.jpg#1	vehículo 1 es impactado en su lateral izquierdo por vehículo 2 mientras transitaban por via doble sentido.
-rcparte2.jpg#2	vehículo 2 choca al lateral izquierdo de vehículo 1 en calle doble sentido.
-rcparte3.jpg#0	vehículo 1 cruza de carril e impacta en esquina trasera derecha de vehículo 2.
-rcparte3.jpg#1	vehículo 2 es chocado en su lateral trasero derecho por vehículo 1 que traspasa su carril.
-rcparte3.jpg#2	Impacto en lateral derecho de vehículo 2 por parte de vehículo 1 que cruza de carril.
-rcparte4.jpg#0	vehículo 1 y vehículo 2 colisionan en plaza de sentido giratorio.
-rcparte4.jpg#1	Impacto frontal entre vehículo 1 y vehículo 2 en una plaza de sentido giratorio.
-rcparte4.jpg#2	En una plaza de sentido giratorio, vehículo 1 y vehículo 2 chocan partes frontales.
-rcparte5.jpg#0	vehículo 2 cruza de carril e impacta sobre parte trasera izquierda de vehículo 1.
-rcparte5.jpg#1	vehículo 1 es impactado en su parte trasera izquierda por vehículo 2 que intentaba salir de la carretera.
-rcparte5.jpg#2	Al intentar abandonar la carretera, vehículo 2 impacta sobre luneta izquierda de vehículo 1.
-rcparte6.jpg#0	vehículo 1 se incorpora a carretera y colisiona con vehículo 2 que transitaba en ella.
-rcparte6.jpg#1	vehículo 2 transita por carretera y es colisionado por vehículo 1 que se incorporaba a ella.
-rcparte6.jpg#2	vehículo 1 choca contra vehículo 2 al querer incorporarse a la carretera.
-rcparte7.jpg#0	En carretera sinuosa de doble sentido, vehículo 2 impacta a vehículo 1 que transitaba por carril contrario.
-rcparte7.jpg#1	vehículo 2 impacta a vehículo 1 en carretera doble sentido.
-rcparte7.jpg#2	vehículo 1 es chocado por vehículo 2 que venia circulando en sentido contrario.
-rcparte8.jpg#0	vehículo 2 cruza de carril e impacta sobre vehículo 1.
-rcparte8.jpg#1	En via sentido único, vehículo 1 es impactado por vehículo 2 que trasgrede de carril.
-rcparte8.jpg#2	vehículo 1 y vehículo 2 colisionan en via de sentido único.
-rcparte9.jpg#0	En cruce de vías, vehículo 1 impacta en costado de vehículo 2.
-rcparte9.jpg#1	vehículo 2 es impactado por vehículo 1 en cruce de calles.
-rcparte9.jpg#2	vehículo 1 choca a vehículo 2 en cruce de vías.
-rcparte10.jpg#0	vehículo 1 dobla hacia la derecha e impacta sobre vehículo 2 que se encontraba pronto a doblar.
-rcparte10.jpg#1	Mientras hace un giro a la derecha, vehículo 1 colisiona con vehículo 2 que estaba por incorporase a la vía.
-rcparte10.jpg#2	vehículo 2 es impactado por vehículo 1 que se encontraba en maniobra de giro a la derecha.
-rcparte11.jpg#0	Choque frontal entre vehículo 1 y vehículo 2 mientras circulaban en carretera doble sentido.
-rcparte11.jpg#1	Impacto frontal entre vehículo 1 y vehículo 2 en via doble sentido.
-rcparte11.jpg#2	vehículo 1 y vehículo 2 colisionan frontalmente en carretera doble sentido.
-rcparte12.jpg#0	vehículo 2 impacta a vehículo 1 que se incorporaba a carretera.
-rcparte12.jpg#1	vehículo 1 es chocado por vehículo 2 al querer incorporarse a la vía.
-rcparte12.jpg#2	vehículo 1 dobla hacia la derecha para incorporarse a carretera y choca con vehículo 2 que venía circulando por ella.
-rcparte13.jpg#0	Accidente frontal entre vehículo 1 y vehículo 2 en tanto vehículo 1 dobla hacia la izquierda para tomar otra calle.
-rcparte13.jpg#1	vehículo 1 hace giro a la izquierda para abandonar carretera e impacta con vehículo 2 que transitaba de frente.
-rcparte13.jpg#2	vehículo 2 impacta frontalmente con vehículo 1 mientras este último hace giro para abandonar carretera.
-rcparte14.jpg#0	Impacto frontal entre vehículo 1 y vehículo 2 en cruce de carreteras.
-rcparte14.jpg#1	Choque de frente entre los vehículo 1 y vehículo 2 en interseccion de calles.
-rcparte14.jpg#2	vehículo 1 y vehículo 2 colisionan de frente en un cruce de carreteras.
-rcparte15.jpg#0	vehículo 1 y vehículo 2 chocan en salida de plaza de sentido giratorio.
-rcparte15.jpg#1	Colisión frontal entre vehículo 2 que ingresa a plaza de sentido giratorio y vehículo 1 que la abandona. 
-rcparte15.jpg#2	vehículo 1 sale de plaza de sentido giratorio e impacta frontalmente con vehículo 2 que se encuentra ingresando a ella.
-rcparte16.jpg#0	En cruce de carreteras vehículo 1 y vehículo 2 giran en misma direccion y colisionan.
-rcparte16.jpg#1	Choque de vehículo 1 y vehículo 2 al doblar en mismo sentido en un cruce de carreteras.
-rcparte16.jpg#2	En intersección de calles, vehículo 1 y vehículo 2 colisionan al doblar hacia el mismo sentido.
-rcparte17.jpg#0	vehículo 1 cruza de carril en calle con doble sentido y colisiona sobre vehículo 2.
-rcparte17.jpg#1	vehículo 2 es impactado por vehículo 1 que se cruza de carril en calle con doble sentido.
-rcparte17.jpg#2	Impacto en via doble sentido en tanto vehículo 1 traspasa carril y colisiona con vehículo 2.
-rcparte18.jpg#0	vehículo 2 se incorpora a plaza de sentido giratorio e impacta con vehículo 1 que se encontraba circulando en ella.
-rcparte18.jpg#1	vehículo 1 se encuentra circulando por una plaza de sentido giratorio cuando vehículo 2 ingresa y lo impacta.
-rcparte18.jpg#2	Colisión en plaza de sentido giratorio en tanto vehículo 2 ingresa e impacta a vehículo 1 que circulaba sobre ella.
-rcparte19.jpg#0	vehículo 2 es impactado desde atrás por vehículo 1 en via.
-rcparte19.jpg#1	vehículo 1 choca a vehículo 2 por detrás en calle con único sentido.
-rcparte19.jpg#2	vehículo 1 embiste a vehículo 2 en parte trasera sobre calle con sentido único.
-rcparte20.jpg#0	vehículo 1 se incorpora a carretera y es impactado por vehículo 2 que circulaba por ella.
-rcparte20.jpg#1	vehículo 2 choca contra vehículo 1 que se incorporaba a la carretera.
-rcparte20.jpg#2	vehículo 1 hace un giro a la derecha para incorporarse a la carretera y es embestido por vehículo 2.
-rcparte21.jpg#0	Colisión frontal entre vehículo 1 y vehículo 2.
-rcparte21.jpg#1	vehículo 1 y vehículo 2 chocan de frente.
-rcparte21.jpg#2	vehículo 1 impacta frontalmente contra vehículo 2.
-rcparte22.jpg#0	vehículo 2 traspasa carril e impacta sobre vehículo 1.
-rcparte22.jpg#1	vehículo 1 choca con vehículo 2 que se interpone en el carril.
-rcparte22.jpg#2	vehículo 2 gira de carril hacia la derecha e impacta sobre vehículo 1 que venía circulando por él.
-rcparte23.jpg#0	vehículo 1 traspasa carril e impacta sobre vehículo 2.
-rcparte23.jpg#1	vehículo 2 choca con vehículo 1 que se interpone en el carril.
-rcparte23.jpg#2	vehículo 1 gira de carril hacia la derecha e impacta sobre vehículo 2 que venía circulando por él.
-rcparte24.jpg#0	vehículo 1 se incorpora a calle e impacta en el lateral sobre vehículo 2 que circulaba por ella.
-rcparte24.jpg#1	vehículo 2 circulaba por la calle y es impactado en su costado por vehículo 1 que aparece por una calle lateral.
-rcparte24.jpg#2	vehículo 1 cocha a vehículo 2 al querer incorporarse a la calle principal.
-rcparte25.jpg#0	Colisión entre vehículo 1 y vehículo 2 en una plaza de sentido giratorio.
-rcparte25.jpg#1	En una plaza de sentido giratorio vehículo 1 y vehículo 2 chocan.
-rcparte25.jpg#2	vehículo 1 y vehículo 2 colisionan en una plaza de sentido giratorio.
-rcparte26.jpg#0	En intersección de vias vehículo 1 y vehículo 2 colisionan.
-rcparte26.jpg#1	Choque entre vehículo 1 y vehículo 2 en intersección de calles.
-rcparte26.jpg#2	vehículo 1 y vehículo 2 impactan en intersección de vias con cartel de STOP.
-rcparte27.jpg#0	vehículo 1 impacta por detrás a vehículo 2.
-rcparte27.jpg#1	vehículo 2 es embestido por detrás por parte de vehículo 1.
-rcparte27.jpg#2	En via de doble sentido, vehículo 1 impacta a vehículo 2 por detrás.
-rcparte28.jpg#0	vehículo 1 y vehículo 2 se incorporan a plaza de sentido giratorio en simultaneo y colisionan.
-rcparte28.jpg#1	Durante una incorporación simultanea a una plaza de sentido giratorio, chocan vehículo 1 y vehículo 2.
-rcparte28.jpg#2	En una plaza de sentido giratorio, colisionan vehículo 1 y vehículo 2.
-rcparte29.jpg#0	Choque entre vehículo 1 y vehículo 2.
-rcparte29.jpg#1	vehículo 1 y vehículo 2 colisionan.
-rcparte29.jpg#2	Accidente entre vehículo 1 y vehículo 2.
-rcparte30.jpg#0	Vehículo trasguede carril en carretera e impacta con otro.
-rcparte30.jpg#1	Vehículo es impactado por otro que cruza de carril.
-rcparte30.jpg#2	Choque entre vehículos por cambio abrupto de carril.
-rcparte31.jpg#0	Vehículo realiza giro para abadonar carretera e impacta con otro que venia circulando.
-rcparte31.jpg#1	Al querer abandonar la carretera vehículo se desplaza de carril e impacta con otro.
-rcparte31.jpg#2	Vehículo choca contra otro que se cruza por enfrente al querer tomar salida de carretera.
-rcparte32.jpg#0	Vehículo impacta por detrás a vehículo.
-rcparte32.jpg#1	Vehículo es embestido por detrás por parte de vehículo .
-rcparte32.jpg#2	Vehículo impacta a otro vehículo por detrás que se encontraba detenido frente a cruce peatonal.
-rcparte33.jpg#0	Choque de vehículos en intersección de vias.
-rcparte33.jpg#1	Accidente vehícular en cruce de vias.
-rcparte33.jpg#2	Vehículos colisionan en intersección de vias.
-rcparte34.jpg#0	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
-rcparte34.jpg#1	Colisión por vehículo que trasgrede de carril.
-rcparte34.jpg#2	Giro para cambio de carril provoca colisión vehicular.
-rcparte35.jpg#0	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
-rcparte35.jpg#1	Colisión por vehículo que trasgrede de carril.
-rcparte35.jpg#2	Maniobra de cambio de carril provoca colisión vehicular.
-rcparte36.jpg#0	Giro para cambio de carril provoca colisión vehicular.
-rcparte36.jpg#1	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
-rcparte36.jpg#2	Colisión por vehículo que trasgrede de carril.
-rcparte37.jpg#0	Vehículo impacta por detrás a vehículo.
-rcparte37.jpg#1	Vehículo es embestido por detrás por parte de vehículo.
-rcparte37.jpg#2	Vehículo impacta a otro vehículo por detrás que se encontraba detenido frente a cruce peatonal.
-rcparte38.jpg#0	Vehículo hace giro a la derecha e impacta sobre otro.
+rcparte0.jpg#0	vehÃ­culo 2 impacta a vehÃ­culo 1 en cruce.
+rcparte0.jpg#1	vehÃ­culo 1 es impactado en lateral derecho por vehÃ­culo 2 en cruce de calles.
+rcparte0.jpg#2	ColisiÃ³n de vehÃ­culo 2 contra lateral de vehÃ­culo 1 en intersecciÃ³n de calles.
+rcparte1.jpg#0	vehÃ­culo 2 colisiona a vehÃ­culo 1 en lateral izquierdo en calle doble sentido.
+rcparte1.jpg#1	Mientras intenta doblar hacia la derecha vehÃ­culo 1 es impactado en lateral izquierdo por vehÃ­culo 2 que circulaba en sentido contrario.
+rcparte1.jpg#2	vehÃ­culo 2 impacta en su lateral izquierdo a vehÃ­culo 1 mientras intentaba realizar un giro a la derecha.
+rcparte2.jpg#0	En calle curvada doble sentido, frente de vehÃ­culo 2 colisiona a vehÃ­culo 1 en lateral izquierdo.
+rcparte2.jpg#1	vehÃ­culo 1 es impactado en su lateral izquierdo por vehÃ­culo 2 mientras transitaban por via doble sentido.
+rcparte2.jpg#2	vehÃ­culo 2 choca al lateral izquierdo de vehÃ­culo 1 en calle doble sentido.
+rcparte3.jpg#0	vehÃ­culo 1 cruza de carril e impacta en esquina trasera derecha de vehÃ­culo 2.
+rcparte3.jpg#1	vehÃ­culo 2 es chocado en su lateral trasero derecho por vehÃ­culo 1 que traspasa su carril.
+rcparte3.jpg#2	Impacto en lateral derecho de vehÃ­culo 2 por parte de vehÃ­culo 1 que cruza de carril.
+rcparte4.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 colisionan en plaza de sentido giratorio.
+rcparte4.jpg#1	Impacto frontal entre vehÃ­culo 1 y vehÃ­culo 2 en una plaza de sentido giratorio.
+rcparte4.jpg#2	En una plaza de sentido giratorio, vehÃ­culo 1 y vehÃ­culo 2 chocan partes frontales.
+rcparte5.jpg#0	vehÃ­culo 2 cruza de carril e impacta sobre parte trasera izquierda de vehÃ­culo 1.
+rcparte5.jpg#1	vehÃ­culo 1 es impactado en su parte trasera izquierda por vehÃ­culo 2 que intentaba salir de la carretera.
+rcparte5.jpg#2	Al intentar abandonar la carretera, vehÃ­culo 2 impacta sobre luneta izquierda de vehÃ­culo 1.
+rcparte6.jpg#0	vehÃ­culo 1 se incorpora a carretera y colisiona con vehÃ­culo 2 que transitaba en ella.
+rcparte6.jpg#1	vehÃ­culo 2 transita por carretera y es colisionado por vehÃ­culo 1 que se incorporaba a ella.
+rcparte6.jpg#2	vehÃ­culo 1 choca contra vehÃ­culo 2 al querer incorporarse a la carretera.
+rcparte7.jpg#0	En carretera sinuosa de doble sentido, vehÃ­culo 2 impacta a vehÃ­culo 1 que transitaba por carril contrario.
+rcparte7.jpg#1	vehÃ­culo 2 impacta a vehÃ­culo 1 en carretera doble sentido.
+rcparte7.jpg#2	vehÃ­culo 1 es chocado por vehÃ­culo 2 que venia circulando en sentido contrario.
+rcparte8.jpg#0	vehÃ­culo 2 cruza de carril e impacta sobre vehÃ­culo 1.
+rcparte8.jpg#1	En via sentido Ãºnico, vehÃ­culo 1 es impactado por vehÃ­culo 2 que trasgrede de carril.
+rcparte8.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan en via de sentido Ãºnico.
+rcparte9.jpg#0	En cruce de vÃ­as, vehÃ­culo 1 impacta en costado de vehÃ­culo 2.
+rcparte9.jpg#1	vehÃ­culo 2 es impactado por vehÃ­culo 1 en cruce de calles.
+rcparte9.jpg#2	vehÃ­culo 1 choca a vehÃ­culo 2 en cruce de vÃ­as.
+rcparte10.jpg#0	vehÃ­culo 1 dobla hacia la derecha e impacta sobre vehÃ­culo 2 que se encontraba pronto a doblar.
+rcparte10.jpg#1	Mientras hace un giro a la derecha, vehÃ­culo 1 colisiona con vehÃ­culo 2 que estaba por incorporase a la vÃ­a.
+rcparte10.jpg#2	vehÃ­culo 2 es impactado por vehÃ­culo 1 que se encontraba en maniobra de giro a la derecha.
+rcparte11.jpg#0	Choque frontal entre vehÃ­culo 1 y vehÃ­culo 2 mientras circulaban en carretera doble sentido.
+rcparte11.jpg#1	Impacto frontal entre vehÃ­culo 1 y vehÃ­culo 2 en via doble sentido.
+rcparte11.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan frontalmente en carretera doble sentido.
+rcparte12.jpg#0	vehÃ­culo 2 impacta a vehÃ­culo 1 que se incorporaba a carretera.
+rcparte12.jpg#1	vehÃ­culo 1 es chocado por vehÃ­culo 2 al querer incorporarse a la vÃ­a.
+rcparte12.jpg#2	vehÃ­culo 1 dobla hacia la derecha para incorporarse a carretera y choca con vehÃ­culo 2 que venÃ­a circulando por ella.
+rcparte13.jpg#0	Accidente frontal entre vehÃ­culo 1 y vehÃ­culo 2 en tanto vehÃ­culo 1 dobla hacia la izquierda para tomar otra calle.
+rcparte13.jpg#1	vehÃ­culo 1 hace giro a la izquierda para abandonar carretera e impacta con vehÃ­culo 2 que transitaba de frente.
+rcparte13.jpg#2	vehÃ­culo 2 impacta frontalmente con vehÃ­culo 1 mientras este Ãºltimo hace giro para abandonar carretera.
+rcparte14.jpg#0	Impacto frontal entre vehÃ­culo 1 y vehÃ­culo 2 en cruce de carreteras.
+rcparte14.jpg#1	Choque de frente entre los vehÃ­culo 1 y vehÃ­culo 2 en interseccion de calles.
+rcparte14.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan de frente en un cruce de carreteras.
+rcparte15.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 chocan en salida de plaza de sentido giratorio.
+rcparte15.jpg#1	ColisiÃ³n frontal entre vehÃ­culo 2 que ingresa a plaza de sentido giratorio y vehÃ­culo 1 que la abandona. 
+rcparte15.jpg#2	vehÃ­culo 1 sale de plaza de sentido giratorio e impacta frontalmente con vehÃ­culo 2 que se encuentra ingresando a ella.
+rcparte16.jpg#0	En cruce de carreteras vehÃ­culo 1 y vehÃ­culo 2 giran en misma direccion y colisionan.
+rcparte16.jpg#1	Choque de vehÃ­culo 1 y vehÃ­culo 2 al doblar en mismo sentido en un cruce de carreteras.
+rcparte16.jpg#2	En intersecciÃ³n de calles, vehÃ­culo 1 y vehÃ­culo 2 colisionan al doblar hacia el mismo sentido.
+rcparte17.jpg#0	vehÃ­culo 1 cruza de carril en calle con doble sentido y colisiona sobre vehÃ­culo 2.
+rcparte17.jpg#1	vehÃ­culo 2 es impactado por vehÃ­culo 1 que se cruza de carril en calle con doble sentido.
+rcparte17.jpg#2	Impacto en via doble sentido en tanto vehÃ­culo 1 traspasa carril y colisiona con vehÃ­culo 2.
+rcparte18.jpg#0	vehÃ­culo 2 se incorpora a plaza de sentido giratorio e impacta con vehÃ­culo 1 que se encontraba circulando en ella.
+rcparte18.jpg#1	vehÃ­culo 1 se encuentra circulando por una plaza de sentido giratorio cuando vehÃ­culo 2 ingresa y lo impacta.
+rcparte18.jpg#2	ColisiÃ³n en plaza de sentido giratorio en tanto vehÃ­culo 2 ingresa e impacta a vehÃ­culo 1 que circulaba sobre ella.
+rcparte19.jpg#0	vehÃ­culo 2 es impactado desde atrÃ¡s por vehÃ­culo 1 en via.
+rcparte19.jpg#1	vehÃ­culo 1 choca a vehÃ­culo 2 por detrÃ¡s en calle con Ãºnico sentido.
+rcparte19.jpg#2	vehÃ­culo 1 embiste a vehÃ­culo 2 en parte trasera sobre calle con sentido Ãºnico.
+rcparte20.jpg#0	vehÃ­culo 1 se incorpora a carretera y es impactado por vehÃ­culo 2 que circulaba por ella.
+rcparte20.jpg#1	vehÃ­culo 2 choca contra vehÃ­culo 1 que se incorporaba a la carretera.
+rcparte20.jpg#2	vehÃ­culo 1 hace un giro a la derecha para incorporarse a la carretera y es embestido por vehÃ­culo 2.
+rcparte21.jpg#0	ColisiÃ³n frontal entre vehÃ­culo 1 y vehÃ­culo 2.
+rcparte21.jpg#1	vehÃ­culo 1 y vehÃ­culo 2 chocan de frente.
+rcparte21.jpg#2	vehÃ­culo 1 impacta frontalmente contra vehÃ­culo 2.
+rcparte22.jpg#0	vehÃ­culo 2 traspasa carril e impacta sobre vehÃ­culo 1.
+rcparte22.jpg#1	vehÃ­culo 1 choca con vehÃ­culo 2 que se interpone en el carril.
+rcparte22.jpg#2	vehÃ­culo 2 gira de carril hacia la derecha e impacta sobre vehÃ­culo 1 que venÃ­a circulando por Ã©l.
+rcparte23.jpg#0	vehÃ­culo 1 traspasa carril e impacta sobre vehÃ­culo 2.
+rcparte23.jpg#1	vehÃ­culo 2 choca con vehÃ­culo 1 que se interpone en el carril.
+rcparte23.jpg#2	vehÃ­culo 1 gira de carril hacia la derecha e impacta sobre vehÃ­culo 2 que venÃ­a circulando por Ã©l.
+rcparte24.jpg#0	vehÃ­culo 1 se incorpora a calle e impacta en el lateral sobre vehÃ­culo 2 que circulaba por ella.
+rcparte24.jpg#1	vehÃ­culo 2 circulaba por la calle y es impactado en su costado por vehÃ­culo 1 que aparece por una calle lateral.
+rcparte24.jpg#2	vehÃ­culo 1 cocha a vehÃ­culo 2 al querer incorporarse a la calle principal.
+rcparte25.jpg#0	ColisiÃ³n entre vehÃ­culo 1 y vehÃ­culo 2 en una plaza de sentido giratorio.
+rcparte25.jpg#1	En una plaza de sentido giratorio vehÃ­culo 1 y vehÃ­culo 2 chocan.
+rcparte25.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan en una plaza de sentido giratorio.
+rcparte26.jpg#0	En intersecciÃ³n de vias vehÃ­culo 1 y vehÃ­culo 2 colisionan.
+rcparte26.jpg#1	Choque entre vehÃ­culo 1 y vehÃ­culo 2 en intersecciÃ³n de calles.
+rcparte26.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 impactan en intersecciÃ³n de vias con cartel de STOP.
+rcparte27.jpg#0	vehÃ­culo 1 impacta por detrÃ¡s a vehÃ­culo 2.
+rcparte27.jpg#1	vehÃ­culo 2 es embestido por detrÃ¡s por parte de vehÃ­culo 1.
+rcparte27.jpg#2	En via de doble sentido, vehÃ­culo 1 impacta a vehÃ­culo 2 por detrÃ¡s.
+rcparte28.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 se incorporan a plaza de sentido giratorio en simultaneo y colisionan.
+rcparte28.jpg#1	Durante una incorporaciÃ³n simultanea a una plaza de sentido giratorio, chocan vehÃ­culo 1 y vehÃ­culo 2.
+rcparte28.jpg#2	En una plaza de sentido giratorio, colisionan vehÃ­culo 1 y vehÃ­culo 2.
+rcparte29.jpg#0	Choque entre vehÃ­culo 1 y vehÃ­culo 2.
+rcparte29.jpg#1	vehÃ­culo 1 y vehÃ­culo 2 colisionan.
+rcparte29.jpg#2	Accidente entre vehÃ­culo 1 y vehÃ­culo 2.
+rcparte30.jpg#0	VehÃ­culo trasguede carril en carretera e impacta con otro.
+rcparte30.jpg#1	VehÃ­culo es impactado por otro que cruza de carril.
+rcparte30.jpg#2	Choque entre vehÃ­culos por cambio abrupto de carril.
+rcparte31.jpg#0	VehÃ­culo realiza giro para abadonar carretera e impacta con otro que venia circulando.
+rcparte31.jpg#1	Al querer abandonar la carretera vehÃ­culo se desplaza de carril e impacta con otro.
+rcparte31.jpg#2	VehÃ­culo choca contra otro que se cruza por enfrente al querer tomar salida de carretera.
+rcparte32.jpg#0	VehÃ­culo impacta por detrÃ¡s a vehÃ­culo.
+rcparte32.jpg#1	VehÃ­culo es embestido por detrÃ¡s por parte de vehÃ­culo .
+rcparte32.jpg#2	VehÃ­culo impacta a otro vehÃ­culo por detrÃ¡s que se encontraba detenido frente a cruce peatonal.
+rcparte33.jpg#0	Choque de vehÃ­culos en intersecciÃ³n de vias.
+rcparte33.jpg#1	Accidente vehÃ­cular en cruce de vias.
+rcparte33.jpg#2	VehÃ­culos colisionan en intersecciÃ³n de vias.
+rcparte34.jpg#0	VehÃ­culo cruza de carril e impacta sobre otro vehÃ­culo que se encontraba transitando.
+rcparte34.jpg#1	ColisiÃ³n por vehÃ­culo que trasgrede de carril.
+rcparte34.jpg#2	Giro para cambio de carril provoca colisiÃ³n vehicular.
+rcparte35.jpg#0	VehÃ­culo cruza de carril e impacta sobre otro vehÃ­culo que se encontraba transitando.
+rcparte35.jpg#1	ColisiÃ³n por vehÃ­culo que trasgrede de carril.
+rcparte35.jpg#2	Maniobra de cambio de carril provoca colisiÃ³n vehicular.
+rcparte36.jpg#0	Giro para cambio de carril provoca colisiÃ³n vehicular.
+rcparte36.jpg#1	VehÃ­culo cruza de carril e impacta sobre otro vehÃ­culo que se encontraba transitando.
+rcparte36.jpg#2	ColisiÃ³n por vehÃ­culo que trasgrede de carril.
+rcparte37.jpg#0	VehÃ­culo impacta por detrÃ¡s a vehÃ­culo.
+rcparte37.jpg#1	VehÃ­culo es embestido por detrÃ¡s por parte de vehÃ­culo.
+rcparte37.jpg#2	VehÃ­culo impacta a otro vehÃ­culo por detrÃ¡s que se encontraba detenido frente a cruce peatonal.
+rcparte38.jpg#0	VehÃ­culo hace giro a la derecha e impacta sobre otro.
 rcparte38.jpg#1	Al realizar giro hacia la derecha vehiculo colisiona a otro.
-rcparte38.jpg#2	Vehículo realiza giro para incorporarse a calle y embiste a otro vehículo.
-rcparte39.jpg#0	vehículo 1bandona estacionamiento y choca contra otro que venía circulando.
-rcparte39.jpg#1	Vehículo circula por calle e impacta contra otro que sale de un estacionamiento.
-rcparte39.jpg#2	Choque entre vehículo que sale de estacionamiento hacia la izquierda y es impactado por vehículo que circula por via.
-rcparte40.jpg#0	Vehículo impacta por detrás a vehículo.
-rcparte40.jpg#1	Vehículo es embestido por detrás por parte de vehículo.
-rcparte40.jpg#2	Vehículo impacta a otro vehículo por detrás.
-rcparte41.jpg#0	Vehículo cambia de carril e impacta sobre otro por detrás.
-rcparte41.jpg#1	vehículo 1ltera de carril y colisiona a otro por atrás.
-rcparte41.jpg#2	Vehículo impacta en la parte trasera de otro al querer cambiar de carril.
-rcparte42.jpg#0	Vehículo intenta estacionar y es embestido por otro.
-rcparte42.jpg#1	Al realizar maniobras de estacionamiento, vehículo es impactado por detrás.
-rcparte42.jpg#2	Impacto en parte trasera de vehículo que realizaba maniobras de estacionamiento.
-rcparte43.jpg#0	En una plaza de sentido giratorio, colisionan vehículos.
-rcparte43.jpg#1	Vehículo se incorpora a plaza de sentido giratorio e impacta con otro que circulaba por ella.
-rcparte43.jpg#2	Choque vehícular en plaza de sentido giratorio.
-rcparte44.jpg#0	vehículo 1ltera de carril y colisiona a otro.
-rcparte44.jpg#1	Vehículo cambia de carril e impacta sobre otro.
-rcparte44.jpg#2	Colisión vehicular producto de cambio abrupto de carril.
+rcparte38.jpg#2	VehÃ­culo realiza giro para incorporarse a calle y embiste a otro vehÃ­culo.
+rcparte39.jpg#0	vehÃ­culo 1bandona estacionamiento y choca contra otro que venÃ­a circulando.
+rcparte39.jpg#1	VehÃ­culo circula por calle e impacta contra otro que sale de un estacionamiento.
+rcparte39.jpg#2	Choque entre vehÃ­culo que sale de estacionamiento hacia la izquierda y es impactado por vehÃ­culo que circula por via.
+rcparte40.jpg#0	VehÃ­culo impacta por detrÃ¡s a vehÃ­culo.
+rcparte40.jpg#1	VehÃ­culo es embestido por detrÃ¡s por parte de vehÃ­culo.
+rcparte40.jpg#2	VehÃ­culo impacta a otro vehÃ­culo por detrÃ¡s.
+rcparte41.jpg#0	VehÃ­culo cambia de carril e impacta sobre otro por detrÃ¡s.
+rcparte41.jpg#1	vehÃ­culo 1ltera de carril y colisiona a otro por atrÃ¡s.
+rcparte41.jpg#2	VehÃ­culo impacta en la parte trasera de otro al querer cambiar de carril.
+rcparte42.jpg#0	VehÃ­culo intenta estacionar y es embestido por otro.
+rcparte42.jpg#1	Al realizar maniobras de estacionamiento, vehÃ­culo es impactado por detrÃ¡s.
+rcparte42.jpg#2	Impacto en parte trasera de vehÃ­culo que realizaba maniobras de estacionamiento.
+rcparte43.jpg#0	En una plaza de sentido giratorio, colisionan vehÃ­culos.
+rcparte43.jpg#1	VehÃ­culo se incorpora a plaza de sentido giratorio e impacta con otro que circulaba por ella.
+rcparte43.jpg#2	Choque vehÃ­cular en plaza de sentido giratorio.
+rcparte44.jpg#0	vehÃ­culo 1ltera de carril y colisiona a otro.
+rcparte44.jpg#1	VehÃ­culo cambia de carril e impacta sobre otro.
+rcparte44.jpg#2	ColisiÃ³n vehicular producto de cambio abrupto de carril.
 rcparte45.jpg#0	Choque vehicular.
 rcparte45.jpg#1	Accidente vehicular.
 rcparte45.jpg#2	Colision vehicular.
-rcparte46.jpg#0	Vehículo se detiene en embotellamiento y es embestido por detrás.
-rcparte46.jpg#1	Vehículo impacta por detrás a otro que se encontraba detenido.
-rcparte46.jpg#2	Vehículo colisona la parte trasera de otro vehículo que se contraba detenido en el tráfico.
-rcparte47.jpg#0	Vehículo es embestido por detrás por parte de otro vehículo.
-rcparte47.jpg#1	Choque trasero entre vehículos.
-rcparte47.jpg#2	Vehículo impacta sobre parte de atrás de otro vehículo.
-rcparte48.jpg#0	Choque frontal entre vehículos.
-rcparte48.jpg#1	Colisión frontal.
+rcparte46.jpg#0	VehÃ­culo se detiene en embotellamiento y es embestido por detrÃ¡s.
+rcparte46.jpg#1	VehÃ­culo impacta por detrÃ¡s a otro que se encontraba detenido.
+rcparte46.jpg#2	VehÃ­culo colisona la parte trasera de otro vehÃ­culo que se contraba detenido en el trÃ¡fico.
+rcparte47.jpg#0	VehÃ­culo es embestido por detrÃ¡s por parte de otro vehÃ­culo.
+rcparte47.jpg#1	Choque trasero entre vehÃ­culos.
+rcparte47.jpg#2	VehÃ­culo impacta sobre parte de atrÃ¡s de otro vehÃ­culo.
+rcparte48.jpg#0	Choque frontal entre vehÃ­culos.
+rcparte48.jpg#1	ColisiÃ³n frontal.
 rcparte48.jpg#2	Impacto de frente en accidente vehicular.
-rcparte49.jpg#0	Vehículo se incorpora a plaza de sentido giratorio e impacta con otro que circulaba por ella.
-rcparte49.jpg#1	Colisión en plaza de sentido giratorio.
-rcparte49.jpg#2	En una plaza de sentido giratorio, colisionan dos vehículos.
+rcparte49.jpg#0	VehÃ­culo se incorpora a plaza de sentido giratorio e impacta con otro que circulaba por ella.
+rcparte49.jpg#1	ColisiÃ³n en plaza de sentido giratorio.
+rcparte49.jpg#2	En una plaza de sentido giratorio, colisionan dos vehÃ­culos.
 rcparte50.jpg#0	Accidente vehicular en via de doble sentido.
-rcparte50.jpg#1	Choque vehícular en carretera.
-rcparte50.jpg#2	Impacto vehícular en carretera.
-rcparte51.jpg#0	vehículo 1ltera de carril y colisiona a otro.
-rcparte51.jpg#1	Vehículo cruza de carril e impacta sobre otro vehículo que se encontraba transitando.
-rcparte51.jpg#2	Colisión por vehículo que trasgrede de carril.
-rcparte52.jpg#0	Accidente de vehículo 1 y vehículo 2 en intersección de vías.
-rcparte52.jpg#1	Colisión vehicular de 1 y 2 en interseccion de calles.
-rcparte52.jpg#2	vehículo 1 y vehículo 2 colisionan en interseccion de vias.
-rcparte53.jpg#0	vehículo 2 colsiona a vehículo 1 en via de sentido único.
-rcparte53.jpg#1	En calle de sentido único, vehículo 1 es impactado por detrás por parte de vehículo 2.
-rcparte53.jpg#2	vehículo 2 embiste luneta de vehículo 1 en via de sentido único.
-rcparte54.jpg#0	vehículo 1 se incorpora a plaza de sentido giratorio e impacta con vehículo 2 que circulaba por ella
-rcparte54.jpg#1	vehículo 1 y vehículo 2 colisionan en una plaza de sentido giratorio.
-rcparte54.jpg#2	vehículo 1 ingresa a una plaza de sentido giratorio e impacta a vehículo 2.
-rcparte55.jpg#0	vehículo 2 traspasa de carril e impacta sobre vehículo 2.
-rcparte55.jpg#1	En calle doble carril con sentido único, vehículo 2 hace un cambio de carril y colisiona con vehículo 1.
-rcparte55.jpg#2	vehículo 1 es impactado por vehículo 2 cuando este último hace un cambio de carril.
-rcparte56.jpg#0	En intersección de vias vehículo 2 impacta a vehículo 1.
-rcparte56.jpg#1	vehículo 1 recibe impacto de vehículo 2 cuando ambos arriban a intersección de calles.
-rcparte56.jpg#2	Colisión vehicular entre vehículo 1 y vehículo 2 en interseccíon de vías.
-rcparte57.jpg#0	vehículo 2 impacta a vehículo 1 mientras ambos circulan por una plaza de sentido giratorio.
-rcparte57.jpg#1	En una plaza de sentido giratorio, vehículo 2 impacta a vehículo 1.
-rcparte57.jpg#2	vehículo 1 es impactado por vehículo 2 mientras ambos circulan por una plaza de sentido giratorio.
-rcparte58.jpg#0	vehículo 1 cruza de carril e impacta contra vehículo 2.
-rcparte58.jpg#1	vehículo 2 es impactado por vehículo 1 cuando este último hace un cambio de carril.
-rcparte58.jpg#2	vehículo 1 hace un giro a la derecha para cambiar de carril y colisiona contra vehículo 2 que venia circulando.
-rcparte59.jpg#0	vehículo 2 hace un giro a la derecha para tomar una calle lateral e impacta con vehículo 1 que venia de frente.
-rcparte59.jpg#1	vehículo 1 choca con vehículo 2 cuando este útlimo hace un giro a la derecha para tomar una calle lateral.
-rcparte59.jpg#2	vehículo 2 gira hacia la derecha e impacta con vehículo 1 que provenia en sentido contrario.
-rcparte60.jpg#0	En carretera doble sentido, vehículo 1 cruza e impacta sobre vehículo 2.
-rcparte60.jpg#1	vehículo 2 es embestido por vehículo 1 que venía en sentido contrario y se cruza.
-rcparte60.jpg#2	vehículo 1 realiza un cambio de carril y a contramano impacta contra vehículo 2.
-rcparte61.jpg#0	Choque frontal entre vehículo 1 y vehículo 2.
-rcparte61.jpg#1	Accidente vehícular con impacto frontal entre 1 y 2.
-rcparte61.jpg#2	vehículo 1 y vehículo 2 impactan frontalmente.
-rcparte62.jpg#0	vehículo 1 realiza un giro a la izquierda para incorporarse a una via doble sentido pero imapacta con vehículo 2.
-rcparte62.jpg#1	vehículo 2 colisiona con vehículo 1 cuando este último hace un giro a la izquierda desde una calle lateral.
-rcparte62.jpg#2	vehículo 2 viene circulando por via de doble sentido cuando desde una calle lateral vehículo 1 hace un giro a la izquierda y se provoca la colisión.
-rcparte63.jpg#0	vehículo 1 cruza de carril e impacta a B en una curva.
-rcparte63.jpg#1	Durante una curva, vehículo 1 se desvia de carril y choca a vehículo 2.
-rcparte63.jpg#2	vehículo 1 se desvia de carril y colisiona contra vehículo 2 durante una curva.
-rcparte64.jpg#0	vehículo 1 quiere abandonar la carretera y al girar hacia la derecha impacta contra vehículo 2.
-rcparte64.jpg#1	vehículo 1 toma salida de la carretera pero al cruzar de carril impacta contra vehículo 2.
-rcparte64.jpg#2	vehículo 2 mantiene su carril por la carretera pero es impactado por vehículo 1 que quiere tomar la salida.
-rcparte65.jpg#0	vehículo 1 se incorpora a la via e impacta sobre vehículo 2 que circulaba por ella.
-rcparte65.jpg#1	vehículo 1 embiste a vehículo 2 al incorporarse en una carretera desde un acceso lateral.
-rcparte65.jpg#2	vehículo 2 es chocado por vehículo 1 que ingresaba a la carretera.
-rcparte66.jpg#0	En camino sinuoso de doble sentido vehículo 2 cruza de carril y choca a vehículo 2.
-rcparte66.jpg#1	vehículo 1 cruza a carril contrario e impacta sobre vehículo 2 en camino sinuoso.
-rcparte66.jpg#2	En una curva de carretera con doble sentido, vehículo 1 cruza al carril contrario e impacta sobre el vehículo 2.
-rcparte67.jpg#0	En una curva de calle con doble sentido, vehículo 2 cruza de carril e impacta contra vehículo 1.
-rcparte67.jpg#1	vehículo 1 es chocado por vehículo 2 que venia de frente en una curva.
-rcparte67.jpg#2	Durante una curva, el vehículo 2 trasgrede su carril e impacta contra vehículo 1 que venía en mano contraria.
-rcparte68.jpg#0	En intersección de vias colisionan vehículo 1 y vehículo 2.
-rcparte68.jpg#1	vehículo 1 y vehículo 2 que conducían en sentido perpendicular colisionan en una intersección de carreteras.
-rcparte68.jpg#2	Colisíon vehicular entre 1 y 2 en interseccion de carreteras.
-rcparte69.jpg#0	vehículo 1 impacta a vehículo 2 por detrás en calle de sentido único.
-rcparte69.jpg#1	vehículo 2 es impactado en parte trasera por vehículo 1 en una vía unidireccional.
-rcparte69.jpg#2	vehículo 1 choca por atrás a vehículo 2.
-rcparte70.jpg#0	Colisión entre vehículo 1 y vehículo 2 al disputar la misma plaza de estacionamiento.
-rcparte70.jpg#1	Al querer ocupar la misma plaza de estacionamiento, chocan vehículo 1 y vehículo 2.
-rcparte70.jpg#2	vehículo 1 y vehículo 2 colisionan al querer ambos estacionar en la misma plaza vehicular.
-rcparte71.jpg#0	vehículo 1 hace un giro a la derecha para incorporarse a la via e impacta con vehículo 2 que transitaba por ella.
-rcparte71.jpg#1	vehículo 2 transita por una via y colisiona contra vehículo 1 que se incorpora a ella desde una calle lateral.
-rcparte71.jpg#2	Con un giro a la derecha vehículo 1 se incorpora a la calle pero impacta con vehículo 2 que circulaba por ella.
-rcparte72.jpg#0	vehículo 2 impacta a vehículo 1 por atrás.
-rcparte72.jpg#1	vehículo 1 es chocado por detrás por parte de vehículo 2.
-rcparte72.jpg#2	vehículo 2 colsiona con parte trasera de vehículo 1.
-rcparte73.jpg#0	En via de doble sentido, vehículo 1 cruza de carril y choca contra vehículo 2.
-rcparte73.jpg#1	vehículo 2 transita por calle con doble sentido cuando es impactado por vehículo 1 que venia en el sentido contrario.
-rcparte73.jpg#2	vehículo 1 cruza hacia carril de sentido contrario e impacta sobre vehículo 2.
-rcparte74.jpg#0	vehículo 1 se incorpora a plaza de sentido giratorio e impacta sobre vehículo 2 que circulaba en ella.
-rcparte74.jpg#1	vehículo 2 circulaba por plaza de sentido giratorio cuando es chocado por vehículo 1 que se incorpora a ella.
-rcparte74.jpg#2	Al querer incorporarse a la plaza de sentido giratorio, vehículo 1 colisiona con vehículo 2 que se encontraba en ella.
-rcparte75.jpg#0	vehículo 1 abandona plaza de estacionamiento e impacta a vehículo 2 que circulaba por la via.
-rcparte75.jpg#1	vehículo 1 se retira del sitio donde estaba estacionado pero impacta contra vehículo 2 que transitaba por su carril.
-rcparte75.jpg#2	vehículo 2 circula por su carril cuando desde la izquierda el vehículo 1 se incorpora al carril y colisionan.
-rcparte76.jpg#0	Colisión entre vehículo 1 y vehículo 2 en disputa de la misma plaza de estacionamiento.
-rcparte76.jpg#1	Al querer ocupar la misma plaza de estacionamiento, chocan vehículo 1 y vehículo 2.
-rcparte76.jpg#2	vehículo 1 y vehículo 2 colisionan al querer ambos estacionar en la misma plaza vehicular.
-rcparte77.jpg#0	vehículo 2 quiere tomar la salida de la carretera pero impacta con el vehículo 1 que realizaba la misma maniobra.
-rcparte77.jpg#1	Al querer abandonar la carretera el vehículo 2 choca con el vehículo 1 que se encontraba realizando la misma acción.
-rcparte77.jpg#2	vehículo 2 dobla hacia la derecha al querer salir de la carretera pero colisiona con vehículo 1.
-rcparte78.jpg#0	vehículo 2 realiza un cambio de carril e impacta sobre vehículo 1.
-rcparte78.jpg#1	vehículo 1 circula por su carril cuando vehículo 2 hace un cambio de carril desde la derecha hacia la izquierda y lo impacta.
-rcparte78.jpg#2	vehículo 2 hace un cambio de carril de derecha a izquierda y colsiona con vehículo 1 que venia circulando por su carril.
-rcparte79.jpg#0	vehículo 2 realiza cambio de carril e impacta al vehículo 1.
-rcparte79.jpg#1	vehículo 2 realiza un giro a la izquierda para cambiar de carril pero impacta a vehículo 1 que circulaba por él.
-rcparte79.jpg#2	vehículo 1 es impactado por vehículo 2 cuando este último.
-rcparte80.jpg#0	vehículo 1 y vehículo 2 vienen circulando por la misma via y colisionan queriendo cruzar en sentidos opuestos.
-rcparte80.jpg#1	Mientras circulan por la misma calle en paralelo, vehículo 1 y vehículo 2 chocan al querer doblar en sentidos opuestos.
-rcparte80.jpg#2	vehículo 1 y vehículo 2 transitan por la misma via uno junto a otro y colisionan al querer realizar maniobras de giro en sentido cruzado.
-rcparte81.jpg#0	vehículo 2 gira hacia la derecha para realizar un cambio de carril pero impacta contra vehículo 1 que circulaba por él.
-rcparte81.jpg#1	vehículo 1 es impactado por vehículo 2 cuando este último realiza una maniobra de cambio de carril.
-rcparte81.jpg#2	vehículo 2 hace un cambio de carril de izquierda a derecha y colsiona con vehículo 1 que venia circulando por su carril.
-rcparte82.jpg#0	vehículo 1 y vehículo 2 colisionan cuando este último realiza un giro hacia la izquierda para tomar calle lateral.
-rcparte82.jpg#1	vehículo 2 realiza un giro a la izquierda para tomar calle perpendicular y colisiona con vehículo 1. 
-rcparte82.jpg#2	En movimiento de giro hacia la izquierda, vehículo 2 impacta con vehículo 1.
-rcparte83.jpg#0	vehículo 1 hace un cambio de carril de izquierda a derecha y colsiona con vehículo 2 que venia circulando por su carril.
-rcparte83.jpg#1	vehículo 1 realiza cambio de carril e impacta al vehículo 2.
-rcparte83.jpg#2	vehículo 1 cruza de carril y choca contra vehículo 2.
-rcparte84.jpg#0	vehículo 2 hace un cambio de carril de izquierda a derecha y colsiona con vehículo 1 que venia circulando por su carril.
-rcparte84.jpg#1	vehículo 2 realiza cambio de carril e impacta al vehículo 1.
-rcparte84.jpg#2	vehículo 2 cruza de carril y choca contra vehículo 1.
-rcparte85.jpg#0	vehículo 1 cruza de carril y choca contra vehículo 2.
-rcparte85.jpg#1	vehículo 1 hace un cambio de carril y colsiona con vehículo 2 que venia circulando por su carril.
-rcparte85.jpg#2	vehículo 1 realiza cambio de carril e impacta al vehículo 2.
-rcparte86.jpg#0	En intersección vial vehículo 2 impacta a vehículo 1.
-rcparte86.jpg#1	vehículo 1 recibe un impacto lateral de vehículo 2 en una intersección vial.
-rcparte86.jpg#2	En una intersecciíon vial el vehículo 2 embiste al lateral del vehículo 1.
-rcparte87.jpg#0	vehículo 1 cruza de carril y choca contra vehículo 2.
-rcparte87.jpg#1	vehículo 1 hace un cambio de carril y colsiona con vehículo 2 que venia circulando por su carril.
-rcparte87.jpg#2	vehículo 1 realiza un adelantamiento e impacta al vehículo 2.
-rcparte88.jpg#0	vehículo 2 realiza un giro a la izquierda para incorporarse a una via y colisiona con vehículo 1.
-rcparte88.jpg#1	vehículo 1 es impactado por vehículo 2 luego de que este último realizara un giro a su izquierda. 
-rcparte88.jpg#2	Al querer doblar a la izquierda hacia otra calle, el vehículo 2 impacta sobre el vehículo 1.
-rcparte89.jpg#0	vehículo 1 se encuentra detenido en un cruce de vías cuando es chocado por detrás por el vehículo 2.
-rcparte89.jpg#1	vehículo 2 embiste por atrás a vehículo 1 que se encontraba esperando en una esquina.
-rcparte89.jpg#2	vehículo 2 colisiona la parte trasera de vehículo 1 que se encontraba frenado en una intersección vial.
-rcparte90.jpg#0	vehículo 2 embiste por atrás a vehículo 1.
-rcparte90.jpg#1	vehículo 2 colisiona la parte trasera de vehículo 1.
-rcparte90.jpg#2	vehículo 2 embiste por atrás a vehículo 1.
-rcparte91.jpg#0	En una curva vehículo 1 cambiaba de carril e impacta contra vehículo 2.
-rcparte91.jpg#1	vehículo 2 circulaba por una curva y es impactado por vehículo 1 cuando cambiaba de carril.
-rcparte91.jpg#2	vehículo 1 cambiaba de carril en una curva y colisiona contra vehículo 2.
-rcparte92.jpg#0	vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte92.jpg#1	vehículo 2 cambiaba de carril y colisionó con vehículo 1. 
-rcparte92.jpg#2	vehículo 1 circulaba en el mismo sentido y en carril diferente cuando vehículo 2 impactó mientras cambiaba de carril
-rcparte93.jpg#0	vehículo 1 estaba parado en una señal de preferencia cuando vehículo 2 lo impacta por detrás.
-rcparte93.jpg#1	vehículo 2 impacta a vehículo 1 que se encontraba parado por una señal de preferencia.
-rcparte93.jpg#2	vehículo 2 colisiona contra vehículo 1 que se encontraba parado en un cruce con una señal de preferencia.
-rcparte94.jpg#0	vehículo 1 estaba parado en una señal de preferencia cuando vehículo 2 lo impacta por detrás.
-rcparte94.jpg#1	vehículo 2 impacta a vehículo 1 que se encontraba parado por una señal de preferencia.
-rcparte94.jpg#2	vehículo 2 colisiona contra vehículo 1 que se encontraba parado en un cruce con una señal de preferencia.
-rcparte95.jpg#0	vehículo 1 estaba parado en una señal de preferencia cuando vehículo 2 lo impacta por detrás.
-rcparte95.jpg#1	vehículo 2 impacta a vehículo 1 que se encontraba parado por una señal de preferencia.
-rcparte95.jpg#2	vehículo 2 colisiona contra vehículo 1 que se encontraba parado en un cruce con una señal de preferencia.
-rcparte96.jpg#0	vehículo 1 circulaba por la vía mientras que vehículo 2 impactó cuando cambiaba de carril.
-rcparte96.jpg#1	vehículo 2 cambiaba de carril y colisiona con vehículo 1.
-rcparte96.jpg#2	vehículo 1 circulaba por la vía, mientras que vehículo 2 colisionó cuando cambiaba de carril.
-rcparte97.jpg#0	vehículo 1 colisionó frontalmente con vehículo y B, la calle era doble sentido.
-rcparte97.jpg#1	Vehículos A iba en sentido inverso a vehículo 2 e impactan frontalmente.
-rcparte97.jpg#2	Impacto frontal entre vehículo 1 y vehículo 2.
-rcparte98.jpg#0	vehículo 1 entraba a una plaza de sentido giratorio e impacta sobre vehículo 2 que circulaba por la plaza de sentido giratorio.
-rcparte98.jpg#1	vehículo 2 circulaba por una plaza de sentido giratorio cuando vehículo 1 ingresa a la plaza e impacta.
-rcparte98.jpg#2	vehículo 1 y vehículo 2 colisionan en una plaza de sentido giratorio.
-rcparte99.jpg#0	vehículo 1 no respetó la señal de preferencia e impactó con vehículo 2 en un cruce.
-rcparte99.jpg#1	En un cruce vehículo 2 circulaba por su carril cuando vehículo 1 impactó al no respetar la señal de preferencia.
-rcparte99.jpg#2	vehículo 1 no resepeta la señal de preferencia y colisiona con vehículo 2 en una intersección.
-rcparte100.jpg#0	vehículo 2 estaba parado y es impactado por vehículo 1.
-rcparte100.jpg#1	vehículo 1 impacta a vehículo 2 cuando estaba parado.
-rcparte100.jpg#2	vehículo 2 estaba estacionado cuando es impactado por vehículo 1.
-rcparte101.jpg#0	vehículo 2 estaba parado y es impactado por vehículo 1.
-rcparte101.jpg#1	vehículo 1 impacta a vehículo 2 cuando estaba parado.
-rcparte101.jpg#2	vehículo 2 estaba estacionado cuando es impactado por vehículo 1.
-rcparte102.jpg#0	vehículo 1 no respetó la señal de preferencia e impactó con vehículo 2 en un cruce.
-rcparte102.jpg#1	En un cruce vehículo 2 circulaba por su carril cuando vehículo 1 impactó al no respetar la señal de preferencia.
-rcparte102.jpg#2	vehículo 1 no resepeta la señal de preferencia y colisiona con vehículo 2 en una intersección.
-rcparte103.jpg#0	vehículo 1 colisionó frontalmente con vehículo y B, la calle era doble sentido.
-rcparte103.jpg#1	Vehículos A iba en sentido inverso a vehículo 2 e impactan frontalmente.
-rcparte103.jpg#2	Impacto frontal entre vehículo 1 y vehículo 2.
-rcparte104.jpg#0	vehículo 2 entraba a una plaza de sentido giratorio e impacta sobre vehículo 1 que circulaba por la plaza de sentido giratorio.
-rcparte104.jpg#1	vehículo 1 circulaba por una plaza de sentido giratorio cuando vehículo 2 ingresa a la plaza e impacta.
-rcparte104.jpg#2	vehículo 2 y vehículo 1 colisionan en una plaza de sentido giratorio.
-rcparte105.jpg#0	vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte105.jpg#1	vehículo 2 cambiaba de carril y colisionó con vehículo 1.
-rcparte105.jpg#2	vehículo 1 circulaba en el mismo sentido y en el mismo carril que el vehículo 2, cuando este último impactó mientras cambiaba de carril.
-rcparte106.jpg#0	vehículo 2 venía por la derecha en un cruce e impacta con vehículo 1.
-rcparte106.jpg#1	En un cruce, vehículo 1 impacta con vehículo 2 que venía por la derecha.
-rcparte106.jpg#2	En una interseccíon colisionan vehículo 1 y vehículo 2.
-rcparte107.jpg#0	vehículo 1 no respetó la señal de preferencia e impactó con vehículo 2 en un cruce.
-rcparte107.jpg#1	En un cruce vehículo 2 circulaba por su carril cuando vehículo 1 impactó al no respetar la señal de preferencia.
-rcparte107.jpg#2	vehículo 1 no resepeta la señal de preferencia y colisiona con vehículo 2 en una intersección.
-rcparte108.jpg#0	vehículo 1 venía de la derecha en una entrada mientras que vehículo 2 impactó al vehículo 1.
-rcparte108.jpg#1	vehículo 1 ingresaba por la derecha a la vía principal e impacta con vehículo 2, mientras que vehículo 2 circulaba por su carril.
-rcparte108.jpg#2	vehículo 2 circulaba por su carril e impactó con vehículo 1 que ingresaba por la derecha en una entrada.
-rcparte109.jpg#0	vehículo 1 y vehículo 2 circulaban por una plaza de sentido giratorio e impactan.
-rcparte109.jpg#1	vehículo 1 y vehículo 2 impactan por una plaza de sentido giratorio.
-rcparte109.jpg#2	Colisión de vehículo 1 y vehículo 2 en una plaza de sentido giratorio.
-rcparte110.jpg#0	vehículo 1 no respetó la señal de preferencia e impactó con vehículo 2 en un cruce.
-rcparte110.jpg#1	En un cruce vehículo 2 circulaba por su carril cuando vehículo 1 impactó al no respetar la señal de preferencia.
-rcparte110.jpg#2	vehículo 1 no resepeta la señal de preferencia y colisiona con vehículo 2 en una intersección.
-rcparte111.jpg#0	vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte111.jpg#1	vehículo 2 cambiaba de carril y colisionó con vehículo 1.
-rcparte111.jpg#2	vehículo 1 circulaba en el mismo sentido y en carril diferente cuando vehículo 2 impactó mientras cambiaba de carril.
-rcparte112.jpg#0	vehículo 1 estaba parado por señal de preferencia y es impactado por vehículo 2.
-rcparte112.jpg#1	vehículo 2 impacta a vehículo 1 cuando estaba parado por señal de preferencia.
-rcparte112.jpg#2	vehículo 1 estaba detenido por señal de preferencia cuando es impactado por vehículo 2.
-rcparte113.jpg#0	En un cruce, vehículo 1 cambiaba de carril e impacta con vehículo 2 que también cambiaba de carril.
-rcparte113.jpg#1	vehículo 1 cambiaba de carril e impacta con vehículo 2 que también cambiaba de carril en un cruce.
-rcparte113.jpg#2	vehículo 1 cambiaba de carril e impacta con vehículo 2 que también cambiaba de carril en una intersección
-rcparte114.jpg#0	vehículo 1 salía de un estacionamiento e impactó con vehículo 2 que circulaba por su carril
-rcparte114.jpg#1	vehículo 2 circulaba por el lado derecho del carril y fue impactado por vehículo 1 que salía de estacionamiento 
-rcparte114.jpg#2	vehículo 1 cambiaba de carril al salir de estacionamiento e impactó con vehículo 2
-rcparte115.jpg#0	vehículo 1 salía de un estacionamiento e impactó con vehículo 2 que circulaba por su carril
-rcparte115.jpg#1	vehículo 2 circulaba por el lado derecho del carril y fue impactado por vehículo 1 que salía de estacionamiento 
-rcparte115.jpg#2	vehículo 1 cambiaba de carril al salir de estacionamiento e impactó con vehículo 2
-rcparte116.jpg#0	vehículo 1 y vehículo 2 circulaban por una plaza de sentido giratorio e impactan
-rcparte116.jpg#1	vehículo 1 y vehículo 2 impactan por una plaza de sentido giratorio
-rcparte116.jpg#2	Colisión de vehículo 1 y vehículo 2 en una plaza de sentido giratorio
-rcparte117.jpg#0	vehículo 1 no respetó la señal de preferencia e impactó con vehículo 2 en un cruce
-rcparte117.jpg#1	En un cruce vehículo 2 circulaba por su carril cuando vehículo 1 impactó al no respetar la señal de preferencia
-rcparte117.jpg#2	vehículo 1 no resepeta la señal de preferencia y colisiona con vehículo 2 en una intersección.
-rcparte118.jpg#0	vehículo 1 giraba a la izquierda y vehículo 2 colisionó en la parte de atrás al otro vehículo que circulaba en el mismo sentido y en el mismo carril
-rcparte118.jpg#1	vehículo 1 giraba a la izquierda y vehículo 2 impactó en la parte de atrás al vehículo 1 que circulaba en el mismo sentido y en el mismo carril
-rcparte118.jpg#2	vehículo 2 colisionó en la parte de atrás al vehículo 1 que circulaba en el mismo sentido y en el mismo carril
-rcparte119.jpg#0	vehículo 1 venía por la derecha en un cruce e impacta con vehículo 2 que giraba a la izquierda
-rcparte119.jpg#1	En un cruce, vehículo 2, que giraba a la izquierda, impacta con vehículo 1 que venía por la derecha 
-rcparte119.jpg#2	En una interseccíon colisionan vehículo 1 y vehículo 2 que giraba a la izquierda
-rcparte120.jpg#0	En una curva vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte120.jpg#1	vehículo 1 circulaba por una curva y es impactado por vehículo 2 cuando cambiaba de carril.
-rcparte120.jpg#2	vehículo 2 cambiaba de carril en una curva y colisiona contra vehículo 1.
-rcparte121.jpg#0	vehículo 2 venía por la izquierda en un cruce e impacta con vehículo 1 que giraba a la izquierda
-rcparte121.jpg#1	En un cruce, vehículo 1, que giraba a la izquierda, impacta con vehículo 2 que venía por la izquierda
-rcparte121.jpg#2	En una interseccíon colisionan vehículo 2 y vehículo 1 que giraba a la izquierda
-rcparte122.jpg#0	vehículo 1 no respetó la señal de preferencia e impactó con vehículo 2 en un cruce
-rcparte122.jpg#1	En un cruce vehículo 2 circulaba por su carril cuando vehículo 1 impactó al no respetar la señal de preferencia
-rcparte122.jpg#2	vehículo 1 no resepeta la señal de preferencia y colisiona con vehículo 2 en una intersección.
-rcparte123.jpg#0	vehículo 2 estaba estacionado cuando vehículo 1 intentaba estacionar e impactó con vehículo 2
-rcparte123.jpg#1	vehículo 1 estaba estacionado y es impactado por vehículo 2 que iba a estacionar
-rcparte123.jpg#2	En un estacionamiento, vehículo 1 estaba estacionado y es impactado por vehículo 2 que intentaba estacionar.
-rcparte124.jpg#0	En una curva, vehículo 2 colisionó en la parte de atrás al vehículo 1 que circulaba en el mismo carril.
-rcparte124.jpg#1	Mientras el vehículo 1 circulaba en su carril, vehículo 2 impactó por la parte trasera en una curva.
-rcparte124.jpg#2	En una curva, vehículo 1 circulaba en la misma dirección que vehículo 2, vehículo 2 impactó en la parte trasera de vehículo 1.
-rcparte125.jpg#0	vehículo 1 estaba parado por señal de preferencia y es impactado por vehículo 2
-rcparte125.jpg#1	vehículo 2 impacta a vehículo 1 cuando estaba parado por señal de preferencia.
-rcparte125.jpg#2	vehículo 1 estaba detenido por señal de preferencia cuando es impactado por vehículo 2.
-rcparte126.jpg#0   	vehículo 1 giraba a la izquierda y vehículo 2 impacta mientras también giraba a la izquierda
-rcparte126.jpg#1	vehículo 2 impacta con vehículo 1 mientras ambos giraban a la izquierda
-rcparte126.jpg#2	vehículo 1 giraba a la izquierda y vehículo 2 colisiona mientras también giraba a la izquierda
-rcparte127.jpg#0	vehículo 2 daba marcha atrás e iba a estacionar y es impactado por vehículo 1
-rcparte127.jpg#1	vehículo 1 impacta a vehículo 2 mientras este último daba marcha atrás e iba a estacionar
-rcparte127.jpg#2	vehículo 1 colisiona con vehículo 2 mientras daba marcha atrás e iba a estacionar
-rcparte128.jpg#0	vehículo 2 no respetó la señal de preferencia e impactó con vehículo 1 en un cruce
-rcparte128.jpg#1	En un cruce vehículo 1 circulaba por su carril cuando vehículo 2 impactó al no respetar la señal de preferencia
-rcparte128.jpg#2	vehículo 2 no resepeta la señal de preferencia y colisiona con vehículo 1 en una intersección.
-rcparte129.jpg#0	vehículo 2 giraba a la izquierda e impacta con vehículo 1 en un cruce
-rcparte129.jpg#1	vehículo 1 es impactado por el vehículo 1 que giraba a la izquierda en una intersección
-rcparte129.jpg#2	vehículo 2 giraba a la izquierda y colisiona con vehículo 1 en un cruce
-rcparte130.jpg#0	En un cruce vehículo 1 circulaba por su carril cuando vehículo 2 impactó al no respetar la señal de preferencia
-rcparte130.jpg#1	vehículo 2 no resepeta la señal de preferencia y colisiona con vehículo 1 en una intersección.
-rcparte130.jpg#2	vehículo 2 giraba a la izquierda e impacta con vehículo 1 en un cruce
-rcparte131.jpg#0	vehículo 1 estaba parado por señal de preferencia y es impactado por vehículo 2
-rcparte131.jpg#1	vehículo 2 impacta a vehículo 1 cuando estaba parado por señal de preferencia.
-rcparte131.jpg#2	vehículo 1 estaba detenido por señal de preferencia cuando es impactado por vehículo 2.
-rcparte132.jpg#0	vehículo 2 invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo 1
-rcparte132.jpg#1	vehículo 1 circulaba por su carril, cuando vehículo 2 invadió el carril contrario y colisionó con vehículo 1
-rcparte132.jpg#2	En una pista de doble vía, vehículo 2 invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo 1
-rcparte133.jpg#0	vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte133.jpg#1	vehículo 2 cambiaba de carril y colisionó con vehículo 1. 
-rcparte133.jpg#2	vehículo 1 circulaba en el mismo sentido y en carril diferente cuando vehículo 2 impactó mientras cambiaba de carril
-rcparte134.jpg#0	Mientras vehículo 1 circulaba por una plaza de sentido giratorio, vehículo 2 ingresaba a la plaza de sentido giratorio e impacta con vehículo 1
-rcparte134.jpg#1	vehículo 2 ingresaba a una plaza de sentido giratorio e impactó a vehículo 1 que andaba por una plaza de sentido giratorio.
-rcparte134.jpg#2	vehículo 2 entraba a una plaza de sentido giratorio e impactó a vehículo 1 que circulaba por una plaza de sentido giratorio.
-rcparte135.jpg#0	Mientras vehículo 1 circulaba por una plaza de sentido giratorio, vehículo 2 ingresaba a la plaza de sentido giratorio e impacta con vehículo 1
-rcparte135.jpg#1	vehículo 2 ingresaba a una plaza de sentido giratorio e impactó a vehículo 1 que andaba por una plaza de sentido giratorio.
-rcparte135.jpg#2	vehículo 2 entraba a una plaza de sentido giratorio e impactó a vehículo 1 que circulaba por una plaza de sentido giratorio.
-rcparte136.jpg#0	Mientras vehículo 1 circulaba por una plaza de sentido giratorio, vehículo 2 ingresaba a la plaza de sentido giratorio e impacta con vehículo 1
-rcparte136.jpg#1	vehículo 2 ingresaba a una plaza de sentido giratorio e impactó a vehículo 1 que andaba por una plaza de sentido giratorio.
-rcparte136.jpg#2	vehículo 2 entraba a una plaza de sentido giratorio e impactó a vehículo 1 que circulaba por una plaza de sentido giratorio.
-rcparte137.jpg#0	vehículo 2 salía de un estacionamiento e impactó con vehículo 1 que circulaba por su carril
-rcparte137.jpg#1	vehículo 1 circulaba por el lado derecho del carril y fue impactado por vehículo 2 que salía de estacionamiento 
-rcparte137.jpg#2	vehículo 2 cambiaba de carril al salir de estacionamiento e impactó con vehículo 1
-rcparte138.jpg#0	vehículo 2 salía de un estacionamiento e impactó con vehículo 1 que circulaba por su carril
-rcparte138.jpg#1	vehículo 1 circulaba por el lado derecho del carril y fue impactado por vehículo 2 que salía de estacionamiento 
-rcparte138.jpg#2	vehículo 2 cambiaba de carril al salir de estacionamiento e impactó con vehículo 1
-rcparte139.jpg#0	vehículo 1 invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo 2
-rcparte139.jpg#1	vehículo 2 circulaba por su carril, cuando vehículo 1 invadió el carril contrario y colisionó con vehículo 2
-rcparte139.jpg#2	En una pista de doble vía, vehículo 1 invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo 2
-rcparte140.jpg#0	vehículo 1 estaba estacionado cuando vehículo 2 intentaba estacionar e impactó con vehículo 1
-rcparte140.jpg#1	vehículo 1 estaba estacionado y es impactado por vehículo 2 que iba a estacionar
-rcparte140.jpg#2	En un estacionamiento, vehículo 1 estaba estacionado y es impactado por vehículo 2 que intentaba estacionar.
-rcparte141.jpg#0	vehículo 2 giraba a la izquierda e impacta con vehículo 1 en un cruce
-rcparte141.jpg#1	vehículo 1 es impactado por el vehículo 1 que giraba a la izquierda en una intersección
-rcparte141.jpg#2	vehículo 2 giraba a la izquierda y colisiona con vehículo 1 en un cruce
-rcparte142.jpg#0	vehículo 1 y vehículo 2 circulaban por una plaza de sentido giratorio e impactan
-rcparte142.jpg#1	vehículo 1 y vehículo 2 impactan por una plaza de sentido giratorio
-rcparte142.jpg#2	Colisión de vehículo 1 y vehículo 2 en una plaza de sentido giratorio
-rcparte143.jpg#0	Mientras vehículo 2 circulaba por una plaza de sentido giratorio, vehículo 1 ingresaba a la plaza de sentido giratorio e impacta con vehículo 2
-rcparte143.jpg#1	vehículo 1 ingresaba a una plaza de sentido giratorio e impactó a vehículo 2 que andaba por una plaza de sentido giratorio.
-rcparte143.jpg#2	vehículo 1 entraba a una plaza de sentido giratorio e impactó a vehículo 2 que circulaba por una plaza de sentido giratorio.
-rcparte144.jpg#0	vehículo 2 estaba parado y es impactado por vehículo 1.
-rcparte144.jpg#1	vehículo 1 impacta a vehículo 2 cuando estaba parado.
-rcparte144.jpg#2	vehículo 2 estaba estacionado cuando es impactado por vehículo 1.
-rcparte145.jpg#0	vehículo 1 salía de un estacionamiento e impactó con vehículo 2
-rcparte145.jpg#1	vehículo 2 circulaba por el lado derecho del carril y fue impactado por vehículo 1 que salía de estacionamiento 
-rcparte145.jpg#2	vehículo 1 salía de un estacionamiento y colisionó con vehículo 2
-rcparte146.jpg#0	vehículo 2 estaba estacionado cuando vehículo 1 intentaba estacionar e impactó con vehículo 2
-rcparte146.jpg#1	vehículo 2 estaba estacionado y es impactado por vehículo 1 que iba a estacionar
-rcparte146.jpg#2	En un estacionamiento, vehículo 2 estaba estacionado y es impactado por vehículo 1 que intentaba estacionar.
-rcparte147.jpg#0	vehículo 2 colisionó en la parte de atrás al vehículo 1 que circulaba en el mismo carril.
-rcparte147.jpg#1	Mientras el vehículo 1 circulaba en su carril, vehículo 2 impactó por la parte trasera
-rcparte147.jpg#2	vehículo 1 circulaba en la misma dirección que vehículo 2, vehículo 2 impactó en la parte trasera de vehículo 1.
-rcparte148.jpg#0	vehículo 1 venía por la izquierda en un cruce e impacta con vehículo 2
-rcparte148.jpg#1	En un cruce, vehículo 2 impacta con vehículo 1 que venía por la izquierda
-rcparte148.jpg#2	En una interseccíon colisionan vehículo 1 y vehículo 2
-rcparte149.jpg#0	Mientras vehículo 1 circulaba por una plaza de sentido giratorio, vehículo 2 ingresaba a la plaza de sentido giratorio e impacta con vehículo 1
-rcparte149.jpg#1	vehículo 2 ingresaba a una plaza de sentido giratorio e impactó a vehículo 1 que andaba por una plaza de sentido giratorio.
-rcparte149.jpg#2	vehículo 2 entraba a una plaza de sentido giratorio e impactó a vehículo 1 que circulaba por una plaza de sentido giratorio.
-rcparte150.jpg#0	vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte150.jpg#1	vehículo 2 cambiaba de carril y colisionó con vehículo 1. 
-rcparte150.jpg#2	vehículo 1 circulaba en el mismo sentido y en carril diferente cuando vehículo 2 impactó mientras cambiaba de carril
-rcparte151.jpg#0	vehículo 1 colisionó en la parte de atrás al vehículo 2 que circulaba en el mismo carril.
-rcparte151.jpg#1	Mientras el vehículo 2 circulaba en su carril, vehículo 1 impactó por la parte trasera
-rcparte151.jpg#2	vehículo 1 impactó en la parte trasera de vehículo 2
-rcparte152.jpg#0	vehículo 2 giraba a la derecha e impacta con vehículo 1 en una salida
-rcparte152.jpg#1	vehículo 1 mantenía su carril e impacta con vehículo 2 que giraba a la derecha en una salida
-rcparte152.jpg#2	vehículo 1 mantenía su carril y colapsa con vehículo 2 que giraba a la derecha en una salida
-rcparte153.jpg#0	vehículo 1 colisionó frontalmente con vehículo y B, la calle era doble sentido
-rcparte153.jpg#1	Vehículos A iba en sentido inverso a vehículo 2 e impactan frontalmente.
-rcparte153.jpg#2	Impacto frontal entre vehículo 1 y vehículo 2.
-rcparte154.jpg#0	vehículo 1 venía por la izquierda en un cruce e impacta con vehículo 2 que giraba a la derecha
-rcparte154.jpg#1	En un cruce, vehículo 2, que giraba a la derecha, impacta con vehículo 1 que venía por la izquierda
-rcparte154.jpg#2	En una interseccíon colisionan vehículo 1 y vehículo 2 que giraba a la derecha
-rcparte155.jpg#0	vehículo 1 salía de un estacionamiento e impactó con vehículo 2
-rcparte155.jpg#1	vehículo 2 circulaba por el lado derecho del carril y fue impactado por vehículo 1 que salía de estacionamiento 
-rcparte155.jpg#2	vehículo 1 salía de un estacionamiento y colisionó con vehículo 2
-rcparte156.jpg#0	vehículo 1 colisionó en la parte de atrás al vehículo 2 que circulaba en el mismo carril.
-rcparte156.jpg#1	Mientras el vehículo 2 circulaba en su carril, vehículo 1 impactó por la parte trasera
-rcparte156.jpg#2	vehículo 1 impactó en la parte trasera de vehículo 2
-rcparte157.jpg#0	Mientras vehículo 2 circulaba por una plaza de sentido giratorio, vehículo 1 ingresaba a la plaza de sentido giratorio e impacta con vehículo 2
-rcparte157.jpg#1	vehículo 1 ingresaba a una plaza de sentido giratorio e impactó a vehículo 2 que andaba por una plaza de sentido giratorio.
-rcparte157.jpg#2	vehículo 1 entraba a una plaza de sentido giratorio e impactó a vehículo 2 que circulaba por una plaza de sentido giratorio.
-rcparte158.jpg#0	Mientras vehículo 1 circulaba por una plaza de sentido giratorio, vehículo 2 ingresaba a la plaza de sentido giratorio e impacta con vehículo 1
-rcparte158.jpg#1	vehículo 2 ingresaba a una plaza de sentido giratorio e impactó a vehículo 1 que andaba por una plaza de sentido giratorio.
-rcparte158.jpg#2	vehículo 2 entraba a una plaza de sentido giratorio e impactó a vehículo 1 que circulaba por una plaza de sentido giratorio.
-rcparte159.jpg#0	vehículo 2 venía por la derecha en un cruce e impacta con vehículo 1
-rcparte159.jpg#1	En un cruce, vehículo 1 impacta con vehículo 2 que venía por la derecha 
-rcparte159.jpg#2	En una interseccíon colisionan vehículo 1 y vehículo 2.
-rcparte160.jpg#0	vehículo 1 colisionó en la parte de atrás al vehículo 2 que circulaba en el mismo carril.
-rcparte160.jpg#1	Mientras el vehículo 2 circulaba en su carril, vehículo 1 impactó por la parte trasera
-rcparte160.jpg#2	vehículo 1 impactó en la parte trasera de vehículo 2
-rcparte161.jpg#0	vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte161.jpg#1	vehículo 2 cambiaba de carril y colisionó con vehículo 1. 
-rcparte161.jpg#2	vehículo 1 circulaba en el mismo sentido y en carril diferente cuando vehículo 2 impactó mientras cambiaba de carril
-rcparte162.jpg#0	vehículo 1 giraba a la izquierda e impacta con vehículo 2 en una salida
-rcparte162.jpg#1	vehículo 2 mantenía su carril e impacta con vehículo 1 que giraba a la izquierda en una salida
-rcparte162.jpg#2	vehículo 2 mantenía su carril y colisiona con vehículo 1 que giraba a la izquierda en una salida
-rcparte163.jpg#0	vehículo 2 venía por la izquierda en un cruce e impacta con vehículo 1
-rcparte163.jpg#1	En un cruce, vehículo 1, impacta con vehículo 2 que venía por la izquierda
-rcparte163.jpg#2	En una interseccíon colisionan vehículo 1 y vehículo 2 que giraba a la izquierda
-rcparte164.jpg#0	Vehículos 1 y 2 que conducían en sentido perpendicular colisionan en una intersección de carreteras.
-rcparte164.jpg#1	En un cruce, vehículo 1, impacta con vehículo 2 que venía por la izquierda
-rcparte164.jpg#2	En una interseccíon colisionan vehículo 1 y vehículo 2 que giraba a la izquierda
-rcparte165.jpg#0	En una curva vehículo 2 cambiaba de carril e impacta contra vehículo 1.
-rcparte165.jpg#1	vehículo 1 circulaba por una curva y es impactado por vehículo 2 cuando cambiaba de carril.
-rcparte165.jpg#2	vehículo 2 cambiaba de carril en una curva y colisiona contra vehículo 1.
-rcparte166.jpg#0	vehículo 1 venía de la derecha en una entrada mientras que vehículo 2 impactó al vehículo 1
-rcparte166.jpg#1	vehículo 1 ingresaba por la derecha a la vía principal e impacta con vehículo 2, mientras que vehículo 2 circulaba por su carril.
-rcparte166.jpg#2	vehículo 2 circulaba por su carril e impactó con vehículo 1 que ingresaba por la derecha en una entrada
-rcparte167.jpg#0	vehículo 1 cambiaba de carril e impacta contra vehículo 2.
-rcparte167.jpg#1	vehículo 1 cambiaba de carril y colisionó con vehículo 2.
-rcparte167.jpg#2	vehículo 2 circulaba en el mismo sentido y en carril diferente cuando vehículo 1 impactó mientras cambiaba de carril
-rcparte500.jpg#0	vehículo 2 cambiaba de carril mientras vehículo 1 circulaba en el mismo sentido y en carril diferente.
-rcparte500.jpg#1	vehículo 2 impactó a vehículo 1 mientras cambiaba de carril.
-rcparte500.jpg#2	Mientras vehículo 1 circulaba en el mismo sentido, vehículo 2 cambiaba de carril e impactó con vehículo 1
-rcparte501.jpg#0	vehículo 1 entraba a una plaza de sentido giratorio e impactó a vehículo 2 que circulaba por una plaza de sentido giratorio.
-rcparte501.jpg#1	vehículo 1 ingresaba a una plaza de sentido giratorio e impactó a vehículo 2 que andaba por una plaza de sentido giratorio.
-rcparte501.jpg#2	Mientras vehículo 2 circulaba por una plaza de sentido giratorio, vehículo 1 ingresaba a la plaza de sentido giratorio e impacta con vehículo 2
-rcparte502.jpg#0	vehículo 2 colisionó en la parte de atrás al vehículo 1 que circulaba en el mismo carril.
-rcparte502.jpg#1	Mientras el vehículo 1 circulaba en su carril, vehículo 2 impactó por la parte trasera.
-rcparte502.jpg#2	vehículo 1 circulaba en la misma dirección que vehículo 2, vehículo 2 impactó en la parte trasera de vehículo 1.
-rcparte503.jpg#0	vehículo 2 no respetó señal de stop y colisionó con vehículo 1 en una intersección
-rcparte503.jpg#1	vehículo 2 impactó con vehículo 1 en una intersección, vehículo 2 no respetó señal de stop
-rcparte503.jpg#2	vehículo 1 circulaba por su carril mientras que vehículo 2, quien no respetó la señal de stop, impactó a vehículo 1 en una intersección 
-rcparte504.jpg#0	vehículo 2 venía de la derecha en una entrada mientras que vehículo 1 impactó al vehículo 2
-rcparte504.jpg#1	vehículo 1 circulaba por su carril e impactó con vehículo 2 que ingresaba por la derecha en una entrada
-rcparte504.jpg#2	vehículo 2 ingresaba por la derecha a la vía principal, mientras que vehículo 1 circulaba por su carril e impacta con vehículo 2.
-rcparte505.jpg#0	vehículo 1 circulaba por una curva, mientras que vehículo 2, que se encontraba en el mismo sentido en carril diferente, impactó a vehículo 1 
-rcparte505.jpg#1	vehículo 2 se encontraba en una curva e impactó a vehículo 1.
-rcparte505.jpg#2	vehículo 1 y vehículo 2 se encontraban en una curva y vehículo 2 impactó a vehículo 1
-rcparte506.jpg#0	vehículo 1 impactó a vehículo 2 en una plaza de sentido giratorio.
-rcparte506.jpg#1	vehículo 2 circulaba en una plaza de sentido giratorio, cuando el vehículo 1 lo impactó
-rcparte506.jpg#2	vehículo 1 y vehículo 2 circulaban en plaza de sentido giratorio, cuando vehículo 1 lo impactó por la parte trasera.
-rcparte507.jpg#0	vehículo 1 impactó a vehículo 2 en un cruce.
-rcparte507.jpg#1	vehículo 1 colisionó con vehículo 2 en una intersección
-rcparte507.jpg#2	vehículo 2 circulaba por una intersección mientras vehículo 1 impactó vehículo 2 al tratar de pasar el mismo cruce.
-rcparte508.jpg#0	vehículo 1 cambiaba de carril mientras vehículo 2 circulaba en el mismo sentido y en carril diferente.
-rcparte508.jpg#1	Mientras vehículo 2 circulaba en el mismo sentido, vehículo 1 cambiaba de carril e impactó con vehículo 2
-rcparte508.jpg#2	vehículo 1 impactó a vehículo 2 mientras cambiaba de carril
-rcparte509.jpg#0	vehículo 2 se encontraba en una curva e impactó a vehículo 1.
-rcparte509.jpg#1	vehículo 2 estaba en una curva e impactó a vehículo 1.
-rcparte509.jpg#2	vehículo 1 circulaba por una curva, mientras que vehículo 2, que se encontraba en el mismo sentido en carril diferente, impactó a vehículo 1
-rcparte510.jpg#0	vehículo 1 estaba parado debido a una señal de stop y B impacta con A por detrás
-rcparte510.jpg#1	vehículo 2 colisiona con vehículo 1 mientras vehículo 1 estaba detenido en una señal de stop.
-rcparte510.jpg#2	vehículo 1 detenido por una señal de stop y B impacta con A por atrás
-rcparte511.jpg#0	vehículo 1 venía de la derecha en una entrada mientras que vehículo 2 impactó al vehículo 1
-rcparte511.jpg#1	vehículo 1 circulaba por su carril e impactó con vehículo 2 que ingresaba por la derecha en una entrada
-rcparte511.jpg#2	vehículo 2 ingresaba por la derecha a la vía principal e impacta con vehículo 1, mientras que vehículo 1 circulaba por su carril.
-rcparte512.jpg#0	Mientras vehículo 2 circulaba por una plaza de sentido giratorio, vehículo 1 ingresaba a la plaza de sentido giratorio e impacta con vehículo 2
-rcparte512.jpg#1	vehículo 1 ingresaba a una plaza de sentido giratorio e impactó a vehículo 2 que andaba por una plaza de sentido giratorio.
-rcparte512.jpg#2	vehículo 1 entraba a una plaza de sentido giratorio e impactó a vehículo 2 que circulaba por una plaza de sentido giratorio.
-rcparte513.jpg#0	vehículo 1 venía de la derecha en una entrada mientras que vehículo 2 impactó al vehículo 1
-rcparte513.jpg#1	vehículo 1 ingresaba por la derecha a la vía principal e impacta con vehículo 2, mientras que vehículo 2 circulaba por su carril.
-rcparte513.jpg#2	vehículo 2 circulaba por su carril e impactó con vehículo 1 que ingresaba por la derecha en una entrada
-rcparte514.jpg#0	vehículo 1 salía de un estacionamiento e impactó con vehículo 2 que circulaba por su carril
-rcparte514.jpg#1	vehículo 2 circulaba por el lado derecho del carril y fue impactado por vehículo 1 que salía de estacionamiento 
-rcparte514.jpg#2	vehículo 1 cambiaba de carril al salir de estacionamiento e impactó con vehículo 2
-rcparte515.jpg#0	vehículo 2 invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo 1
-rcparte515.jpg#1	vehículo 1 circulaba por su carril, cuando B invadió el carril contrario y colisionó con vehículo 1
-rcparte515.jpg#2	En una pista de doble vía, vehículo 2 invadía la parte reservada a la circulación en sentido inverso e impacta con vehículo 1
-rcparte516.jpg#0	vehículo 1 estaba estacionado cuando vehículo 2 intentaba estacionar e impactó con vehículo 1
-rcparte516.jpg#1	vehículo 1 estaba estacionado y es impactado por vehículo 2 que iba a estacionar
-rcparte516.jpg#2	En un estacionamiento, vehículo 1 estaba estacionado y es impactado por vehículo 2 que intentaba estacionar.
-rcparte517.jpg#0	vehículo 1 se encontraba en una curva, cambió de carril e impactó a vehículo 2
-rcparte517.jpg#1	vehículo 1 cambió de carril en una curva e impactó a vehículo 2
-rcparte517.jpg#2	vehículo 2 circulaba por una curva, mientras que vehículo 1, cambió de carril e impactó a vehículo 2
-rcparte518.jpg#0	vehículo 1 no respetó la señal de stop e impactó a vehículo 2 en un cruce.
-rcparte518.jpg#1	vehículo 1 colisionó con vehículo 2 en una intersección, vehículo 1 no respetó la señal de stop
-rcparte518.jpg#2	vehículo 2 circulaba por una intersección mientras vehículo 1 impactó vehículo 2 al no respetar la señal de stop.
-rcparte519.jpg#0	vehículo 1 se encuentra detenido en estacionamiento y vehículo 2 impacta por detrás a vehículo 1
-rcparte519.jpg#1	vehículo 2 colisionó con vehículo 1 mientras estaba detenido en estacionamiento
-rcparte519.jpg#2	vehículo 1 estaba detenido en estacionamiento cuando vehículo 2 lo impacta por detrás
+rcparte50.jpg#1	Choque vehÃ­cular en carretera.
+rcparte50.jpg#2	Impacto vehÃ­cular en carretera.
+rcparte51.jpg#0	vehÃ­culo 1ltera de carril y colisiona a otro.
+rcparte51.jpg#1	VehÃ­culo cruza de carril e impacta sobre otro vehÃ­culo que se encontraba transitando.
+rcparte51.jpg#2	ColisiÃ³n por vehÃ­culo que trasgrede de carril.
+rcparte52.jpg#0	Accidente de vehÃ­culo 1 y vehÃ­culo 2 en intersecciÃ³n de vÃ­as.
+rcparte52.jpg#1	ColisiÃ³n vehicular de 1 y 2 en interseccion de calles.
+rcparte52.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan en interseccion de vias.
+rcparte53.jpg#0	vehÃ­culo 2 colsiona a vehÃ­culo 1 en via de sentido Ãºnico.
+rcparte53.jpg#1	En calle de sentido Ãºnico, vehÃ­culo 1 es impactado por detrÃ¡s por parte de vehÃ­culo 2.
+rcparte53.jpg#2	vehÃ­culo 2 embiste luneta de vehÃ­culo 1 en via de sentido Ãºnico.
+rcparte54.jpg#0	vehÃ­culo 1 se incorpora a plaza de sentido giratorio e impacta con vehÃ­culo 2 que circulaba por ella
+rcparte54.jpg#1	vehÃ­culo 1 y vehÃ­culo 2 colisionan en una plaza de sentido giratorio.
+rcparte54.jpg#2	vehÃ­culo 1 ingresa a una plaza de sentido giratorio e impacta a vehÃ­culo 2.
+rcparte55.jpg#0	vehÃ­culo 2 traspasa de carril e impacta sobre vehÃ­culo 2.
+rcparte55.jpg#1	En calle doble carril con sentido Ãºnico, vehÃ­culo 2 hace un cambio de carril y colisiona con vehÃ­culo 1.
+rcparte55.jpg#2	vehÃ­culo 1 es impactado por vehÃ­culo 2 cuando este Ãºltimo hace un cambio de carril.
+rcparte56.jpg#0	En intersecciÃ³n de vias vehÃ­culo 2 impacta a vehÃ­culo 1.
+rcparte56.jpg#1	vehÃ­culo 1 recibe impacto de vehÃ­culo 2 cuando ambos arriban a intersecciÃ³n de calles.
+rcparte56.jpg#2	ColisiÃ³n vehicular entre vehÃ­culo 1 y vehÃ­culo 2 en interseccÃ­on de vÃ­as.
+rcparte57.jpg#0	vehÃ­culo 2 impacta a vehÃ­culo 1 mientras ambos circulan por una plaza de sentido giratorio.
+rcparte57.jpg#1	En una plaza de sentido giratorio, vehÃ­culo 2 impacta a vehÃ­culo 1.
+rcparte57.jpg#2	vehÃ­culo 1 es impactado por vehÃ­culo 2 mientras ambos circulan por una plaza de sentido giratorio.
+rcparte58.jpg#0	vehÃ­culo 1 cruza de carril e impacta contra vehÃ­culo 2.
+rcparte58.jpg#1	vehÃ­culo 2 es impactado por vehÃ­culo 1 cuando este Ãºltimo hace un cambio de carril.
+rcparte58.jpg#2	vehÃ­culo 1 hace un giro a la derecha para cambiar de carril y colisiona contra vehÃ­culo 2 que venia circulando.
+rcparte59.jpg#0	vehÃ­culo 2 hace un giro a la derecha para tomar una calle lateral e impacta con vehÃ­culo 1 que venia de frente.
+rcparte59.jpg#1	vehÃ­culo 1 choca con vehÃ­culo 2 cuando este Ãºtlimo hace un giro a la derecha para tomar una calle lateral.
+rcparte59.jpg#2	vehÃ­culo 2 gira hacia la derecha e impacta con vehÃ­culo 1 que provenia en sentido contrario.
+rcparte60.jpg#0	En carretera doble sentido, vehÃ­culo 1 cruza e impacta sobre vehÃ­culo 2.
+rcparte60.jpg#1	vehÃ­culo 2 es embestido por vehÃ­culo 1 que venÃ­a en sentido contrario y se cruza.
+rcparte60.jpg#2	vehÃ­culo 1 realiza un cambio de carril y a contramano impacta contra vehÃ­culo 2.
+rcparte61.jpg#0	Choque frontal entre vehÃ­culo 1 y vehÃ­culo 2.
+rcparte61.jpg#1	Accidente vehÃ­cular con impacto frontal entre 1 y 2.
+rcparte61.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 impactan frontalmente.
+rcparte62.jpg#0	vehÃ­culo 1 realiza un giro a la izquierda para incorporarse a una via doble sentido pero imapacta con vehÃ­culo 2.
+rcparte62.jpg#1	vehÃ­culo 2 colisiona con vehÃ­culo 1 cuando este Ãºltimo hace un giro a la izquierda desde una calle lateral.
+rcparte62.jpg#2	vehÃ­culo 2 viene circulando por via de doble sentido cuando desde una calle lateral vehÃ­culo 1 hace un giro a la izquierda y se provoca la colisiÃ³n.
+rcparte63.jpg#0	vehÃ­culo 1 cruza de carril e impacta a vehÃ­culo 2 en una curva.
+rcparte63.jpg#1	Durante una curva, vehÃ­culo 1 se desvia de carril y choca a vehÃ­culo 2.
+rcparte63.jpg#2	vehÃ­culo 1 se desvia de carril y colisiona contra vehÃ­culo 2 durante una curva.
+rcparte64.jpg#0	vehÃ­culo 1 quiere abandonar la carretera y al girar hacia la derecha impacta contra vehÃ­culo 2.
+rcparte64.jpg#1	vehÃ­culo 1 toma salida de la carretera pero al cruzar de carril impacta contra vehÃ­culo 2.
+rcparte64.jpg#2	vehÃ­culo 2 mantiene su carril por la carretera pero es impactado por vehÃ­culo 1 que quiere tomar la salida.
+rcparte65.jpg#0	vehÃ­culo 1 se incorpora a la via e impacta sobre vehÃ­culo 2 que circulaba por ella.
+rcparte65.jpg#1	vehÃ­culo 1 embiste a vehÃ­culo 2 al incorporarse en una carretera desde un acceso lateral.
+rcparte65.jpg#2	vehÃ­culo 2 es chocado por vehÃ­culo 1 que ingresaba a la carretera.
+rcparte66.jpg#0	En camino sinuoso de doble sentido vehÃ­culo 2 cruza de carril y choca a vehÃ­culo 2.
+rcparte66.jpg#1	vehÃ­culo 1 cruza a carril contrario e impacta sobre vehÃ­culo 2 en camino sinuoso.
+rcparte66.jpg#2	En una curva de carretera con doble sentido, vehÃ­culo 1 cruza al carril contrario e impacta sobre el vehÃ­culo 2.
+rcparte67.jpg#0	En una curva de calle con doble sentido, vehÃ­culo 2 cruza de carril e impacta contra vehÃ­culo 1.
+rcparte67.jpg#1	vehÃ­culo 1 es chocado por vehÃ­culo 2 que venia de frente en una curva.
+rcparte67.jpg#2	Durante una curva, el vehÃ­culo 2 trasgrede su carril e impacta contra vehÃ­culo 1 que venÃ­a en mano contraria.
+rcparte68.jpg#0	En intersecciÃ³n de vias colisionan vehÃ­culo 1 y vehÃ­culo 2.
+rcparte68.jpg#1	vehÃ­culo 1 y vehÃ­culo 2 que conducÃ­an en sentido perpendicular colisionan en una intersecciÃ³n de carreteras.
+rcparte68.jpg#2	ColisÃ­on vehicular entre 1 y 2 en interseccion de carreteras.
+rcparte69.jpg#0	vehÃ­culo 1 impacta a vehÃ­culo 2 por detrÃ¡s en calle de sentido Ãºnico.
+rcparte69.jpg#1	vehÃ­culo 2 es impactado en parte trasera por vehÃ­culo 1 en una vÃ­a unidireccional.
+rcparte69.jpg#2	vehÃ­culo 1 choca por atrÃ¡s a vehÃ­culo 2.
+rcparte70.jpg#0	ColisiÃ³n entre vehÃ­culo 1 y vehÃ­culo 2 al disputar la misma plaza de estacionamiento.
+rcparte70.jpg#1	Al querer ocupar la misma plaza de estacionamiento, chocan vehÃ­culo 1 y vehÃ­culo 2.
+rcparte70.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan al querer ambos estacionar en la misma plaza vehicular.
+rcparte71.jpg#0	vehÃ­culo 1 hace un giro a la derecha para incorporarse a la via e impacta con vehÃ­culo 2 que transitaba por ella.
+rcparte71.jpg#1	vehÃ­culo 2 transita por una via y colisiona contra vehÃ­culo 1 que se incorpora a ella desde una calle lateral.
+rcparte71.jpg#2	Con un giro a la derecha vehÃ­culo 1 se incorpora a la calle pero impacta con vehÃ­culo 2 que circulaba por ella.
+rcparte72.jpg#0	vehÃ­culo 2 impacta a vehÃ­culo 1 por atrÃ¡s.
+rcparte72.jpg#1	vehÃ­culo 1 es chocado por detrÃ¡s por parte de vehÃ­culo 2.
+rcparte72.jpg#2	vehÃ­culo 2 colsiona con parte trasera de vehÃ­culo 1.
+rcparte73.jpg#0	En via de doble sentido, vehÃ­culo 1 cruza de carril y choca contra vehÃ­culo 2.
+rcparte73.jpg#1	vehÃ­culo 2 transita por calle con doble sentido cuando es impactado por vehÃ­culo 1 que venia en el sentido contrario.
+rcparte73.jpg#2	vehÃ­culo 1 cruza hacia carril de sentido contrario e impacta sobre vehÃ­culo 2.
+rcparte74.jpg#0	vehÃ­culo 1 se incorpora a plaza de sentido giratorio e impacta sobre vehÃ­culo 2 que circulaba en ella.
+rcparte74.jpg#1	vehÃ­culo 2 circulaba por plaza de sentido giratorio cuando es chocado por vehÃ­culo 1 que se incorpora a ella.
+rcparte74.jpg#2	Al querer incorporarse a la plaza de sentido giratorio, vehÃ­culo 1 colisiona con vehÃ­culo 2 que se encontraba en ella.
+rcparte75.jpg#0	vehÃ­culo 1 abandona plaza de estacionamiento e impacta a vehÃ­culo 2 que circulaba por la via.
+rcparte75.jpg#1	vehÃ­culo 1 se retira del sitio donde estaba estacionado pero impacta contra vehÃ­culo 2 que transitaba por su carril.
+rcparte75.jpg#2	vehÃ­culo 2 circula por su carril cuando desde la izquierda el vehÃ­culo 1 se incorpora al carril y colisionan.
+rcparte76.jpg#0	ColisiÃ³n entre vehÃ­culo 1 y vehÃ­culo 2 en disputa de la misma plaza de estacionamiento.
+rcparte76.jpg#1	Al querer ocupar la misma plaza de estacionamiento, chocan vehÃ­culo 1 y vehÃ­culo 2.
+rcparte76.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan al querer ambos estacionar en la misma plaza vehicular.
+rcparte77.jpg#0	vehÃ­culo 2 quiere tomar la salida de la carretera pero impacta con el vehÃ­culo 1 que realizaba la misma maniobra.
+rcparte77.jpg#1	Al querer abandonar la carretera el vehÃ­culo 2 choca con el vehÃ­culo 1 que se encontraba realizando la misma acciÃ³n.
+rcparte77.jpg#2	vehÃ­culo 2 dobla hacia la derecha al querer salir de la carretera pero colisiona con vehÃ­culo 1.
+rcparte78.jpg#0	vehÃ­culo 2 realiza un cambio de carril e impacta sobre vehÃ­culo 1.
+rcparte78.jpg#1	vehÃ­culo 1 circula por su carril cuando vehÃ­culo 2 hace un cambio de carril desde la derecha hacia la izquierda y lo impacta.
+rcparte78.jpg#2	vehÃ­culo 2 hace un cambio de carril de derecha a izquierda y colsiona con vehÃ­culo 1 que venia circulando por su carril.
+rcparte79.jpg#0	vehÃ­culo 2 realiza cambio de carril e impacta al vehÃ­culo 1.
+rcparte79.jpg#1	vehÃ­culo 2 realiza un giro a la izquierda para cambiar de carril pero impacta a vehÃ­culo 1 que circulaba por Ã©l.
+rcparte79.jpg#2	vehÃ­culo 1 es impactado por vehÃ­culo 2 cuando este Ãºltimo.
+rcparte80.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 vienen circulando por la misma via y colisionan queriendo cruzar en sentidos opuestos.
+rcparte80.jpg#1	Mientras circulan por la misma calle en paralelo, vehÃ­culo 1 y vehÃ­culo 2 chocan al querer doblar en sentidos opuestos.
+rcparte80.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 transitan por la misma via uno junto a otro y colisionan al querer realizar maniobras de giro en sentido cruzado.
+rcparte81.jpg#0	vehÃ­culo 2 gira hacia la derecha para realizar un cambio de carril pero impacta contra vehÃ­culo 1 que circulaba por Ã©l.
+rcparte81.jpg#1	vehÃ­culo 1 es impactado por vehÃ­culo 2 cuando este Ãºltimo realiza una maniobra de cambio de carril.
+rcparte81.jpg#2	vehÃ­culo 2 hace un cambio de carril de izquierda a derecha y colsiona con vehÃ­culo 1 que venia circulando por su carril.
+rcparte82.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 colisionan cuando este Ãºltimo realiza un giro hacia la izquierda para tomar calle lateral.
+rcparte82.jpg#1	vehÃ­culo 2 realiza un giro a la izquierda para tomar calle perpendicular y colisiona con vehÃ­culo 1. 
+rcparte82.jpg#2	En movimiento de giro hacia la izquierda, vehÃ­culo 2 impacta con vehÃ­culo 1.
+rcparte83.jpg#0	vehÃ­culo 1 hace un cambio de carril de izquierda a derecha y colsiona con vehÃ­culo 2 que venia circulando por su carril.
+rcparte83.jpg#1	vehÃ­culo 1 realiza cambio de carril e impacta al vehÃ­culo 2.
+rcparte83.jpg#2	vehÃ­culo 1 cruza de carril y choca contra vehÃ­culo 2.
+rcparte84.jpg#0	vehÃ­culo 2 hace un cambio de carril de izquierda a derecha y colsiona con vehÃ­culo 1 que venia circulando por su carril.
+rcparte84.jpg#1	vehÃ­culo 2 realiza cambio de carril e impacta al vehÃ­culo 1.
+rcparte84.jpg#2	vehÃ­culo 2 cruza de carril y choca contra vehÃ­culo 1.
+rcparte85.jpg#0	vehÃ­culo 1 cruza de carril y choca contra vehÃ­culo 2.
+rcparte85.jpg#1	vehÃ­culo 1 hace un cambio de carril y colsiona con vehÃ­culo 2 que venia circulando por su carril.
+rcparte85.jpg#2	vehÃ­culo 1 realiza cambio de carril e impacta al vehÃ­culo 2.
+rcparte86.jpg#0	En intersecciÃ³n vial vehÃ­culo 2 impacta a vehÃ­culo 1.
+rcparte86.jpg#1	vehÃ­culo 1 recibe un impacto lateral de vehÃ­culo 2 en una intersecciÃ³n vial.
+rcparte86.jpg#2	En una intersecciÃ­on vial el vehÃ­culo 2 embiste al lateral del vehÃ­culo 1.
+rcparte87.jpg#0	vehÃ­culo 1 cruza de carril y choca contra vehÃ­culo 2.
+rcparte87.jpg#1	vehÃ­culo 1 hace un cambio de carril y colsiona con vehÃ­culo 2 que venia circulando por su carril.
+rcparte87.jpg#2	vehÃ­culo 1 realiza un adelantamiento e impacta al vehÃ­culo 2.
+rcparte88.jpg#0	vehÃ­culo 2 realiza un giro a la izquierda para incorporarse a una via y colisiona con vehÃ­culo 1.
+rcparte88.jpg#1	vehÃ­culo 1 es impactado por vehÃ­culo 2 luego de que este Ãºltimo realizara un giro a su izquierda. 
+rcparte88.jpg#2	Al querer doblar a la izquierda hacia otra calle, el vehÃ­culo 2 impacta sobre el vehÃ­culo 1.
+rcparte89.jpg#0	vehÃ­culo 1 se encuentra detenido en un cruce de vÃ­as cuando es chocado por detrÃ¡s por el vehÃ­culo 2.
+rcparte89.jpg#1	vehÃ­culo 2 embiste por atrÃ¡s a vehÃ­culo 1 que se encontraba esperando en una esquina.
+rcparte89.jpg#2	vehÃ­culo 2 colisiona la parte trasera de vehÃ­culo 1 que se encontraba frenado en una intersecciÃ³n vial.
+rcparte90.jpg#0	vehÃ­culo 2 embiste por atrÃ¡s a vehÃ­culo 1.
+rcparte90.jpg#1	vehÃ­culo 2 colisiona la parte trasera de vehÃ­culo 1.
+rcparte90.jpg#2	vehÃ­culo 2 embiste por atrÃ¡s a vehÃ­culo 1.
+rcparte91.jpg#0	En una curva vehÃ­culo 1 cambiaba de carril e impacta contra vehÃ­culo 2.
+rcparte91.jpg#1	vehÃ­culo 2 circulaba por una curva y es impactado por vehÃ­culo 1 cuando cambiaba de carril.
+rcparte91.jpg#2	vehÃ­culo 1 cambiaba de carril en una curva y colisiona contra vehÃ­culo 2.
+rcparte92.jpg#0	vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte92.jpg#1	vehÃ­culo 2 cambiaba de carril y colisionÃ³ con vehÃ­culo 1. 
+rcparte92.jpg#2	vehÃ­culo 1 circulaba en el mismo sentido y en carril diferente cuando vehÃ­culo 2 impactÃ³ mientras cambiaba de carril
+rcparte93.jpg#0	vehÃ­culo 1 estaba parado en una seÃ±al de preferencia cuando vehÃ­culo 2 lo impacta por detrÃ¡s.
+rcparte93.jpg#1	vehÃ­culo 2 impacta a vehÃ­culo 1 que se encontraba parado por una seÃ±al de preferencia.
+rcparte93.jpg#2	vehÃ­culo 2 colisiona contra vehÃ­culo 1 que se encontraba parado en un cruce con una seÃ±al de preferencia.
+rcparte94.jpg#0	vehÃ­culo 1 estaba parado en una seÃ±al de preferencia cuando vehÃ­culo 2 lo impacta por detrÃ¡s.
+rcparte94.jpg#1	vehÃ­culo 2 impacta a vehÃ­culo 1 que se encontraba parado por una seÃ±al de preferencia.
+rcparte94.jpg#2	vehÃ­culo 2 colisiona contra vehÃ­culo 1 que se encontraba parado en un cruce con una seÃ±al de preferencia.
+rcparte95.jpg#0	vehÃ­culo 1 estaba parado en una seÃ±al de preferencia cuando vehÃ­culo 2 lo impacta por detrÃ¡s.
+rcparte95.jpg#1	vehÃ­culo 2 impacta a vehÃ­culo 1 que se encontraba parado por una seÃ±al de preferencia.
+rcparte95.jpg#2	vehÃ­culo 2 colisiona contra vehÃ­culo 1 que se encontraba parado en un cruce con una seÃ±al de preferencia.
+rcparte96.jpg#0	vehÃ­culo 1 circulaba por la vÃ­a mientras que vehÃ­culo 2 impactÃ³ cuando cambiaba de carril.
+rcparte96.jpg#1	vehÃ­culo 2 cambiaba de carril y colisiona con vehÃ­culo 1.
+rcparte96.jpg#2	vehÃ­culo 1 circulaba por la vÃ­a, mientras que vehÃ­culo 2 colisionÃ³ cuando cambiaba de carril.
+rcparte97.jpg#0	vehÃ­culo 1 colisionÃ³ frontalmente con vehÃ­culo 2, la calle era doble sentido.
+rcparte97.jpg#1	VehÃ­culo 1 iba en sentido inverso a vehÃ­culo 2 e impactan frontalmente.
+rcparte97.jpg#2	Impacto frontal entre vehÃ­culo 1 y vehÃ­culo 2.
+rcparte98.jpg#0	vehÃ­culo 1 entraba a una plaza de sentido giratorio e impacta sobre vehÃ­culo 2 que circulaba por la plaza de sentido giratorio.
+rcparte98.jpg#1	vehÃ­culo 2 circulaba por una plaza de sentido giratorio cuando vehÃ­culo 1 ingresa a la plaza e impacta.
+rcparte98.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 colisionan en una plaza de sentido giratorio.
+rcparte99.jpg#0	vehÃ­culo 1 no respetÃ³ la seÃ±al de preferencia e impactÃ³ con vehÃ­culo 2 en un cruce.
+rcparte99.jpg#1	En un cruce vehÃ­culo 2 circulaba por su carril cuando vehÃ­culo 1 impactÃ³ al no respetar la seÃ±al de preferencia.
+rcparte99.jpg#2	vehÃ­culo 1 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 2 en una intersecciÃ³n.
+rcparte100.jpg#0	vehÃ­culo 2 estaba parado y es impactado por vehÃ­culo 1.
+rcparte100.jpg#1	vehÃ­culo 1 impacta a vehÃ­culo 2 cuando estaba parado.
+rcparte100.jpg#2	vehÃ­culo 2 estaba estacionado cuando es impactado por vehÃ­culo 1.
+rcparte101.jpg#0	vehÃ­culo 2 estaba parado y es impactado por vehÃ­culo 1.
+rcparte101.jpg#1	vehÃ­culo 1 impacta a vehÃ­culo 2 cuando estaba parado.
+rcparte101.jpg#2	vehÃ­culo 2 estaba estacionado cuando es impactado por vehÃ­culo 1.
+rcparte102.jpg#0	vehÃ­culo 1 no respetÃ³ la seÃ±al de preferencia e impactÃ³ con vehÃ­culo 2 en un cruce.
+rcparte102.jpg#1	En un cruce vehÃ­culo 2 circulaba por su carril cuando vehÃ­culo 1 impactÃ³ al no respetar la seÃ±al de preferencia.
+rcparte102.jpg#2	vehÃ­culo 1 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 2 en una intersecciÃ³n.
+rcparte103.jpg#0	vehÃ­culo 1 colisionÃ³ frontalmente con vehÃ­culo 2, la calle era doble sentido.
+rcparte103.jpg#1	VehÃ­culos A iba en sentido inverso a vehÃ­culo 2 e impactan frontalmente.
+rcparte103.jpg#2	Impacto frontal entre vehÃ­culo 1 y vehÃ­culo 2.
+rcparte104.jpg#0	vehÃ­culo 2 entraba a una plaza de sentido giratorio e impacta sobre vehÃ­culo 1 que circulaba por la plaza de sentido giratorio.
+rcparte104.jpg#1	vehÃ­culo 1 circulaba por una plaza de sentido giratorio cuando vehÃ­culo 2 ingresa a la plaza e impacta.
+rcparte104.jpg#2	vehÃ­culo 2 y vehÃ­culo 1 colisionan en una plaza de sentido giratorio.
+rcparte105.jpg#0	vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte105.jpg#1	vehÃ­culo 2 cambiaba de carril y colisionÃ³ con vehÃ­culo 1.
+rcparte105.jpg#2	vehÃ­culo 1 circulaba en el mismo sentido y en el mismo carril que el vehÃ­culo 2, cuando este Ãºltimo impactÃ³ mientras cambiaba de carril.
+rcparte106.jpg#0	vehÃ­culo 2 venÃ­a por la derecha en un cruce e impacta con vehÃ­culo 1.
+rcparte106.jpg#1	En un cruce, vehÃ­culo 1 impacta con vehÃ­culo 2 que venÃ­a por la derecha.
+rcparte106.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 1 y vehÃ­culo 2.
+rcparte107.jpg#0	vehÃ­culo 1 no respetÃ³ la seÃ±al de preferencia e impactÃ³ con vehÃ­culo 2 en un cruce.
+rcparte107.jpg#1	En un cruce vehÃ­culo 2 circulaba por su carril cuando vehÃ­culo 1 impactÃ³ al no respetar la seÃ±al de preferencia.
+rcparte107.jpg#2	vehÃ­culo 1 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 2 en una intersecciÃ³n.
+rcparte108.jpg#0	vehÃ­culo 1 venÃ­a de la derecha en una entrada mientras que vehÃ­culo 2 impactÃ³ al vehÃ­culo 1.
+rcparte108.jpg#1	vehÃ­culo 1 ingresaba por la derecha a la vÃ­a principal e impacta con vehÃ­culo 2, mientras que vehÃ­culo 2 circulaba por su carril.
+rcparte108.jpg#2	vehÃ­culo 2 circulaba por su carril e impactÃ³ con vehÃ­culo 1 que ingresaba por la derecha en una entrada.
+rcparte109.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 circulaban por una plaza de sentido giratorio e impactan.
+rcparte109.jpg#1	vehÃ­culo 1 y vehÃ­culo 2 impactan por una plaza de sentido giratorio.
+rcparte109.jpg#2	ColisiÃ³n de vehÃ­culo 1 y vehÃ­culo 2 en una plaza de sentido giratorio.
+rcparte110.jpg#0	vehÃ­culo 1 no respetÃ³ la seÃ±al de preferencia e impactÃ³ con vehÃ­culo 2 en un cruce.
+rcparte110.jpg#1	En un cruce vehÃ­culo 2 circulaba por su carril cuando vehÃ­culo 1 impactÃ³ al no respetar la seÃ±al de preferencia.
+rcparte110.jpg#2	vehÃ­culo 1 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 2 en una intersecciÃ³n.
+rcparte111.jpg#0	vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte111.jpg#1	vehÃ­culo 2 cambiaba de carril y colisionÃ³ con vehÃ­culo 1.
+rcparte111.jpg#2	vehÃ­culo 1 circulaba en el mismo sentido y en carril diferente cuando vehÃ­culo 2 impactÃ³ mientras cambiaba de carril.
+rcparte112.jpg#0	vehÃ­culo 1 estaba parado por seÃ±al de preferencia y es impactado por vehÃ­culo 2.
+rcparte112.jpg#1	vehÃ­culo 2 impacta a vehÃ­culo 1 cuando estaba parado por seÃ±al de preferencia.
+rcparte112.jpg#2	vehÃ­culo 1 estaba detenido por seÃ±al de preferencia cuando es impactado por vehÃ­culo 2.
+rcparte113.jpg#0	En un cruce, vehÃ­culo 1 cambiaba de carril e impacta con vehÃ­culo 2 que tambiÃ©n cambiaba de carril.
+rcparte113.jpg#1	vehÃ­culo 1 cambiaba de carril e impacta con vehÃ­culo 2 que tambiÃ©n cambiaba de carril en un cruce.
+rcparte113.jpg#2	vehÃ­culo 1 cambiaba de carril e impacta con vehÃ­culo 2 que tambiÃ©n cambiaba de carril en una intersecciÃ³n
+rcparte114.jpg#0	vehÃ­culo 1 salÃ­a de un estacionamiento e impactÃ³ con vehÃ­culo 2 que circulaba por su carril
+rcparte114.jpg#1	vehÃ­culo 2 circulaba por el lado derecho del carril y fue impactado por vehÃ­culo 1 que salÃ­a de estacionamiento 
+rcparte114.jpg#2	vehÃ­culo 1 cambiaba de carril al salir de estacionamiento e impactÃ³ con vehÃ­culo 2
+rcparte115.jpg#0	vehÃ­culo 1 salÃ­a de un estacionamiento e impactÃ³ con vehÃ­culo 2 que circulaba por su carril
+rcparte115.jpg#1	vehÃ­culo 2 circulaba por el lado derecho del carril y fue impactado por vehÃ­culo 1 que salÃ­a de estacionamiento 
+rcparte115.jpg#2	vehÃ­culo 1 cambiaba de carril al salir de estacionamiento e impactÃ³ con vehÃ­culo 2
+rcparte116.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 circulaban por una plaza de sentido giratorio e impactan
+rcparte116.jpg#1	vehÃ­culo 1 y vehÃ­culo 2 impactan por una plaza de sentido giratorio
+rcparte116.jpg#2	ColisiÃ³n de vehÃ­culo 1 y vehÃ­culo 2 en una plaza de sentido giratorio
+rcparte117.jpg#0	vehÃ­culo 1 no respetÃ³ la seÃ±al de preferencia e impactÃ³ con vehÃ­culo 2 en un cruce
+rcparte117.jpg#1	En un cruce vehÃ­culo 2 circulaba por su carril cuando vehÃ­culo 1 impactÃ³ al no respetar la seÃ±al de preferencia
+rcparte117.jpg#2	vehÃ­culo 1 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 2 en una intersecciÃ³n.
+rcparte118.jpg#0	vehÃ­culo 1 giraba a la izquierda y vehÃ­culo 2 colisionÃ³ en la parte de atrÃ¡s al otro vehÃ­culo que circulaba en el mismo sentido y en el mismo carril
+rcparte118.jpg#1	vehÃ­culo 1 giraba a la izquierda y vehÃ­culo 2 impactÃ³ en la parte de atrÃ¡s al vehÃ­culo 1 que circulaba en el mismo sentido y en el mismo carril
+rcparte118.jpg#2	vehÃ­culo 2 colisionÃ³ en la parte de atrÃ¡s al vehÃ­culo 1 que circulaba en el mismo sentido y en el mismo carril
+rcparte119.jpg#0	vehÃ­culo 1 venÃ­a por la derecha en un cruce e impacta con vehÃ­culo 2 que giraba a la izquierda
+rcparte119.jpg#1	En un cruce, vehÃ­culo 2, que giraba a la izquierda, impacta con vehÃ­culo 1 que venÃ­a por la derecha 
+rcparte119.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 1 y vehÃ­culo 2 que giraba a la izquierda
+rcparte120.jpg#0	En una curva vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte120.jpg#1	vehÃ­culo 1 circulaba por una curva y es impactado por vehÃ­culo 2 cuando cambiaba de carril.
+rcparte120.jpg#2	vehÃ­culo 2 cambiaba de carril en una curva y colisiona contra vehÃ­culo 1.
+rcparte121.jpg#0	vehÃ­culo 2 venÃ­a por la izquierda en un cruce e impacta con vehÃ­culo 1 que giraba a la izquierda
+rcparte121.jpg#1	En un cruce, vehÃ­culo 1, que giraba a la izquierda, impacta con vehÃ­culo 2 que venÃ­a por la izquierda
+rcparte121.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 2 y vehÃ­culo 1 que giraba a la izquierda
+rcparte122.jpg#0	vehÃ­culo 1 no respetÃ³ la seÃ±al de preferencia e impactÃ³ con vehÃ­culo 2 en un cruce
+rcparte122.jpg#1	En un cruce vehÃ­culo 2 circulaba por su carril cuando vehÃ­culo 1 impactÃ³ al no respetar la seÃ±al de preferencia
+rcparte122.jpg#2	vehÃ­culo 1 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 2 en una intersecciÃ³n.
+rcparte123.jpg#0	vehÃ­culo 2 estaba estacionado cuando vehÃ­culo 1 intentaba estacionar e impactÃ³ con vehÃ­culo 2
+rcparte123.jpg#1	vehÃ­culo 1 estaba estacionado y es impactado por vehÃ­culo 2 que iba a estacionar
+rcparte123.jpg#2	En un estacionamiento, vehÃ­culo 1 estaba estacionado y es impactado por vehÃ­culo 2 que intentaba estacionar.
+rcparte124.jpg#0	En una curva, vehÃ­culo 2 colisionÃ³ en la parte de atrÃ¡s al vehÃ­culo 1 que circulaba en el mismo carril.
+rcparte124.jpg#1	Mientras el vehÃ­culo 1 circulaba en su carril, vehÃ­culo 2 impactÃ³ por la parte trasera en una curva.
+rcparte124.jpg#2	En una curva, vehÃ­culo 1 circulaba en la misma direcciÃ³n que vehÃ­culo 2, vehÃ­culo 2 impactÃ³ en la parte trasera de vehÃ­culo 1.
+rcparte125.jpg#0	vehÃ­culo 1 estaba parado por seÃ±al de preferencia y es impactado por vehÃ­culo 2
+rcparte125.jpg#1	vehÃ­culo 2 impacta a vehÃ­culo 1 cuando estaba parado por seÃ±al de preferencia.
+rcparte125.jpg#2	vehÃ­culo 1 estaba detenido por seÃ±al de preferencia cuando es impactado por vehÃ­culo 2.
+rcparte126.jpg#0   	vehÃ­culo 1 giraba a la izquierda y vehÃ­culo 2 impacta mientras tambiÃ©n giraba a la izquierda
+rcparte126.jpg#1	vehÃ­culo 2 impacta con vehÃ­culo 1 mientras ambos giraban a la izquierda
+rcparte126.jpg#2	vehÃ­culo 1 giraba a la izquierda y vehÃ­culo 2 colisiona mientras tambiÃ©n giraba a la izquierda
+rcparte127.jpg#0	vehÃ­culo 2 daba marcha atrÃ¡s e iba a estacionar y es impactado por vehÃ­culo 1
+rcparte127.jpg#1	vehÃ­culo 1 impacta a vehÃ­culo 2 mientras este Ãºltimo daba marcha atrÃ¡s e iba a estacionar
+rcparte127.jpg#2	vehÃ­culo 1 colisiona con vehÃ­culo 2 mientras daba marcha atrÃ¡s e iba a estacionar
+rcparte128.jpg#0	vehÃ­culo 2 no respetÃ³ la seÃ±al de preferencia e impactÃ³ con vehÃ­culo 1 en un cruce
+rcparte128.jpg#1	En un cruce vehÃ­culo 1 circulaba por su carril cuando vehÃ­culo 2 impactÃ³ al no respetar la seÃ±al de preferencia
+rcparte128.jpg#2	vehÃ­culo 2 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 1 en una intersecciÃ³n.
+rcparte129.jpg#0	vehÃ­culo 2 giraba a la izquierda e impacta con vehÃ­culo 1 en un cruce
+rcparte129.jpg#1	vehÃ­culo 1 es impactado por el vehÃ­culo 1 que giraba a la izquierda en una intersecciÃ³n
+rcparte129.jpg#2	vehÃ­culo 2 giraba a la izquierda y colisiona con vehÃ­culo 1 en un cruce
+rcparte130.jpg#0	En un cruce vehÃ­culo 1 circulaba por su carril cuando vehÃ­culo 2 impactÃ³ al no respetar la seÃ±al de preferencia
+rcparte130.jpg#1	vehÃ­culo 2 no resepeta la seÃ±al de preferencia y colisiona con vehÃ­culo 1 en una intersecciÃ³n.
+rcparte130.jpg#2	vehÃ­culo 2 giraba a la izquierda e impacta con vehÃ­culo 1 en un cruce
+rcparte131.jpg#0	vehÃ­culo 1 estaba parado por seÃ±al de preferencia y es impactado por vehÃ­culo 2
+rcparte131.jpg#1	vehÃ­culo 2 impacta a vehÃ­culo 1 cuando estaba parado por seÃ±al de preferencia.
+rcparte131.jpg#2	vehÃ­culo 1 estaba detenido por seÃ±al de preferencia cuando es impactado por vehÃ­culo 2.
+rcparte132.jpg#0	vehÃ­culo 2 invadÃ­a la parte reservada a la circulaciÃ³n en sentido inverso e impacta con vehÃ­culo 1
+rcparte132.jpg#1	vehÃ­culo 1 circulaba por su carril, cuando vehÃ­culo 2 invadiÃ³ el carril contrario y colisionÃ³ con vehÃ­culo 1
+rcparte132.jpg#2	En una pista de doble vÃ­a, vehÃ­culo 2 invadÃ­a la parte reservada a la circulaciÃ³n en sentido inverso e impacta con vehÃ­culo 1
+rcparte133.jpg#0	vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte133.jpg#1	vehÃ­culo 2 cambiaba de carril y colisionÃ³ con vehÃ­culo 1. 
+rcparte133.jpg#2	vehÃ­culo 1 circulaba en el mismo sentido y en carril diferente cuando vehÃ­culo 2 impactÃ³ mientras cambiaba de carril
+rcparte134.jpg#0	Mientras vehÃ­culo 1 circulaba por una plaza de sentido giratorio, vehÃ­culo 2 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 1
+rcparte134.jpg#1	vehÃ­culo 2 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que andaba por una plaza de sentido giratorio.
+rcparte134.jpg#2	vehÃ­culo 2 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que circulaba por una plaza de sentido giratorio.
+rcparte135.jpg#0	Mientras vehÃ­culo 1 circulaba por una plaza de sentido giratorio, vehÃ­culo 2 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 1
+rcparte135.jpg#1	vehÃ­culo 2 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que andaba por una plaza de sentido giratorio.
+rcparte135.jpg#2	vehÃ­culo 2 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que circulaba por una plaza de sentido giratorio.
+rcparte136.jpg#0	Mientras vehÃ­culo 1 circulaba por una plaza de sentido giratorio, vehÃ­culo 2 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 1
+rcparte136.jpg#1	vehÃ­culo 2 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que andaba por una plaza de sentido giratorio.
+rcparte136.jpg#2	vehÃ­culo 2 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que circulaba por una plaza de sentido giratorio.
+rcparte137.jpg#0	vehÃ­culo 2 salÃ­a de un estacionamiento e impactÃ³ con vehÃ­culo 1 que circulaba por su carril
+rcparte137.jpg#1	vehÃ­culo 1 circulaba por el lado derecho del carril y fue impactado por vehÃ­culo 2 que salÃ­a de estacionamiento 
+rcparte137.jpg#2	vehÃ­culo 2 cambiaba de carril al salir de estacionamiento e impactÃ³ con vehÃ­culo 1
+rcparte138.jpg#0	vehÃ­culo 2 salÃ­a de un estacionamiento e impactÃ³ con vehÃ­culo 1 que circulaba por su carril
+rcparte138.jpg#1	vehÃ­culo 1 circulaba por el lado derecho del carril y fue impactado por vehÃ­culo 2 que salÃ­a de estacionamiento 
+rcparte138.jpg#2	vehÃ­culo 2 cambiaba de carril al salir de estacionamiento e impactÃ³ con vehÃ­culo 1
+rcparte139.jpg#0	vehÃ­culo 1 invadÃ­a la parte reservada a la circulaciÃ³n en sentido inverso e impacta con vehÃ­culo 2
+rcparte139.jpg#1	vehÃ­culo 2 circulaba por su carril, cuando vehÃ­culo 1 invadiÃ³ el carril contrario y colisionÃ³ con vehÃ­culo 2
+rcparte139.jpg#2	En una pista de doble vÃ­a, vehÃ­culo 1 invadÃ­a la parte reservada a la circulaciÃ³n en sentido inverso e impacta con vehÃ­culo 2
+rcparte140.jpg#0	vehÃ­culo 1 estaba estacionado cuando vehÃ­culo 2 intentaba estacionar e impactÃ³ con vehÃ­culo 1
+rcparte140.jpg#1	vehÃ­culo 1 estaba estacionado y es impactado por vehÃ­culo 2 que iba a estacionar
+rcparte140.jpg#2	En un estacionamiento, vehÃ­culo 1 estaba estacionado y es impactado por vehÃ­culo 2 que intentaba estacionar.
+rcparte141.jpg#0	vehÃ­culo 2 giraba a la izquierda e impacta con vehÃ­culo 1 en un cruce
+rcparte141.jpg#1	vehÃ­culo 1 es impactado por el vehÃ­culo 1 que giraba a la izquierda en una intersecciÃ³n
+rcparte141.jpg#2	vehÃ­culo 2 giraba a la izquierda y colisiona con vehÃ­culo 1 en un cruce
+rcparte142.jpg#0	vehÃ­culo 1 y vehÃ­culo 2 circulaban por una plaza de sentido giratorio e impactan
+rcparte142.jpg#1	vehÃ­culo 1 y vehÃ­culo 2 impactan por una plaza de sentido giratorio
+rcparte142.jpg#2	ColisiÃ³n de vehÃ­culo 1 y vehÃ­culo 2 en una plaza de sentido giratorio
+rcparte143.jpg#0	Mientras vehÃ­culo 2 circulaba por una plaza de sentido giratorio, vehÃ­culo 1 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 2
+rcparte143.jpg#1	vehÃ­culo 1 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que andaba por una plaza de sentido giratorio.
+rcparte143.jpg#2	vehÃ­culo 1 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que circulaba por una plaza de sentido giratorio.
+rcparte144.jpg#0	vehÃ­culo 2 estaba parado y es impactado por vehÃ­culo 1.
+rcparte144.jpg#1	vehÃ­culo 1 impacta a vehÃ­culo 2 cuando estaba parado.
+rcparte144.jpg#2	vehÃ­culo 2 estaba estacionado cuando es impactado por vehÃ­culo 1.
+rcparte145.jpg#0	vehÃ­culo 1 salÃ­a de un estacionamiento e impactÃ³ con vehÃ­culo 2
+rcparte145.jpg#1	vehÃ­culo 2 circulaba por el lado derecho del carril y fue impactado por vehÃ­culo 1 que salÃ­a de estacionamiento 
+rcparte145.jpg#2	vehÃ­culo 1 salÃ­a de un estacionamiento y colisionÃ³ con vehÃ­culo 2
+rcparte146.jpg#0	vehÃ­culo 2 estaba estacionado cuando vehÃ­culo 1 intentaba estacionar e impactÃ³ con vehÃ­culo 2
+rcparte146.jpg#1	vehÃ­culo 2 estaba estacionado y es impactado por vehÃ­culo 1 que iba a estacionar
+rcparte146.jpg#2	En un estacionamiento, vehÃ­culo 2 estaba estacionado y es impactado por vehÃ­culo 1 que intentaba estacionar.
+rcparte147.jpg#0	vehÃ­culo 2 colisionÃ³ en la parte de atrÃ¡s al vehÃ­culo 1 que circulaba en el mismo carril.
+rcparte147.jpg#1	Mientras el vehÃ­culo 1 circulaba en su carril, vehÃ­culo 2 impactÃ³ por la parte trasera
+rcparte147.jpg#2	vehÃ­culo 1 circulaba en la misma direcciÃ³n que vehÃ­culo 2, vehÃ­culo 2 impactÃ³ en la parte trasera de vehÃ­culo 1.
+rcparte148.jpg#0	vehÃ­culo 1 venÃ­a por la izquierda en un cruce e impacta con vehÃ­culo 2
+rcparte148.jpg#1	En un cruce, vehÃ­culo 2 impacta con vehÃ­culo 1 que venÃ­a por la izquierda
+rcparte148.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 1 y vehÃ­culo 2
+rcparte149.jpg#0	Mientras vehÃ­culo 1 circulaba por una plaza de sentido giratorio, vehÃ­culo 2 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 1
+rcparte149.jpg#1	vehÃ­culo 2 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que andaba por una plaza de sentido giratorio.
+rcparte149.jpg#2	vehÃ­culo 2 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que circulaba por una plaza de sentido giratorio.
+rcparte150.jpg#0	vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte150.jpg#1	vehÃ­culo 2 cambiaba de carril y colisionÃ³ con vehÃ­culo 1. 
+rcparte150.jpg#2	vehÃ­culo 1 circulaba en el mismo sentido y en carril diferente cuando vehÃ­culo 2 impactÃ³ mientras cambiaba de carril
+rcparte151.jpg#0	vehÃ­culo 1 colisionÃ³ en la parte de atrÃ¡s al vehÃ­culo 2 que circulaba en el mismo carril.
+rcparte151.jpg#1	Mientras el vehÃ­culo 2 circulaba en su carril, vehÃ­culo 1 impactÃ³ por la parte trasera
+rcparte151.jpg#2	vehÃ­culo 1 impactÃ³ en la parte trasera de vehÃ­culo 2
+rcparte152.jpg#0	vehÃ­culo 2 giraba a la derecha e impacta con vehÃ­culo 1 en una salida
+rcparte152.jpg#1	vehÃ­culo 1 mantenÃ­a su carril e impacta con vehÃ­culo 2 que giraba a la derecha en una salida
+rcparte152.jpg#2	vehÃ­culo 1 mantenÃ­a su carril y colapsa con vehÃ­culo 2 que giraba a la derecha en una salida
+rcparte153.jpg#0	vehÃ­culo 1 colisionÃ³ frontalmente con vehÃ­culo y vehÃ­culo 2, la calle era doble sentido
+rcparte153.jpg#1	VehÃ­culos A iba en sentido inverso a vehÃ­culo 2 e impactan frontalmente.
+rcparte153.jpg#2	Impacto frontal entre vehÃ­culo 1 y vehÃ­culo 2.
+rcparte154.jpg#0	vehÃ­culo 1 venÃ­a por la izquierda en un cruce e impacta con vehÃ­culo 2 que giraba a la derecha
+rcparte154.jpg#1	En un cruce, vehÃ­culo 2, que giraba a la derecha, impacta con vehÃ­culo 1 que venÃ­a por la izquierda
+rcparte154.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 1 y vehÃ­culo 2 que giraba a la derecha
+rcparte155.jpg#0	vehÃ­culo 1 salÃ­a de un estacionamiento e impactÃ³ con vehÃ­culo 2
+rcparte155.jpg#1	vehÃ­culo 2 circulaba por el lado derecho del carril y fue impactado por vehÃ­culo 1 que salÃ­a de estacionamiento 
+rcparte155.jpg#2	vehÃ­culo 1 salÃ­a de un estacionamiento y colisionÃ³ con vehÃ­culo 2
+rcparte156.jpg#0	vehÃ­culo 1 colisionÃ³ en la parte de atrÃ¡s al vehÃ­culo 2 que circulaba en el mismo carril.
+rcparte156.jpg#1	Mientras el vehÃ­culo 2 circulaba en su carril, vehÃ­culo 1 impactÃ³ por la parte trasera
+rcparte156.jpg#2	vehÃ­culo 1 impactÃ³ en la parte trasera de vehÃ­culo 2
+rcparte157.jpg#0	Mientras vehÃ­culo 2 circulaba por una plaza de sentido giratorio, vehÃ­culo 1 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 2
+rcparte157.jpg#1	vehÃ­culo 1 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que andaba por una plaza de sentido giratorio.
+rcparte157.jpg#2	vehÃ­culo 1 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que circulaba por una plaza de sentido giratorio.
+rcparte158.jpg#0	Mientras vehÃ­culo 1 circulaba por una plaza de sentido giratorio, vehÃ­culo 2 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 1
+rcparte158.jpg#1	vehÃ­culo 2 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que andaba por una plaza de sentido giratorio.
+rcparte158.jpg#2	vehÃ­culo 2 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 1 que circulaba por una plaza de sentido giratorio.
+rcparte159.jpg#0	vehÃ­culo 2 venÃ­a por la derecha en un cruce e impacta con vehÃ­culo 1
+rcparte159.jpg#1	En un cruce, vehÃ­culo 1 impacta con vehÃ­culo 2 que venÃ­a por la derecha 
+rcparte159.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 1 y vehÃ­culo 2.
+rcparte160.jpg#0	vehÃ­culo 1 colisionÃ³ en la parte de atrÃ¡s al vehÃ­culo 2 que circulaba en el mismo carril.
+rcparte160.jpg#1	Mientras el vehÃ­culo 2 circulaba en su carril, vehÃ­culo 1 impactÃ³ por la parte trasera
+rcparte160.jpg#2	vehÃ­culo 1 impactÃ³ en la parte trasera de vehÃ­culo 2
+rcparte161.jpg#0	vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte161.jpg#1	vehÃ­culo 2 cambiaba de carril y colisionÃ³ con vehÃ­culo 1. 
+rcparte161.jpg#2	vehÃ­culo 1 circulaba en el mismo sentido y en carril diferente cuando vehÃ­culo 2 impactÃ³ mientras cambiaba de carril
+rcparte162.jpg#0	vehÃ­culo 1 giraba a la izquierda e impacta con vehÃ­culo 2 en una salida
+rcparte162.jpg#1	vehÃ­culo 2 mantenÃ­a su carril e impacta con vehÃ­culo 1 que giraba a la izquierda en una salida
+rcparte162.jpg#2	vehÃ­culo 2 mantenÃ­a su carril y colisiona con vehÃ­culo 1 que giraba a la izquierda en una salida
+rcparte163.jpg#0	vehÃ­culo 2 venÃ­a por la izquierda en un cruce e impacta con vehÃ­culo 1
+rcparte163.jpg#1	En un cruce, vehÃ­culo 1, impacta con vehÃ­culo 2 que venÃ­a por la izquierda
+rcparte163.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 1 y vehÃ­culo 2 que giraba a la izquierda
+rcparte164.jpg#0	VehÃ­culos 1 y 2 que conducÃ­an en sentido perpendicular colisionan en una intersecciÃ³n de carreteras.
+rcparte164.jpg#1	En un cruce, vehÃ­culo 1, impacta con vehÃ­culo 2 que venÃ­a por la izquierda
+rcparte164.jpg#2	En una interseccÃ­on colisionan vehÃ­culo 1 y vehÃ­culo 2 que giraba a la izquierda
+rcparte165.jpg#0	En una curva vehÃ­culo 2 cambiaba de carril e impacta contra vehÃ­culo 1.
+rcparte165.jpg#1	vehÃ­culo 1 circulaba por una curva y es impactado por vehÃ­culo 2 cuando cambiaba de carril.
+rcparte165.jpg#2	vehÃ­culo 2 cambiaba de carril en una curva y colisiona contra vehÃ­culo 1.
+rcparte166.jpg#0	vehÃ­culo 1 venÃ­a de la derecha en una entrada mientras que vehÃ­culo 2 impactÃ³ al vehÃ­culo 1
+rcparte166.jpg#1	vehÃ­culo 1 ingresaba por la derecha a la vÃ­a principal e impacta con vehÃ­culo 2, mientras que vehÃ­culo 2 circulaba por su carril.
+rcparte166.jpg#2	vehÃ­culo 2 circulaba por su carril e impactÃ³ con vehÃ­culo 1 que ingresaba por la derecha en una entrada
+rcparte167.jpg#0	vehÃ­culo 1 cambiaba de carril e impacta contra vehÃ­culo 2.
+rcparte167.jpg#1	vehÃ­culo 1 cambiaba de carril y colisionÃ³ con vehÃ­culo 2.
+rcparte167.jpg#2	vehÃ­culo 2 circulaba en el mismo sentido y en carril diferente cuando vehÃ­culo 1 impactÃ³ mientras cambiaba de carril
+rcparte500.jpg#0	vehÃ­culo 2 cambiaba de carril mientras vehÃ­culo 1 circulaba en el mismo sentido y en carril diferente.
+rcparte500.jpg#1	vehÃ­culo 2 impactÃ³ a vehÃ­culo 1 mientras cambiaba de carril.
+rcparte500.jpg#2	Mientras vehÃ­culo 1 circulaba en el mismo sentido, vehÃ­culo 2 cambiaba de carril e impactÃ³ con vehÃ­culo 1
+rcparte501.jpg#0	vehÃ­culo 1 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que circulaba por una plaza de sentido giratorio.
+rcparte501.jpg#1	vehÃ­culo 1 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que andaba por una plaza de sentido giratorio.
+rcparte501.jpg#2	Mientras vehÃ­culo 2 circulaba por una plaza de sentido giratorio, vehÃ­culo 1 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 2
+rcparte502.jpg#0	vehÃ­culo 2 colisionÃ³ en la parte de atrÃ¡s al vehÃ­culo 1 que circulaba en el mismo carril.
+rcparte502.jpg#1	Mientras el vehÃ­culo 1 circulaba en su carril, vehÃ­culo 2 impactÃ³ por la parte trasera.
+rcparte502.jpg#2	vehÃ­culo 1 circulaba en la misma direcciÃ³n que vehÃ­culo 2, vehÃ­culo 2 impactÃ³ en la parte trasera de vehÃ­culo 1.
+rcparte503.jpg#0	vehÃ­culo 2 no respetÃ³ seÃ±al de stop y colisionÃ³ con vehÃ­culo 1 en una intersecciÃ³n
+rcparte503.jpg#1	vehÃ­culo 2 impactÃ³ con vehÃ­culo 1 en una intersecciÃ³n, vehÃ­culo 2 no respetÃ³ seÃ±al de stop
+rcparte503.jpg#2	vehÃ­culo 1 circulaba por su carril mientras que vehÃ­culo 2, quien no respetÃ³ la seÃ±al de stop, impactÃ³ a vehÃ­culo 1 en una intersecciÃ³n 
+rcparte504.jpg#0	vehÃ­culo 2 venÃ­a de la derecha en una entrada mientras que vehÃ­culo 1 impactÃ³ al vehÃ­culo 2
+rcparte504.jpg#1	vehÃ­culo 1 circulaba por su carril e impactÃ³ con vehÃ­culo 2 que ingresaba por la derecha en una entrada
+rcparte504.jpg#2	vehÃ­culo 2 ingresaba por la derecha a la vÃ­a principal, mientras que vehÃ­culo 1 circulaba por su carril e impacta con vehÃ­culo 2.
+rcparte505.jpg#0	vehÃ­culo 1 circulaba por una curva, mientras que vehÃ­culo 2, que se encontraba en el mismo sentido en carril diferente, impactÃ³ a vehÃ­culo 1 
+rcparte505.jpg#1	vehÃ­culo 2 se encontraba en una curva e impactÃ³ a vehÃ­culo 1.
+rcparte505.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 se encontraban en una curva y vehÃ­culo 2 impactÃ³ a vehÃ­culo 1
+rcparte506.jpg#0	vehÃ­culo 1 impactÃ³ a vehÃ­culo 2 en una plaza de sentido giratorio.
+rcparte506.jpg#1	vehÃ­culo 2 circulaba en una plaza de sentido giratorio, cuando el vehÃ­culo 1 lo impactÃ³
+rcparte506.jpg#2	vehÃ­culo 1 y vehÃ­culo 2 circulaban en plaza de sentido giratorio, cuando vehÃ­culo 1 lo impactÃ³ por la parte trasera.
+rcparte507.jpg#0	vehÃ­culo 1 impactÃ³ a vehÃ­culo 2 en un cruce.
+rcparte507.jpg#1	vehÃ­culo 1 colisionÃ³ con vehÃ­culo 2 en una intersecciÃ³n
+rcparte507.jpg#2	vehÃ­culo 2 circulaba por una intersecciÃ³n mientras vehÃ­culo 1 impactÃ³ vehÃ­culo 2 al tratar de pasar el mismo cruce.
+rcparte508.jpg#0	vehÃ­culo 1 cambiaba de carril mientras vehÃ­culo 2 circulaba en el mismo sentido y en carril diferente.
+rcparte508.jpg#1	Mientras vehÃ­culo 2 circulaba en el mismo sentido, vehÃ­culo 1 cambiaba de carril e impactÃ³ con vehÃ­culo 2
+rcparte508.jpg#2	vehÃ­culo 1 impactÃ³ a vehÃ­culo 2 mientras cambiaba de carril
+rcparte509.jpg#0	vehÃ­culo 2 se encontraba en una curva e impactÃ³ a vehÃ­culo 1.
+rcparte509.jpg#1	vehÃ­culo 2 estaba en una curva e impactÃ³ a vehÃ­culo 1.
+rcparte509.jpg#2	vehÃ­culo 1 circulaba por una curva, mientras que vehÃ­culo 2, que se encontraba en el mismo sentido en carril diferente, impactÃ³ a vehÃ­culo 1
+rcparte510.jpg#0	vehÃ­culo 1 estaba parado debido a una seÃ±al de stop y vehÃ­culo 2 impacta con vehÃ­culo 1 por detrÃ¡s
+rcparte510.jpg#1	vehÃ­culo 2 colisiona con vehÃ­culo 1 mientras vehÃ­culo 1 estaba detenido en una seÃ±al de stop.
+rcparte510.jpg#2	vehÃ­culo 1 detenido por una seÃ±al de stop y vahÃ­culo 2 impacta con vahÃ­culo 1 por atrÃ¡s
+rcparte511.jpg#0	vehÃ­culo 1 venÃ­a de la derecha en una entrada mientras que vehÃ­culo 2 impactÃ³ al vehÃ­culo 1
+rcparte511.jpg#1	vehÃ­culo 1 circulaba por su carril e impactÃ³ con vehÃ­culo 2 que ingresaba por la derecha en una entrada
+rcparte511.jpg#2	vehÃ­culo 2 ingresaba por la derecha a la vÃ­a principal e impacta con vehÃ­culo 1, mientras que vehÃ­culo 1 circulaba por su carril.
+rcparte512.jpg#0	Mientras vehÃ­culo 2 circulaba por una plaza de sentido giratorio, vehÃ­culo 1 ingresaba a la plaza de sentido giratorio e impacta con vehÃ­culo 2
+rcparte512.jpg#1	vehÃ­culo 1 ingresaba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que andaba por una plaza de sentido giratorio.
+rcparte512.jpg#2	vehÃ­culo 1 entraba a una plaza de sentido giratorio e impactÃ³ a vehÃ­culo 2 que circulaba por una plaza de sentido giratorio.
+rcparte513.jpg#0	vehÃ­culo 1 venÃ­a de la derecha en una entrada mientras que vehÃ­culo 2 impactÃ³ al vehÃ­culo 1
+rcparte513.jpg#1	vehÃ­culo 1 ingresaba por la derecha a la vÃ­a principal e impacta con vehÃ­culo 2, mientras que vehÃ­culo 2 circulaba por su carril.
+rcparte513.jpg#2	vehÃ­culo 2 circulaba por su carril e impactÃ³ con vehÃ­culo 1 que ingresaba por la derecha en una entrada
+rcparte514.jpg#0	vehÃ­culo 1 salÃ­a de un estacionamiento e impactÃ³ con vehÃ­culo 2 que circulaba por su carril
+rcparte514.jpg#1	vehÃ­culo 2 circulaba por el lado derecho del carril y fue impactado por vehÃ­culo 1 que salÃ­a de estacionamiento 
+rcparte514.jpg#2	vehÃ­culo 1 cambiaba de carril al salir de estacionamiento e impactÃ³ con vehÃ­culo 2
+rcparte515.jpg#0	vehÃ­culo 2 invadÃ­a la parte reservada a la circulaciÃ³n en sentido inverso e impacta con vehÃ­culo 1
+rcparte515.jpg#1	vehÃ­culo 1 circulaba por su carril, cuando vehÃ­culo 2 invadiÃ³ el carril contrario y colisionÃ³ con vehÃ­culo 1
+rcparte515.jpg#2	En una pista de doble vÃ­a, vehÃ­culo 2 invadÃ­a la parte reservada a la circulaciÃ³n en sentido inverso e impacta con vehÃ­culo 1
+rcparte516.jpg#0	vehÃ­culo 1 estaba estacionado cuando vehÃ­culo 2 intentaba estacionar e impactÃ³ con vehÃ­culo 1
+rcparte516.jpg#1	vehÃ­culo 1 estaba estacionado y es impactado por vehÃ­culo 2 que iba a estacionar
+rcparte516.jpg#2	En un estacionamiento, vehÃ­culo 1 estaba estacionado y es impactado por vehÃ­culo 2 que intentaba estacionar.
+rcparte517.jpg#0	vehÃ­culo 1 se encontraba en una curva, cambiÃ³ de carril e impactÃ³ a vehÃ­culo 2
+rcparte517.jpg#1	vehÃ­culo 1 cambiÃ³ de carril en una curva e impactÃ³ a vehÃ­culo 2
+rcparte517.jpg#2	vehÃ­culo 2 circulaba por una curva, mientras que vehÃ­culo 1, cambiÃ³ de carril e impactÃ³ a vehÃ­culo 2
+rcparte518.jpg#0	vehÃ­culo 1 no respetÃ³ la seÃ±al de stop e impactÃ³ a vehÃ­culo 2 en un cruce.
+rcparte518.jpg#1	vehÃ­culo 1 colisionÃ³ con vehÃ­culo 2 en una intersecciÃ³n, vehÃ­culo 1 no respetÃ³ la seÃ±al de stop
+rcparte518.jpg#2	vehÃ­culo 2 circulaba por una intersecciÃ³n mientras vehÃ­culo 1 impactÃ³ vehÃ­culo 2 al no respetar la seÃ±al de stop.
+rcparte519.jpg#0	vehÃ­culo 1 se encuentra detenido en estacionamiento y vehÃ­culo 2 impacta por detrÃ¡s a vehÃ­culo 1
+rcparte519.jpg#1	vehÃ­culo 2 colisionÃ³ con vehÃ­culo 1 mientras estaba detenido en estacionamiento
+rcparte519.jpg#2	vehÃ­culo 1 estaba detenido en estacionamiento cuando vehÃ­culo 2 lo impacta por detrÃ¡s
